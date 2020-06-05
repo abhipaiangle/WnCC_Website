@@ -4,6 +4,7 @@ title: About Me
 author: Johnathan Smith
 image: assets/images/about/author.jpg
 signature: assets/images/about/signature.png
+permalink: /about/
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
