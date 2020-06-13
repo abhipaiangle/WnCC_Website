@@ -76,7 +76,8 @@ permalink: /soc/
           <img src="{{ site.baseurl }}/{{ item.image }}" alt="{{ item.title }}" class="img-fluid rounded w-100 d-block">
           <div class="hover-overlay">
             <div class="hover-content">
-              <a class="btn btn-light btn-sm" href="{{ item.url }}">{{ item.title }}</a>
+              <p>{{ item.title }}</p>
+              <a class="btn btn-light btn-sm" href="{{ item.url }}">view project</a>
             </div>
           </div>
         </div>
