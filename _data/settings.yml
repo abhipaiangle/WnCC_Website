@@ -10,7 +10,7 @@ address: 125/A, CA Commercial Area, California, USA
 menu:
 - {name: About, link: '/about/'}
 - {name: Blog, link: '/blog/'}
-- {name: Portfolio, link: '/portfolio/'}
+- {name: SoC, link: '/soc/'}
 - {name: Contact, link: '/contact/'}
 
 
@@ -146,89 +146,157 @@ services:
 
 
 #-------------------------------
-# Portfolio (Section and Page)
+# SoC (Section and Page)
 
-# Portfolio Home Section
-portfolio-home-items:
-  - image : "assets/images/portfolio/item-1.png"
-    url: "#"
-    
-  - image : "assets/images/portfolio/item-2.png"
-    url: "#"
-    
-  - image : "assets/images/portfolio/item-3.png"
-    url: "#"
-    
-  - image : "assets/images/portfolio/item-4.png"
-    url: "#"
-    
-  - image : "assets/images/portfolio/item-5.png"
-    url: "#"
+# About SoC Section
+about-soc-what-is-soc:
+  Seasons of Code is a programme launched by the WnCC, along the lines of GSoC without much greenery though. The incentive is similar to ITSP, based on the current form of it, the fundamental difference is that one can choose from the ideas offered by mentors who are senior undergrads, doctorate students or professors, and in some exceptional cases, startups. We plan to have a really long timeframe though, until the next winter extending this programme into a mentorship of sorts into the semester. It is not just about development by the way. We have some mentors ready to take up programmes regarding competitive coding and scientific computation too.
+about-soc-why-participate:
+  Seasons of Code gives you an amazing opportunity to learn and dive into coding under the mentorship of the best in our institute. Our list of projects gives you a chance to pick up and work on any topic you are enthusiastic about.
 
 
-# Portfolio Page
-portfolio-label:
+# SoC Home Section
+soc-home-items:
+  - image : "assets/images/soc/item-1.png"
+    url: "#"
+    
+  - image : "assets/images/soc/item-2.png"
+    url: "#"
+    
+  - image : "assets/images/soc/item-3.png"
+    url: "#"
+    
+  - image : "assets/images/soc/item-4.png"
+    url: "#"
+    
+  - image : "assets/images/soc/item-5.png"
+    url: "#"
+
+
+# SoC Page
+soc-label:
 - {
-    title : "UI/UX Design",
+    title : "ML",
     type : "design"
   }
 - {
-    title : "BRANDING",
+    title : "DEV",
     type : "branding"
   }
 - {
-    title : "ILLUSTRATION",
+    title : "IMAGE PROCESSING",
+    type : "illustration"
+  }
+- {
+    title : "DEEP LEARNING",
+    type : "illustration"
+  }
+- {
+    title : "SIGNAL PROCESSING",
+    type : "illustration"
+  }
+- {
+    title : "NEURAL NETWORKS",
+    type : "illustration"
+  }
+- {
+    title : "WEB DEV",
+    type : "illustration"
+  }
+- {
+    title : "ECONOMICS",
+    type : "illustration"
+  }
+- {
+    title : "NLP",
+    type : "illustration"
+  }
+- {
+    title : "SPEECH RECOGNITION",
+    type : "illustration"
+  }
+- {
+    title : "GRAPHICS",
+    type : "illustration"
+  }
+- {
+    title : "UI",
+    type : "illustration"
+  }
+- {
+    title : "AR",
+    type : "illustration"
+  }
+- {
+    title : "CC",
+    type : "illustration"
+  }
+- {
+    title : "NETWORK SECURITY",
+    type : "illustration"
+  }
+- {
+    title : "ANIMATION",
+    type : "illustration"
+  }
+- {
+    title : "AI",
+    type : "illustration"
+  }
+- {
+    title : "DATA SCIENCE",
     type : "illustration"
   }
 
-portfolio-items:
-  - image : "assets/images/portfolio/item-1.png"
+
+soc-items:
+  - image : "assets/images/soc/item-1.png"
     url: "#"
-    portfolio-type:
+    soc-type:
      - type: "design"
      - type: "illustration"
       
-  - image : "assets/images/portfolio/item-2.png"
+  - image : "assets/images/soc/item-2.png"
     url: "#"
-    portfolio-type:
+    soc-type:
       - type: "branding"
       
-  - image : "assets/images/portfolio/item-3.png"
+  - image : "assets/images/soc/item-3.png"
     url: "#"
-    portfolio-type:
+    soc-type:
       - type: "illustration"
       
-  - image : "assets/images/portfolio/item-6.png"
+  - image : "assets/images/soc/item-6.png"
     url: "#"
-    portfolio-type:
+    soc-type:
       - type: "design"
       - type: "branding"
       
-  - image : "assets/images/portfolio/item-8.png"
+  - image : "assets/images/soc/item-8.png"
     url: "#"
-    portfolio-type:
+    soc-type:
       - type: "illustration"
       
-  - image : "assets/images/portfolio/item-5.png"
+  - image : "assets/images/soc/item-5.png"
     url: "#"
-    portfolio-type:
+    soc-type:
       - type: "design"
       
-  - image : "assets/images/portfolio/item-1.png"
+  - image : "assets/images/soc/item-1.png"
     url: "#"
-    portfolio-type:
+    soc-type:
       - type: "branding"
       
-  - image : "assets/images/portfolio/item-3.png"
+  - image : "assets/images/soc/item-3.png"
     url: "#"
-    portfolio-type:
+    soc-type:
       - type: "design"
       - type: "illustration"
       - type: "branding"
       
-  - image : "assets/images/portfolio/item-7.png"
+  - image : "assets/images/soc/item-7.png"
     url: "#"
-    portfolio-type:
+    soc-type:
       - type: "illustration"
 
 
