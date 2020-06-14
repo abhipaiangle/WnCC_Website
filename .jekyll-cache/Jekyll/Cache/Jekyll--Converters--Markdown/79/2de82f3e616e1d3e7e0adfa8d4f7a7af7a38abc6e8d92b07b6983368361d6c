@@ -1,4 +1,4 @@
-I"�k<!-- about-soc -->
+I"Rs<!-- about-soc -->
 <section class="section">
   <div class="container">
     <div class="row">
@@ -138,11 +138,11 @@
           <img src="/assets/images/soc/item-1.png" alt="Why The Hype Around GANs" class="img-fluid rounded w-100 d-block" />
           <div class="hover-overlay">
             <div class="hover-content">
-              <p>Why The Hype Around GANs</p>
               <a class="btn btn-light btn-sm" href="https://www.wncc-iitb.org/soc_projects/44-akshit-gan.html">view project</a>
             </div>
           </div>
         </div>
+         <a href="https://www.wncc-iitb.org/soc_projects/44-akshit-gan.html">Why The Hype Around GANs</a>
       </div>
       
       <div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[&quot;Development&quot;,&quot;Image Processing&quot;,&quot;Machine Learning&quot;]">
@@ -150,11 +150,11 @@
           <img src="/assets/images/soc/item-2.png" alt="3D reconstruction using 2D images" class="img-fluid rounded w-100 d-block" />
           <div class="hover-overlay">
             <div class="hover-content">
-              <p>3D reconstruction using 2D images</p>
               <a class="btn btn-light btn-sm" href="https://www.wncc-iitb.org/soc_projects/45-siddesh-3d-reconstruction.html">view project</a>
             </div>
           </div>
         </div>
+         <a href="https://www.wncc-iitb.org/soc_projects/45-siddesh-3d-reconstruction.html">3D reconstruction using 2D images</a>
       </div>
       
       <div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[&quot;Development&quot;,&quot;Image Processing&quot;,&quot;Machine Learning&quot;,&quot;Deep Learning&quot;]">
@@ -162,11 +162,11 @@
           <img src="/assets/images/soc/item-3.png" alt="Computer Vision Workbench" class="img-fluid rounded w-100 d-block" />
           <div class="hover-overlay">
             <div class="hover-content">
-              <p>Computer Vision Workbench</p>
               <a class="btn btn-light btn-sm" href="https://www.wncc-iitb.org/soc_projects/46-vishal-cv-workbench.html">view project</a>
             </div>
           </div>
         </div>
+         <a href="https://www.wncc-iitb.org/soc_projects/46-vishal-cv-workbench.html">Computer Vision Workbench</a>
       </div>
       
       <div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[&quot;Machine Learning&quot;]">
@@ -174,11 +174,11 @@
           <img src="/assets/images/soc/item-4.png" alt="3D Object Classification using Mesh Neural Network" class="img-fluid rounded w-100 d-block" />
           <div class="hover-overlay">
             <div class="hover-content">
-              <p>3D Object Classification using Mesh Neural Network</p>
               <a class="btn btn-light btn-sm" href="https://www.wncc-iitb.org/soc_projects/47-sudhir-neural.html">view project</a>
             </div>
           </div>
         </div>
+         <a href="https://www.wncc-iitb.org/soc_projects/47-sudhir-neural.html">3D Object Classification using Mesh Neural Network</a>
       </div>
       
       <div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[&quot;Machine Learning&quot;,&quot;Signal Processing&quot;,&quot;Neural Networks&quot;]">
@@ -186,11 +186,11 @@
           <img src="/assets/images/soc/item-5.png" alt="Lossless high entropy compression algorithm" class="img-fluid rounded w-100 d-block" />
           <div class="hover-overlay">
             <div class="hover-content">
-              <p>Lossless high entropy compression algorithm</p>
               <a class="btn btn-light btn-sm" href="#">view project</a>
             </div>
           </div>
         </div>
+         <a href="#">Lossless high entropy compression algorithm</a>
       </div>
       
       <div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[&quot;Web Development&quot;]">
@@ -198,11 +198,11 @@
           <img src="/assets/images/soc/item-6.png" alt="Tools for Web Development" class="img-fluid rounded w-100 d-block" />
           <div class="hover-overlay">
             <div class="hover-content">
-              <p>Tools for Web Development</p>
               <a class="btn btn-light btn-sm" href="https://www.wncc-iitb.org/soc_projects/50-pritam-kumar-webdev.html">view project</a>
             </div>
           </div>
         </div>
+         <a href="https://www.wncc-iitb.org/soc_projects/50-pritam-kumar-webdev.html">Tools for Web Development</a>
       </div>
       
       <div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[&quot;Machine Learnins&quot;]">
@@ -210,11 +210,11 @@
           <img src="/assets/images/soc/item-7.png" alt="ML GYM" class="img-fluid rounded w-100 d-block" />
           <div class="hover-overlay">
             <div class="hover-content">
-              <p>ML GYM</p>
               <a class="btn btn-light btn-sm" href="https://www.wncc-iitb.org/soc_projects/49-lalit-mlgym.html">view project</a>
             </div>
           </div>
         </div>
+         <a href="https://www.wncc-iitb.org/soc_projects/49-lalit-mlgym.html">ML GYM</a>
       </div>
       
       <div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[&quot;Development&quot;,&quot;Web Development&quot;,&quot;Economics&quot;]">
@@ -222,11 +222,11 @@
           <img src="/assets/images/soc/item-8.png" alt="Strategy Wars [Online]" class="img-fluid rounded w-100 d-block" />
           <div class="hover-overlay">
             <div class="hover-content">
-              <p>Strategy Wars [Online]</p>
               <a class="btn btn-light btn-sm" href="https://www.wncc-iitb.org/soc_projects/51-dhairya-strategywars.html">view project</a>
             </div>
           </div>
         </div>
+         <a href="https://www.wncc-iitb.org/soc_projects/51-dhairya-strategywars.html">Strategy Wars [Online]</a>
       </div>
       
       <div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[&quot;Web Develppment&quot;]">
@@ -234,11 +234,11 @@
           <img src="/assets/images/soc/item-9.png" alt="Super Shenron" class="img-fluid rounded w-100 d-block" />
           <div class="hover-overlay">
             <div class="hover-content">
-              <p>Super Shenron</p>
               <a class="btn btn-light btn-sm" href="https://www.wncc-iitb.org/soc_projects/55-bharti-supershenron.html">view project</a>
             </div>
           </div>
         </div>
+         <a href="https://www.wncc-iitb.org/soc_projects/55-bharti-supershenron.html">Super Shenron</a>
       </div>
       
       <div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[&quot;Image Processing&quot;,&quot;Machine Learning&quot;,&quot;Development&quot;]">
@@ -246,11 +246,11 @@
           <img src="/assets/images/soc/item-10.gif" alt="Gestures for 3D space" class="img-fluid rounded w-100 d-block" />
           <div class="hover-overlay">
             <div class="hover-content">
-              <p>Gestures for 3D space</p>
               <a class="btn btn-light btn-sm" href="https://www.wncc-iitb.org/soc_projects/56-pagar-gestures.html">view project</a>
             </div>
           </div>
         </div>
+         <a href="https://www.wncc-iitb.org/soc_projects/56-pagar-gestures.html">Gestures for 3D space</a>
       </div>
       
       <div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[&quot;Development&quot;,&quot;Machine Learning&quot;]">
@@ -258,11 +258,11 @@
           <img src="/assets/images/soc/item-11.png" alt="Food Recommendation through Machine Learning" class="img-fluid rounded w-100 d-block" />
           <div class="hover-overlay">
             <div class="hover-content">
-              <p>Food Recommendation through Machine Learning</p>
               <a class="btn btn-light btn-sm" href="https://www.wncc-iitb.org/soc_projects/52-anuj-food.html">view project</a>
             </div>
           </div>
         </div>
+         <a href="https://www.wncc-iitb.org/soc_projects/52-anuj-food.html">Food Recommendation through Machine Learning</a>
       </div>
       
       <div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[&quot;Development&quot;,&quot;Machine Learning&quot;,&quot;Natural Language Processing&quot;,&quot;Speech Recognition&quot;]">
@@ -270,11 +270,11 @@
           <img src="/assets/images/soc/item-12.png" alt="Conversational Chatbot" class="img-fluid rounded w-100 d-block" />
           <div class="hover-overlay">
             <div class="hover-content">
-              <p>Conversational Chatbot</p>
               <a class="btn btn-light btn-sm" href="https://www.wncc-iitb.org/soc_projects/53-Ishwaryaa-chatbot.html">view project</a>
             </div>
           </div>
         </div>
+         <a href="https://www.wncc-iitb.org/soc_projects/53-Ishwaryaa-chatbot.html">Conversational Chatbot</a>
       </div>
       
       <div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[&quot;Image Processing&quot;,&quot;Machine Learning&quot;]">
@@ -282,11 +282,11 @@
           <img src="/assets/images/soc/item-13.png" alt="(Un)structured" class="img-fluid rounded w-100 d-block" />
           <div class="hover-overlay">
             <div class="hover-content">
-              <p>(Un)structured</p>
               <a class="btn btn-light btn-sm" href="https://www.wncc-iitb.org/soc_projects/57-gagan-unstructured.html">view project</a>
             </div>
           </div>
         </div>
+         <a href="https://www.wncc-iitb.org/soc_projects/57-gagan-unstructured.html">(Un)structured</a>
       </div>
       
       <div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[&quot;Graphics&quot;,&quot;User Interface&quot;]">
@@ -294,11 +294,11 @@
           <img src="/assets/images/soc/item-14.png" alt="Road Network 3D Rendering using OpenGL" class="img-fluid rounded w-100 d-block" />
           <div class="hover-overlay">
             <div class="hover-content">
-              <p>Road Network 3D Rendering using OpenGL</p>
               <a class="btn btn-light btn-sm" href="https://www.wncc-iitb.org/soc_projects/58-debabrata-road-net.html">view project</a>
             </div>
           </div>
         </div>
+         <a href="https://www.wncc-iitb.org/soc_projects/58-debabrata-road-net.html">Road Network 3D Rendering using OpenGL</a>
       </div>
       
       <div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[&quot;Augmented Reality&quot;]">
@@ -306,11 +306,11 @@
           <img src="/assets/images/soc/item-15.png" alt="Virtual Keyboard" class="img-fluid rounded w-100 d-block" />
           <div class="hover-overlay">
             <div class="hover-content">
-              <p>Virtual Keyboard</p>
               <a class="btn btn-light btn-sm" href="https://www.wncc-iitb.org/soc_projects/54-manan-keyboard.html">view project</a>
             </div>
           </div>
         </div>
+         <a href="https://www.wncc-iitb.org/soc_projects/54-manan-keyboard.html">Virtual Keyboard</a>
       </div>
       
       <div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[&quot;Machine Learning&quot;]">
@@ -318,11 +318,11 @@
           <img src="/assets/images/soc/item-16.png" alt="Introduction to Kaggle and Machine Learning" class="img-fluid rounded w-100 d-block" />
           <div class="hover-overlay">
             <div class="hover-content">
-              <p>Introduction to Kaggle and Machine Learning</p>
               <a class="btn btn-light btn-sm" href="https://www.wncc-iitb.org/soc_projects/60-yash-kaggle.html">view project</a>
             </div>
           </div>
         </div>
+         <a href="https://www.wncc-iitb.org/soc_projects/60-yash-kaggle.html">Introduction to Kaggle and Machine Learning</a>
       </div>
       
       <div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[&quot;Web Development&quot;]">
@@ -330,11 +330,11 @@
           <img src="/assets/images/soc/item-17.png" alt="Krittika Website" class="img-fluid rounded w-100 d-block" />
           <div class="hover-overlay">
             <div class="hover-content">
-              <p>Krittika Website</p>
               <a class="btn btn-light btn-sm" href="https://www.wncc-iitb.org/soc_projects/62-chaitanya-krittika.html">view project</a>
             </div>
           </div>
         </div>
+         <a href="https://www.wncc-iitb.org/soc_projects/62-chaitanya-krittika.html">Krittika Website</a>
       </div>
       
       <div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[&quot;Competitive Coding&quot;]">
@@ -342,11 +342,11 @@
           <img src="/assets/images/soc/item-18.png" alt="Competitive coding" class="img-fluid rounded w-100 d-block" />
           <div class="hover-overlay">
             <div class="hover-content">
-              <p>Competitive coding</p>
               <a class="btn btn-light btn-sm" href="https://www.wncc-iitb.org/soc_projects/43-pratyush-competitive-coding.html">view project</a>
             </div>
           </div>
         </div>
+         <a href="https://www.wncc-iitb.org/soc_projects/43-pratyush-competitive-coding.html">Competitive coding</a>
       </div>
       
       <div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[&quot;Graphics&quot;]">
@@ -354,11 +354,11 @@
           <img src="/assets/images/soc/item-19.png" alt="Planet/Atmosphere Renderer using OpenGL" class="img-fluid rounded w-100 d-block" />
           <div class="hover-overlay">
             <div class="hover-content">
-              <p>Planet/Atmosphere Renderer using OpenGL</p>
               <a class="btn btn-light btn-sm" href="https://www.wncc-iitb.org/soc_projects/64-rwitaban-computer-graphics.html">view project</a>
             </div>
           </div>
         </div>
+         <a href="https://www.wncc-iitb.org/soc_projects/64-rwitaban-computer-graphics.html">Planet/Atmosphere Renderer using OpenGL</a>
       </div>
       
       <div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[&quot;Machine Learning&quot;,&quot;Network Security&quot;]">
@@ -366,11 +366,11 @@
           <img src="/assets/images/soc/item-20.png" alt="Intrusion Detection system" class="img-fluid rounded w-100 d-block" />
           <div class="hover-overlay">
             <div class="hover-content">
-              <p>Intrusion Detection system</p>
               <a class="btn btn-light btn-sm" href="https://www.wncc-iitb.org/soc_projects/42-rahul-intrusion-detection.html">view project</a>
             </div>
           </div>
         </div>
+         <a href="https://www.wncc-iitb.org/soc_projects/42-rahul-intrusion-detection.html">Intrusion Detection system</a>
       </div>
       
       <div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[&quot;Development&quot;,&quot;Image Processing&quot;,&quot;Machine Learning&quot;]">
@@ -378,11 +378,11 @@
           <img src="/assets/images/soc/item-21.png" alt="Rubik's cube solver" class="img-fluid rounded w-100 d-block" />
           <div class="hover-overlay">
             <div class="hover-content">
-              <p>Rubik's cube solver</p>
               <a class="btn btn-light btn-sm" href="https://www.wncc-iitb.org/soc_projects/63-chaitanya-rubik-solver.html">view project</a>
             </div>
           </div>
         </div>
+         <a href="https://www.wncc-iitb.org/soc_projects/63-chaitanya-rubik-solver.html">Rubik's cube solver</a>
       </div>
       
       <div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[&quot;Machine Learning&quot;,&quot;Development&quot;]">
@@ -390,11 +390,11 @@
           <img src="/assets/images/soc/item-22.png" alt="L.A.M.A. AI using Reinforcement Learning" class="img-fluid rounded w-100 d-block" />
           <div class="hover-overlay">
             <div class="hover-content">
-              <p>L.A.M.A. AI using Reinforcement Learning</p>
               <a class="btn btn-light btn-sm" href="https://www.wncc-iitb.org/soc_projects/41-cheeku-lama-ai.html">view project</a>
             </div>
           </div>
         </div>
+         <a href="https://www.wncc-iitb.org/soc_projects/41-cheeku-lama-ai.html">L.A.M.A. AI using Reinforcement Learning</a>
       </div>
       
       <div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[&quot;Machine Learning&quot;]">
@@ -402,11 +402,11 @@
           <img src="/assets/images/soc/item-23.png" alt="Face Recognition using Statistics" class="img-fluid rounded w-100 d-block" />
           <div class="hover-overlay">
             <div class="hover-content">
-              <p>Face Recognition using Statistics</p>
               <a class="btn btn-light btn-sm" href="https://www.wncc-iitb.org/soc_projects/59-shreya-face-recognition.html">view project</a>
             </div>
           </div>
         </div>
+         <a href="https://www.wncc-iitb.org/soc_projects/59-shreya-face-recognition.html">Face Recognition using Statistics</a>
       </div>
       
       <div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[&quot;Web Development&quot;]">
@@ -414,11 +414,11 @@
           <img src="/assets/images/soc/item-24.png" alt="Tinkerers’ Laboratory Website" class="img-fluid rounded w-100 d-block" />
           <div class="hover-overlay">
             <div class="hover-content">
-              <p>Tinkerers’ Laboratory Website</p>
               <a class="btn btn-light btn-sm" href="https://www.wncc-iitb.org/soc_projects/67-vivek-saurabh-verma-TL-website.html">view project</a>
             </div>
           </div>
         </div>
+         <a href="https://www.wncc-iitb.org/soc_projects/67-vivek-saurabh-verma-TL-website.html">Tinkerers’ Laboratory Website</a>
       </div>
       
       <div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[&quot;Graphics&quot;,&quot;Development&quot;]">
@@ -426,11 +426,11 @@
           <img src="/assets/images/soc/item-25.png" alt="Graphic Intensive MUSIC APP" class="img-fluid rounded w-100 d-block" />
           <div class="hover-overlay">
             <div class="hover-content">
-              <p>Graphic Intensive MUSIC APP</p>
               <a class="btn btn-light btn-sm" href="https://www.wncc-iitb.org/soc_projects/68-sudanshu-sahil-Graphic-Intensive-Music-App.html">view project</a>
             </div>
           </div>
         </div>
+         <a href="https://www.wncc-iitb.org/soc_projects/68-sudanshu-sahil-Graphic-Intensive-Music-App.html">Graphic Intensive MUSIC APP</a>
       </div>
       
       <div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[&quot;Development&quot;,&quot;Web Development&quot;,&quot;Machine Learning&quot;]">
@@ -438,11 +438,11 @@
           <img src="/assets/images/soc/item-26.png" alt="KontaKt App" class="img-fluid rounded w-100 d-block" />
           <div class="hover-overlay">
             <div class="hover-content">
-              <p>KontaKt App</p>
               <a class="btn btn-light btn-sm" href="https://www.wncc-iitb.org/soc_projects/66-prabhat-KontaKt-app.html">view project</a>
             </div>
           </div>
         </div>
+         <a href="https://www.wncc-iitb.org/soc_projects/66-prabhat-KontaKt-app.html">KontaKt App</a>
       </div>
       
       <div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[&quot;Development&quot;,&quot;Web Development&quot;]">
@@ -450,11 +450,11 @@
           <img src="/assets/images/soc/item-27.png" alt="Pool It!" class="img-fluid rounded w-100 d-block" />
           <div class="hover-overlay">
             <div class="hover-content">
-              <p>Pool It!</p>
               <a class="btn btn-light btn-sm" href="https://www.wncc-iitb.org/soc_projects/69-aman-poolit.html">view project</a>
             </div>
           </div>
         </div>
+         <a href="https://www.wncc-iitb.org/soc_projects/69-aman-poolit.html">Pool It!</a>
       </div>
       
       <div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[&quot;Image Processing&quot;]">
@@ -462,11 +462,11 @@
           <img src="/assets/images/soc/item-28.png" alt="Digital Depth Perception" class="img-fluid rounded w-100 d-block" />
           <div class="hover-overlay">
             <div class="hover-content">
-              <p>Digital Depth Perception</p>
               <a class="btn btn-light btn-sm" href="https://www.wncc-iitb.org/soc_projects/65-divyansh-depth.html">view project</a>
             </div>
           </div>
         </div>
+         <a href="https://www.wncc-iitb.org/soc_projects/65-divyansh-depth.html">Digital Depth Perception</a>
       </div>
       
       <div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[&quot;Development&quot;,&quot;Web Development&quot;]">
@@ -474,11 +474,11 @@
           <img src="/assets/images/soc/item-29.png" alt="Insti Buddy" class="img-fluid rounded w-100 d-block" />
           <div class="hover-overlay">
             <div class="hover-content">
-              <p>Insti Buddy</p>
               <a class="btn btn-light btn-sm" href="https://www.wncc-iitb.org/soc_projects/70-rishabh-instibuddy.html">view project</a>
             </div>
           </div>
         </div>
+         <a href="https://www.wncc-iitb.org/soc_projects/70-rishabh-instibuddy.html">Insti Buddy</a>
       </div>
       
       <div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[&quot;Artificial Intelligence&quot;,&quot;Data Science&quot;]">
@@ -486,11 +486,11 @@
           <img src="/assets/images/soc/item-30.png" alt="Intelligent agents" class="img-fluid rounded w-100 d-block" />
           <div class="hover-overlay">
             <div class="hover-content">
-              <p>Intelligent agents</p>
               <a class="btn btn-light btn-sm" href="https://www.wncc-iitb.org/soc_projects/71-sanjeev-intelligent.html">view project</a>
             </div>
           </div>
         </div>
+         <a href="https://www.wncc-iitb.org/soc_projects/71-sanjeev-intelligent.html">Intelligent agents</a>
       </div>
       
     </div>
