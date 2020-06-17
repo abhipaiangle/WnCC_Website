@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Blogs
-permalink: /blog/
+title: Resources
+permalink: /resources/
 ---
 <!-- blog -->
 <section class="section">
