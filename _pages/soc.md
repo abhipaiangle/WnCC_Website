@@ -76,12 +76,13 @@ permalink: /soc/
           <img src="{{ site.baseurl }}/{{ item.image }}" alt="{{ item.title }}" class="img-fluid rounded w-100 d-block">
           <div class="hover-overlay">
             <div class="hover-content">
+                    </div>
+                      <p class="font-secondary text-dark">{{ item.title|Title }}</p>
+                    </div>
               <a class="btn btn-light btn-sm" href="{{ item.url }}">view project</a>
             </div>
           </div>
-        </div>
-         <a href="{{ item.url }}">{{ item.title }}</a>
-      </div>
+
       {% endfor %}
     </div>
   </div>
