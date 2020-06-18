@@ -15,9 +15,9 @@ permalink: /resources/
             pre-requisites and motivation to learn a programming skill. Here are some top articles of Wiki
         </div>
 
-        <!-- Programming_101 -->
+<!-- Programming_101 -->
 
-        <div class="row">
+<div class="row">
             <div class="col-lg-4 col-sm-6 mb-4">
                 <article class="card shadow">
                     <img class="rounded card-img-top" src="{{ site.baseurl }}/assets/images/resources/wiki1"
@@ -35,8 +35,8 @@ permalink: /resources/
                 </article>
             </div>
 
-            <!-- DC++ Setup -->
-            <div class="col-lg-4 col-sm-6 mb-4">
+<!-- DC++ Setup -->
+<div class="col-lg-4 col-sm-6 mb-4">
                 <article class="card shadow">
                     <img class="rounded card-img-top" src="{{ site.baseurl }}/assets/images/resources/wiki2"
                         alt="DC++ Setup">
@@ -53,9 +53,9 @@ permalink: /resources/
                 </article>
             </div>
 
-            <!-- GSoC_Project -->
+<!-- GSoC_Project -->
 
-            <div class="col-lg-4 col-sm-6 mb-4">
+<div class="col-lg-4 col-sm-6 mb-4">
                 <article class="card shadow">
                     <img class="rounded card-img-top" src="{{ site.baseurl }}/assets/images/resources/wiki3"
                         alt="GSoC Project">
@@ -72,8 +72,8 @@ permalink: /resources/
             </div>
 
 
-            <!-- Software_ Engineering_ Without_ CS_ Major -->
-            <div class="col-lg-4 col-sm-6 mb-4">
+<!-- Software_ Engineering_ Without_ CS_ Major -->
+<div class="col-lg-4 col-sm-6 mb-4">
                 <article class="card shadow">
                     <img class="rounded card-img-top" src="{{ site.baseurl }}/assets/images/resources/wiki4"
                         alt="Software Engineering">
@@ -90,8 +90,8 @@ permalink: /resources/
                 </article>
             </div>
 
-            <!-- Introduction_ to_ Blockchain -->
-            <div class="col-lg-4 col-sm-6 mb-4">
+<!-- Introduction_ to_ Blockchain -->
+<div class="col-lg-4 col-sm-6 mb-4">
                 <article class="card shadow">
                     <img class="rounded card-img-top" src="{{ site.baseurl }}/assets/images/resources/wiki5"
                         alt="Introduction to Blockchain">
@@ -109,8 +109,8 @@ permalink: /resources/
                 </article>
             </div>
 
-            <!-- Community_ Resources -->
-            <div class="col-lg-4 col-sm-6 mb-4">
+<!-- Community_ Resources -->
+<div class="col-lg-4 col-sm-6 mb-4">
                 <article class="card shadow">
                     <img class="rounded card-img-top" src="{{ site.baseurl }}/assets/images/resources/wiki6"
                         alt="Community Resources">
@@ -125,7 +125,6 @@ permalink: /resources/
                     </div>
                 </article>
             </div>
-
         </div>
     </div>
 </section>
@@ -140,8 +139,8 @@ permalink: /resources/
             </div>
         </div>
 
-        <!-- Competitive Programming -->
-        <div class="row">
+<!-- Competitive Programming -->
+<div class="row">
             <div class="col-lg-4 col-sm-6 mb-4">
                 <article class="card shadow">
                     <img class="rounded card-img-top" src="{{ site.baseurl }}/assets/images/resources/Ciq1"
@@ -157,8 +156,8 @@ permalink: /resources/
                 </article>
             </div>
 
-            <!-- Machine Learning -->
-            <div class="row">
+<!-- Machine Learning -->
+<div class="row">
                 <div class="col-lg-4 col-sm-6 mb-4">
                     <article class="card shadow">
                         <img class="rounded card-img-top" src="{{ site.baseurl }}/assets/images/resources/Ciq2"
@@ -175,8 +174,8 @@ permalink: /resources/
                     </article>
                 </div>
 
-                <!-- Advanced FrontEnd -->
-                <div class="row">
+<!-- Advanced FrontEnd -->
+<div class="row">
                     <div class="col-lg-4 col-sm-6 mb-4">
                         <article class="card shadow">
                             <img class="rounded card-img-top" src="{{ site.baseurl }}/assets/images/resources/Ciq3"
@@ -193,10 +192,8 @@ permalink: /resources/
                             </div>
                         </article>
                     </div>
-
                 </div>
             </div>
-
         </div>
 </section>
 <!-- /blog -->
