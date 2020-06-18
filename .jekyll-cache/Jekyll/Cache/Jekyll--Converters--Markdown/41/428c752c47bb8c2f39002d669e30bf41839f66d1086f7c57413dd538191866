@@ -1,95 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-  <meta charset="utf-8">
-  <title>Seasons of Code 2020</title>
-
-  <!-- mobile responsive meta -->
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-  
-  <!-- ** Plugins Needed for the Project ** -->
-  <!-- Bootstrap -->
-  <link rel="stylesheet" href="/assets/plugins/bootstrap/bootstrap.min.css">
-  <!-- slick slider -->
-  <link rel="stylesheet" href="/assets/plugins/slick/slick.css">
-  <!-- themefy-icon -->
-  <link rel="stylesheet" href="/assets/plugins/themify-icons/themify-icons.css">
-
-  <!-- Main Stylesheet -->
-  <link href="/assets/css/style.css" rel="stylesheet">
-  
-  <!--Favicon-->
-  <link rel="shortcut icon" href="/assets/images/favicon.ico" type="image/x-icon">
-  <link rel="icon" href="/assets/images/favicon.ico" type="image/x-icon">
-
-</head>
-
-<body>
-
-  
-  
-  <header class="navigation fixed-top">
-  <nav class="navbar navbar-expand-lg navbar-dark">
-    <a class="navbar-brand font-tertiary h3" href="/">
-      
-        <img src="/assets/images/logo.png" alt="WnCC IIT Bombay">
-      
-    </a>
-    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navigation"
-      aria-controls="navigation" aria-expanded="false" aria-label="Toggle navigation">
-      <span class="navbar-toggler-icon"></span>
-    </button>
-
-    <div class="collapse navbar-collapse text-center" id="navigation">
-      <ul class="navbar-nav ml-auto">
-        <li class="nav-item active">
-          <a class="nav-link" href="/">Home</a>
-        </li>
-        
-          <li class="nav-item ">
-            <a class="nav-link" href="/about/">About</a>
-          </li>
-        
-          <li class="nav-item ">
-            <a class="nav-link" href="/resources/">Resources</a>
-          </li>
-        
-          <li class="nav-item ">
-            <a class="nav-link" href="/soc/">SoC</a>
-          </li>
-        
-          <li class="nav-item ">
-            <a class="nav-link" href="/contact/">Contact</a>
-          </li>
-        
-      </ul>
-    </div>
-  </nav>
-</header>
-
-  <!-- page title -->
-<section class="page-title bg-primary position-relative">
-  <div class="container">
-    <div class="row">
-      <div class="col-12 text-center">
-        <h1 class="text-white font-tertiary">Seasons of Code 2020</h1>
-      </div>
-    </div>
-  </div>
-  <!-- background shapes -->
-  <img src="/assets/images/illustrations/page-title.png" alt="illustrations" class="bg-shape-1 w-100">
-  <img src="/assets/images/illustrations/leaf-pink-round.png" alt="illustrations" class="bg-shape-2">
-  <img src="/assets/images/illustrations/dots-cyan.png" alt="illustrations" class="bg-shape-3">
-  <img src="/assets/images/illustrations/leaf-orange.png" alt="illustrations" class="bg-shape-4">
-  <img src="/assets/images/illustrations/leaf-yellow.png" alt="illustrations" class="bg-shape-5">
-  <img src="/assets/images/illustrations/dots-group-cyan.png" alt="illustrations" class="bg-shape-6">
-  <img src="/assets/images/illustrations/leaf-cyan-lg.png" alt="illustrations" class="bg-shape-7">
-</section>
-<!-- /page title -->
-
-<!-- about-soc -->
+I"�a<!-- about-soc -->
 <section class="section">
   <div class="container">
     <div class="row">
@@ -115,8 +24,8 @@
   </header>
   <div class="container_soc">
     <div class="row">
-      <div class="row_soc">
-        <section class="special_soc box1_soc">
+      <div class="row_soc align-items-center">
+        <section class="special_soc box1_soc align-items-center">
           <img class="icon major_soc" src="/svg/light-siber-one.svg" />
           <h3>Padawan</h3>
           <p>The Force is strong with you. <br /> Train yourself to let go of everything you fear to lose. <br /> The Force will be with you always.<br /> Ready are you?</p><br />
@@ -124,7 +33,7 @@
         </section>
       </div>
       <div class="row_soc">
-        <section class="special_soc box2_soc">
+        <section class="special_soc box2_soc align-items-center">
           <img class="icon major_soc" src="/svg/light-siber.svg" />
           <h3>Master</h3>
           <p>I can feel you code. <br /> It gives you focus. It makes you stronger. <br /> Your focus determines your reality. <br /> Use the force <br /> and someday you will be the most powerful Jedi ever.</p>
@@ -176,335 +85,305 @@
         <div class="position-relative rounded hover-wrapper" href="https://www.wncc-iitb.org/soc_projects/44-akshit-gan.html">
           <img src="/assets/images/soc/item-1.png" alt="Why The Hype Around GANs" class="img-fluid rounded w-100 d-block" />
           <div class="hover-overlay">
-            <div style="backdrop-filter: saturate(130%) blur(3px);" class="hover-content">
-              <p class="font-tertiary paragraph-lg text-dark">Why The Hype Around GANs</p>
+            <div class="hover-content align-items-center">
+              <p class="font-secondary paragraph-lg text-dark">Why The Hype Around GANs</p>
             </div>
           </div>
-        </div>
-      </div>
+
       
       <div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[&quot;Development&quot;,&quot;Machine Learning&quot;,&quot;2020&quot;]">
         <div class="position-relative rounded hover-wrapper" href="https://www.wncc-iitb.org/soc_projects/45-siddesh-3d-reconstruction.html">
           <img src="/assets/images/soc/item-2.png" alt="3D reconstruction using 2D images" class="img-fluid rounded w-100 d-block" />
           <div class="hover-overlay">
-            <div style="backdrop-filter: saturate(130%) blur(3px);" class="hover-content">
-              <p class="font-tertiary paragraph-lg text-dark">3D reconstruction using 2D images</p>
+            <div class="hover-content align-items-center">
+              <p class="font-secondary paragraph-lg text-dark">3D reconstruction using 2D images</p>
             </div>
           </div>
-        </div>
-      </div>
+
       
       <div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[&quot;Development&quot;,&quot;Machine Learning&quot;,&quot;2020&quot;]">
         <div class="position-relative rounded hover-wrapper" href="https://www.wncc-iitb.org/soc_projects/46-vishal-cv-workbench.html">
           <img src="/assets/images/soc/item-3.png" alt="Computer Vision Workbench" class="img-fluid rounded w-100 d-block" />
           <div class="hover-overlay">
-            <div style="backdrop-filter: saturate(130%) blur(3px);" class="hover-content">
-              <p class="font-tertiary paragraph-lg text-dark">Computer Vision Workbench</p>
+            <div class="hover-content align-items-center">
+              <p class="font-secondary paragraph-lg text-dark">Computer Vision Workbench</p>
             </div>
           </div>
-        </div>
-      </div>
+
       
       <div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[&quot;Machine Learning&quot;,&quot;2020&quot;]">
         <div class="position-relative rounded hover-wrapper" href="https://www.wncc-iitb.org/soc_projects/47-sudhir-neural.html">
           <img src="/assets/images/soc/item-4.png" alt="3D Object Classification using Mesh Neural Network" class="img-fluid rounded w-100 d-block" />
           <div class="hover-overlay">
-            <div style="backdrop-filter: saturate(130%) blur(3px);" class="hover-content">
-              <p class="font-tertiary paragraph-lg text-dark">3D Object Classification using Mesh Neural Network</p>
+            <div class="hover-content align-items-center">
+              <p class="font-secondary paragraph-lg text-dark">3D Object Classification using Mesh Neural Network</p>
             </div>
           </div>
-        </div>
-      </div>
+
       
       <div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[&quot;Machine Learning&quot;,&quot;2020&quot;]">
         <div class="position-relative rounded hover-wrapper" href="https://www.wncc-iitb.org/soc_projects/48-anubhav-ML.html">
           <img src="/assets/images/soc/item-5.png" alt="Lossless high entropy compression algorithm" class="img-fluid rounded w-100 d-block" />
           <div class="hover-overlay">
-            <div style="backdrop-filter: saturate(130%) blur(3px);" class="hover-content">
-              <p class="font-tertiary paragraph-lg text-dark">Lossless high entropy compression algorithm</p>
+            <div class="hover-content align-items-center">
+              <p class="font-secondary paragraph-lg text-dark">Lossless high entropy compression algorithm</p>
             </div>
           </div>
-        </div>
-      </div>
+
       
       <div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[&quot;Development&quot;,&quot;2020&quot;]">
         <div class="position-relative rounded hover-wrapper" href="https://www.wncc-iitb.org/soc_projects/50-pritam-kumar-webdev.html">
           <img src="/assets/images/soc/item-6.png" alt="Tools for Web Development" class="img-fluid rounded w-100 d-block" />
           <div class="hover-overlay">
-            <div style="backdrop-filter: saturate(130%) blur(3px);" class="hover-content">
-              <p class="font-tertiary paragraph-lg text-dark">Tools for Web Development</p>
+            <div class="hover-content align-items-center">
+              <p class="font-secondary paragraph-lg text-dark">Tools for Web Development</p>
             </div>
           </div>
-        </div>
-      </div>
+
       
       <div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[&quot;Machine Learning&quot;,&quot;2020&quot;]">
         <div class="position-relative rounded hover-wrapper" href="https://www.wncc-iitb.org/soc_projects/49-lalit-mlgym.html">
           <img src="/assets/images/soc/item-7.png" alt="ML GYM" class="img-fluid rounded w-100 d-block" />
           <div class="hover-overlay">
-            <div style="backdrop-filter: saturate(130%) blur(3px);" class="hover-content">
-              <p class="font-tertiary paragraph-lg text-dark">ML GYM</p>
+            <div class="hover-content align-items-center">
+              <p class="font-secondary paragraph-lg text-dark">ML GYM</p>
             </div>
           </div>
-        </div>
-      </div>
+
       
       <div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[&quot;Development&quot;,&quot;2020&quot;]">
         <div class="position-relative rounded hover-wrapper" href="https://www.wncc-iitb.org/soc_projects/51-dhairya-strategywars.html">
           <img src="/assets/images/soc/item-8.png" alt="Strategy Wars [Online]" class="img-fluid rounded w-100 d-block" />
           <div class="hover-overlay">
-            <div style="backdrop-filter: saturate(130%) blur(3px);" class="hover-content">
-              <p class="font-tertiary paragraph-lg text-dark">Strategy Wars [Online]</p>
+            <div class="hover-content align-items-center">
+              <p class="font-secondary paragraph-lg text-dark">Strategy Wars [Online]</p>
             </div>
           </div>
-        </div>
-      </div>
+
       
       <div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[&quot;Develppment&quot;,&quot;2020&quot;]">
         <div class="position-relative rounded hover-wrapper" href="https://www.wncc-iitb.org/soc_projects/55-bharti-supershenron.html">
           <img src="/assets/images/soc/item-9.png" alt="Super Shenron" class="img-fluid rounded w-100 d-block" />
           <div class="hover-overlay">
-            <div style="backdrop-filter: saturate(130%) blur(3px);" class="hover-content">
-              <p class="font-tertiary paragraph-lg text-dark">Super Shenron</p>
+            <div class="hover-content align-items-center">
+              <p class="font-secondary paragraph-lg text-dark">Super Shenron</p>
             </div>
           </div>
-        </div>
-      </div>
+
       
       <div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[&quot;Machine Learning&quot;,&quot;Development&quot;,&quot;Graphics&quot;,&quot;2020&quot;]">
         <div class="position-relative rounded hover-wrapper" href="https://www.wncc-iitb.org/soc_projects/56-pagar-gestures.html">
           <img src="/assets/images/soc/item-10.gif" alt="Gestures for 3D space" class="img-fluid rounded w-100 d-block" />
           <div class="hover-overlay">
-            <div style="backdrop-filter: saturate(130%) blur(3px);" class="hover-content">
-              <p class="font-tertiary paragraph-lg text-dark">Gestures for 3D space</p>
+            <div class="hover-content align-items-center">
+              <p class="font-secondary paragraph-lg text-dark">Gestures for 3D space</p>
             </div>
           </div>
-        </div>
-      </div>
+
       
       <div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[&quot;Development&quot;,&quot;Machine Learning&quot;,&quot;2020&quot;]">
         <div class="position-relative rounded hover-wrapper" href="https://www.wncc-iitb.org/soc_projects/52-anuj-food.html">
           <img src="/assets/images/soc/item-11.png" alt="Food Recommendation through Machine Learning" class="img-fluid rounded w-100 d-block" />
           <div class="hover-overlay">
-            <div style="backdrop-filter: saturate(130%) blur(3px);" class="hover-content">
-              <p class="font-tertiary paragraph-lg text-dark">Food Recommendation through Machine Learning</p>
+            <div class="hover-content align-items-center">
+              <p class="font-secondary paragraph-lg text-dark">Food Recommendation through Machine Learning</p>
             </div>
           </div>
-        </div>
-      </div>
+
       
       <div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[&quot;Development&quot;,&quot;Machine Learning&quot;,&quot;2020&quot;]">
         <div class="position-relative rounded hover-wrapper" href="https://www.wncc-iitb.org/soc_projects/53-Ishwaryaa-chatbot.html">
           <img src="/assets/images/soc/item-12.png" alt="Conversational Chatbot" class="img-fluid rounded w-100 d-block" />
           <div class="hover-overlay">
-            <div style="backdrop-filter: saturate(130%) blur(3px);" class="hover-content">
-              <p class="font-tertiary paragraph-lg text-dark">Conversational Chatbot</p>
+            <div class="hover-content align-items-center">
+              <p class="font-secondary paragraph-lg text-dark">Conversational Chatbot</p>
             </div>
           </div>
-        </div>
-      </div>
+
       
       <div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[&quot;Machine Learning&quot;,&quot;2020&quot;]">
         <div class="position-relative rounded hover-wrapper" href="https://www.wncc-iitb.org/soc_projects/57-gagan-unstructured.html">
           <img src="/assets/images/soc/item-13.png" alt="(Un)structured" class="img-fluid rounded w-100 d-block" />
           <div class="hover-overlay">
-            <div style="backdrop-filter: saturate(130%) blur(3px);" class="hover-content">
-              <p class="font-tertiary paragraph-lg text-dark">(Un)structured</p>
+            <div class="hover-content align-items-center">
+              <p class="font-secondary paragraph-lg text-dark">(Un)structured</p>
             </div>
           </div>
-        </div>
-      </div>
+
       
       <div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[&quot;Graphics&quot;,&quot;2020&quot;,&quot;2020&quot;]">
         <div class="position-relative rounded hover-wrapper" href="https://www.wncc-iitb.org/soc_projects/58-debabrata-road-net.html">
           <img src="/assets/images/soc/item-14.png" alt="Road Network 3D Rendering using OpenGL" class="img-fluid rounded w-100 d-block" />
           <div class="hover-overlay">
-            <div style="backdrop-filter: saturate(130%) blur(3px);" class="hover-content">
-              <p class="font-tertiary paragraph-lg text-dark">Road Network 3D Rendering using OpenGL</p>
+            <div class="hover-content align-items-center">
+              <p class="font-secondary paragraph-lg text-dark">Road Network 3D Rendering using OpenGL</p>
             </div>
           </div>
-        </div>
-      </div>
+
       
       <div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[&quot;Miscellaneous&quot;,&quot;2020&quot;]">
         <div class="position-relative rounded hover-wrapper" href="https://www.wncc-iitb.org/soc_projects/54-manan-keyboard.html">
           <img src="/assets/images/soc/item-15.png" alt="Virtual Keyboard" class="img-fluid rounded w-100 d-block" />
           <div class="hover-overlay">
-            <div style="backdrop-filter: saturate(130%) blur(3px);" class="hover-content">
-              <p class="font-tertiary paragraph-lg text-dark">Virtual Keyboard</p>
+            <div class="hover-content align-items-center">
+              <p class="font-secondary paragraph-lg text-dark">Virtual Keyboard</p>
             </div>
           </div>
-        </div>
-      </div>
+
       
       <div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[&quot;Machine Learning&quot;,&quot;2020&quot;]">
         <div class="position-relative rounded hover-wrapper" href="https://www.wncc-iitb.org/soc_projects/60-yash-kaggle.html">
           <img src="/assets/images/soc/item-16.png" alt="Introduction to Kaggle and Machine Learning" class="img-fluid rounded w-100 d-block" />
           <div class="hover-overlay">
-            <div style="backdrop-filter: saturate(130%) blur(3px);" class="hover-content">
-              <p class="font-tertiary paragraph-lg text-dark">Introduction to Kaggle and Machine Learning</p>
+            <div class="hover-content align-items-center">
+              <p class="font-secondary paragraph-lg text-dark">Introduction to Kaggle and Machine Learning</p>
             </div>
           </div>
-        </div>
-      </div>
+
       
       <div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[&quot;Development&quot;,&quot;2020&quot;]">
         <div class="position-relative rounded hover-wrapper" href="https://www.wncc-iitb.org/soc_projects/62-chaitanya-krittika.html">
           <img src="/assets/images/soc/item-17.png" alt="Krittika Website" class="img-fluid rounded w-100 d-block" />
           <div class="hover-overlay">
-            <div style="backdrop-filter: saturate(130%) blur(3px);" class="hover-content">
-              <p class="font-tertiary paragraph-lg text-dark">Krittika Website</p>
+            <div class="hover-content align-items-center">
+              <p class="font-secondary paragraph-lg text-dark">Krittika Website</p>
             </div>
           </div>
-        </div>
-      </div>
+
       
       <div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[&quot;Miscellaneous&quot;,&quot;2020&quot;]">
         <div class="position-relative rounded hover-wrapper" href="https://www.wncc-iitb.org/soc_projects/43-pratyush-competitive-coding.html">
           <img src="/assets/images/soc/item-18.png" alt="Competitive coding" class="img-fluid rounded w-100 d-block" />
           <div class="hover-overlay">
-            <div style="backdrop-filter: saturate(130%) blur(3px);" class="hover-content">
-              <p class="font-tertiary paragraph-lg text-dark">Competitive coding</p>
+            <div class="hover-content align-items-center">
+              <p class="font-secondary paragraph-lg text-dark">Competitive coding</p>
             </div>
           </div>
-        </div>
-      </div>
+
       
       <div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[&quot;Graphics&quot;,&quot;2020&quot;]">
         <div class="position-relative rounded hover-wrapper" href="https://www.wncc-iitb.org/soc_projects/64-rwitaban-computer-graphics.html">
           <img src="/assets/images/soc/item-19.png" alt="Planet/Atmosphere Renderer using OpenGL" class="img-fluid rounded w-100 d-block" />
           <div class="hover-overlay">
-            <div style="backdrop-filter: saturate(130%) blur(3px);" class="hover-content">
-              <p class="font-tertiary paragraph-lg text-dark">Planet/Atmosphere Renderer using OpenGL</p>
+            <div class="hover-content align-items-center">
+              <p class="font-secondary paragraph-lg text-dark">Planet/Atmosphere Renderer using OpenGL</p>
             </div>
           </div>
-        </div>
-      </div>
+
       
       <div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[&quot;Machine Learning&quot;,&quot;2020&quot;]">
         <div class="position-relative rounded hover-wrapper" href="https://www.wncc-iitb.org/soc_projects/42-rahul-intrusion-detection.html">
           <img src="/assets/images/soc/item-20.png" alt="Intrusion Detection system" class="img-fluid rounded w-100 d-block" />
           <div class="hover-overlay">
-            <div style="backdrop-filter: saturate(130%) blur(3px);" class="hover-content">
-              <p class="font-tertiary paragraph-lg text-dark">Intrusion Detection system</p>
+            <div class="hover-content align-items-center">
+              <p class="font-secondary paragraph-lg text-dark">Intrusion Detection system</p>
             </div>
           </div>
-        </div>
-      </div>
+
       
       <div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[&quot;Development&quot;,&quot;Machine Learning&quot;,&quot;2020&quot;]">
         <div class="position-relative rounded hover-wrapper" href="https://www.wncc-iitb.org/soc_projects/63-chaitanya-rubik-solver.html">
           <img src="/assets/images/soc/item-21.png" alt="Rubik's cube solver" class="img-fluid rounded w-100 d-block" />
           <div class="hover-overlay">
-            <div style="backdrop-filter: saturate(130%) blur(3px);" class="hover-content">
-              <p class="font-tertiary paragraph-lg text-dark">Rubik's cube solver</p>
+            <div class="hover-content align-items-center">
+              <p class="font-secondary paragraph-lg text-dark">Rubik's cube solver</p>
             </div>
           </div>
-        </div>
-      </div>
+
       
       <div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[&quot;Machine Learning&quot;,&quot;Development&quot;,&quot;2020&quot;]">
         <div class="position-relative rounded hover-wrapper" href="https://www.wncc-iitb.org/soc_projects/41-cheeku-lama-ai.html">
           <img src="/assets/images/soc/item-22.png" alt="L.A.M.A. AI using Reinforcement Learning" class="img-fluid rounded w-100 d-block" />
           <div class="hover-overlay">
-            <div style="backdrop-filter: saturate(130%) blur(3px);" class="hover-content">
-              <p class="font-tertiary paragraph-lg text-dark">L.A.M.A. AI using Reinforcement Learning</p>
+            <div class="hover-content align-items-center">
+              <p class="font-secondary paragraph-lg text-dark">L.A.M.A. AI using Reinforcement Learning</p>
             </div>
           </div>
-        </div>
-      </div>
+
       
       <div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[&quot;Machine Learning&quot;,&quot;2020&quot;]">
         <div class="position-relative rounded hover-wrapper" href="https://www.wncc-iitb.org/soc_projects/59-shreya-face-recognition.html">
           <img src="/assets/images/soc/item-23.png" alt="Face Recognition using Statistics" class="img-fluid rounded w-100 d-block" />
           <div class="hover-overlay">
-            <div style="backdrop-filter: saturate(130%) blur(3px);" class="hover-content">
-              <p class="font-tertiary paragraph-lg text-dark">Face Recognition using Statistics</p>
+            <div class="hover-content align-items-center">
+              <p class="font-secondary paragraph-lg text-dark">Face Recognition using Statistics</p>
             </div>
           </div>
-        </div>
-      </div>
+
       
       <div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[&quot;Development&quot;,&quot;2020&quot;]">
         <div class="position-relative rounded hover-wrapper" href="https://www.wncc-iitb.org/soc_projects/67-vivek-saurabh-verma-TL-website.html">
           <img src="/assets/images/soc/item-24.png" alt="Tinkerers’ Laboratory Website" class="img-fluid rounded w-100 d-block" />
           <div class="hover-overlay">
-            <div style="backdrop-filter: saturate(130%) blur(3px);" class="hover-content">
-              <p class="font-tertiary paragraph-lg text-dark">Tinkerers’ Laboratory Website</p>
+            <div class="hover-content align-items-center">
+              <p class="font-secondary paragraph-lg text-dark">Tinkerers’ Laboratory Website</p>
             </div>
           </div>
-        </div>
-      </div>
+
       
       <div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[&quot;Graphics&quot;,&quot;Development&quot;,&quot;2020&quot;]">
         <div class="position-relative rounded hover-wrapper" href="https://www.wncc-iitb.org/soc_projects/68-sudanshu-sahil-Graphic-Intensive-Music-App.html">
           <img src="/assets/images/soc/item-25.png" alt="Graphic Intensive MUSIC APP" class="img-fluid rounded w-100 d-block" />
           <div class="hover-overlay">
-            <div style="backdrop-filter: saturate(130%) blur(3px);" class="hover-content">
-              <p class="font-tertiary paragraph-lg text-dark">Graphic Intensive MUSIC APP</p>
+            <div class="hover-content align-items-center">
+              <p class="font-secondary paragraph-lg text-dark">Graphic Intensive MUSIC APP</p>
             </div>
           </div>
-        </div>
-      </div>
+
       
       <div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[&quot;Development&quot;,&quot;Machine Learning&quot;,&quot;2020&quot;]">
         <div class="position-relative rounded hover-wrapper" href="https://www.wncc-iitb.org/soc_projects/66-prabhat-KontaKt-app.html">
           <img src="/assets/images/soc/item-26.png" alt="KontaKt App" class="img-fluid rounded w-100 d-block" />
           <div class="hover-overlay">
-            <div style="backdrop-filter: saturate(130%) blur(3px);" class="hover-content">
-              <p class="font-tertiary paragraph-lg text-dark">KontaKt App</p>
+            <div class="hover-content align-items-center">
+              <p class="font-secondary paragraph-lg text-dark">KontaKt App</p>
             </div>
           </div>
-        </div>
-      </div>
+
       
       <div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[&quot;Development&quot;,&quot;2020&quot;]">
         <div class="position-relative rounded hover-wrapper" href="https://www.wncc-iitb.org/soc_projects/69-aman-poolit.html">
           <img src="/assets/images/soc/item-27.png" alt="Pool It!" class="img-fluid rounded w-100 d-block" />
           <div class="hover-overlay">
-            <div style="backdrop-filter: saturate(130%) blur(3px);" class="hover-content">
-              <p class="font-tertiary paragraph-lg text-dark">Pool It!</p>
+            <div class="hover-content align-items-center">
+              <p class="font-secondary paragraph-lg text-dark">Pool It!</p>
             </div>
           </div>
-        </div>
-      </div>
+
       
       <div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[&quot;Miscellaneous&quot;,&quot;2020&quot;]">
         <div class="position-relative rounded hover-wrapper" href="https://www.wncc-iitb.org/soc_projects/65-divyansh-depth.html">
           <img src="/assets/images/soc/item-28.png" alt="Digital Depth Perception" class="img-fluid rounded w-100 d-block" />
           <div class="hover-overlay">
-            <div style="backdrop-filter: saturate(130%) blur(3px);" class="hover-content">
-              <p class="font-tertiary paragraph-lg text-dark">Digital Depth Perception</p>
+            <div class="hover-content align-items-center">
+              <p class="font-secondary paragraph-lg text-dark">Digital Depth Perception</p>
             </div>
           </div>
-        </div>
-      </div>
+
       
       <div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[&quot;Development&quot;,&quot;2020&quot;]">
         <div class="position-relative rounded hover-wrapper" href="https://www.wncc-iitb.org/soc_projects/70-rishabh-instibuddy.html">
           <img src="/assets/images/soc/item-29.png" alt="Insti Buddy" class="img-fluid rounded w-100 d-block" />
           <div class="hover-overlay">
-            <div style="backdrop-filter: saturate(130%) blur(3px);" class="hover-content">
-              <p class="font-tertiary paragraph-lg text-dark">Insti Buddy</p>
+            <div class="hover-content align-items-center">
+              <p class="font-secondary paragraph-lg text-dark">Insti Buddy</p>
             </div>
           </div>
-        </div>
-      </div>
+
       
       <div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[&quot;Machine Learning&quot;,&quot;2020&quot;]">
         <div class="position-relative rounded hover-wrapper" href="https://www.wncc-iitb.org/soc_projects/71-sanjeev-intelligent.html">
           <img src="/assets/images/soc/item-30.png" alt="Intelligent agents" class="img-fluid rounded w-100 d-block" />
           <div class="hover-overlay">
-            <div style="backdrop-filter: saturate(130%) blur(3px);" class="hover-content">
-              <p class="font-tertiary paragraph-lg text-dark">Intelligent agents</p>
+            <div class="hover-content align-items-center">
+              <p class="font-secondary paragraph-lg text-dark">Intelligent agents</p>
             </div>
           </div>
-        </div>
-      </div>
+
       
     </div>
   </div>
-</section>
+&lt;/section&gt;
 <!-- /soc -->
 
 <!-- clients -->
@@ -543,80 +422,5 @@
   </div>
 </section>
 <!-- /clients -->
-
-
-  <!-- contact -->
-<section class="section section-on-footer" data-background="/assets/images/backgrounds/bg-dots.png">
-  <div class="container">
-    <div class="row">
-      <div class="col-12 text-center">
-        <h2 class="section-title">Contact Info</h2>
-      </div>
-      <div class="col-lg-8 mx-auto">
-        <div class="bg-white rounded text-center p-5 shadow-down">
-          <h4 class="mb-80">Contact Form</h4>
-          <form action="https://formspree.io/steve.fruits@email.com" method="POST" class="row">
-            <div class="col-md-6">
-              <input type="text" id="name" name="name" placeholder="Full Name" class="form-control px-0 mb-4">
-            </div>
-            <div class="col-md-6">
-              <input type="email" id="email" name="_replyto" placeholder="Email Address" class="form-control px-0 mb-4">
-            </div>
-            <div class="col-12">
-              <textarea name="message" id="message" class="form-control px-0 mb-4"
-                placeholder="Type Message Here"></textarea>
-            </div>
-            <div class="col-lg-6 col-10 mx-auto">
-              <button type="submit" class="btn btn-primary w-100">send</button>
-            </div>
-          </form>
-        </div>
-      </div>
-    </div>
-  </div>
-</section>
-<!-- /contact -->
-  
-  <!-- footer -->
-<footer class="bg-dark footer-section">
-  <div class="section">
-    <div class="container">
-      <div class="row">
-        <div class="col-md-4">
-          <h5 class="text-light">Email</h5>
-          <p class="text-white paragraph-lg font-secondary">steve.fruits@email.com</p>
-        </div>
-        <div class="col-md-4">
-          <h5 class="text-light">Phone</h5>
-          <p class="text-white paragraph-lg font-secondary">+880 2544 658 256</p>
-        </div>
-        <div class="col-md-4">
-          <h5 class="text-light">Address</h5>
-          <p class="text-white paragraph-lg font-secondary">IIT Bombay, Powai, Mumbai, Maharashtra</p>
-        </div>
-      </div>
-    </div>
-  </div>
-  <div class="border-top text-center border-dark py-5">
-    <p class="mb-0 text-light">Copyright ©<script>
-        var CurrentYear = new Date().getFullYear()
-        document.write(CurrentYear)
-      </script> a theme by <a href="https://themefisher.com/">themefisher.com</a></p>
-  </div>
-</footer>
-<!-- /footer -->
-
-  <!-- jQuery -->
-  <script src="/assets/plugins/jQuery/jquery.min.js"></script>
-  <!-- Bootstrap JS -->
-  <script src="/assets/plugins/bootstrap/bootstrap.min.js"></script>
-  <!-- slick slider -->
-  <script src="/assets/plugins/slick/slick.min.js"></script>
-  <!-- filter -->
-  <script src="/assets/plugins/shuffle/shuffle.min.js"></script>
-
-  <!-- Main Script -->
-  <script src="/assets/js/script.js"></script>
-</body>
-
-</html>
+</div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></section>
+:ET
