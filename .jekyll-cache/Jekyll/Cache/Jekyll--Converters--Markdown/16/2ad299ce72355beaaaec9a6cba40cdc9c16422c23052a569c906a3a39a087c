@@ -1,4 +1,4 @@
-I"k<!-- about-soc -->
+I"�o<!-- about-soc -->
 <section class="section">
   <div class="container">
     <div class="row">
@@ -90,7 +90,7 @@
             </div>
           </div>
         </div>
-         <a href="https://www.wncc-iitb.org/soc_projects/44-akshit-gan.html">Why The Hype Around GANs</a>
+         <a href="https://www.wncc-iitb.org/soc_projects/44-akshit-gan.html" class="btn btn-light position-relative">Why The Hype Around GANs</a>
       </div>
       
       <div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[&quot;Development&quot;,&quot;Machine Learning&quot;,&quot;2020&quot;]">
@@ -102,7 +102,7 @@
             </div>
           </div>
         </div>
-         <a href="https://www.wncc-iitb.org/soc_projects/45-siddesh-3d-reconstruction.html">3D reconstruction using 2D images</a>
+         <a href="https://www.wncc-iitb.org/soc_projects/45-siddesh-3d-reconstruction.html" class="btn btn-light position-relative">3D reconstruction using 2D images</a>
       </div>
       
       <div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[&quot;Development&quot;,&quot;Machine Learning&quot;,&quot;2020&quot;]">
@@ -114,7 +114,7 @@
             </div>
           </div>
         </div>
-         <a href="https://www.wncc-iitb.org/soc_projects/46-vishal-cv-workbench.html">Computer Vision Workbench</a>
+         <a href="https://www.wncc-iitb.org/soc_projects/46-vishal-cv-workbench.html" class="btn btn-light position-relative">Computer Vision Workbench</a>
       </div>
       
       <div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[&quot;Machine Learning&quot;,&quot;2020&quot;]">
@@ -126,7 +126,7 @@
             </div>
           </div>
         </div>
-         <a href="https://www.wncc-iitb.org/soc_projects/47-sudhir-neural.html">3D Object Classification using Mesh Neural Network</a>
+         <a href="https://www.wncc-iitb.org/soc_projects/47-sudhir-neural.html" class="btn btn-light position-relative">3D Object Classification using Mesh Neural Network</a>
       </div>
       
       <div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[&quot;Machine Learning&quot;,&quot;2020&quot;]">
@@ -138,7 +138,7 @@
             </div>
           </div>
         </div>
-         <a href="https://www.wncc-iitb.org/soc_projects/48-anubhav-ML.html">Lossless high entropy compression algorithm</a>
+         <a href="https://www.wncc-iitb.org/soc_projects/48-anubhav-ML.html" class="btn btn-light position-relative">Lossless high entropy compression algorithm</a>
       </div>
       
       <div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[&quot;Development&quot;,&quot;2020&quot;]">
@@ -150,7 +150,7 @@
             </div>
           </div>
         </div>
-         <a href="https://www.wncc-iitb.org/soc_projects/50-pritam-kumar-webdev.html">Tools for Web Development</a>
+         <a href="https://www.wncc-iitb.org/soc_projects/50-pritam-kumar-webdev.html" class="btn btn-light position-relative">Tools for Web Development</a>
       </div>
       
       <div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[&quot;Machine Learning&quot;,&quot;2020&quot;]">
@@ -162,7 +162,7 @@
             </div>
           </div>
         </div>
-         <a href="https://www.wncc-iitb.org/soc_projects/49-lalit-mlgym.html">ML GYM</a>
+         <a href="https://www.wncc-iitb.org/soc_projects/49-lalit-mlgym.html" class="btn btn-light position-relative">ML GYM</a>
       </div>
       
       <div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[&quot;Development&quot;,&quot;2020&quot;]">
@@ -174,7 +174,7 @@
             </div>
           </div>
         </div>
-         <a href="https://www.wncc-iitb.org/soc_projects/51-dhairya-strategywars.html">Strategy Wars [Online]</a>
+         <a href="https://www.wncc-iitb.org/soc_projects/51-dhairya-strategywars.html" class="btn btn-light position-relative">Strategy Wars [Online]</a>
       </div>
       
       <div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[&quot;Develppment&quot;,&quot;2020&quot;]">
@@ -186,7 +186,7 @@
             </div>
           </div>
         </div>
-         <a href="https://www.wncc-iitb.org/soc_projects/55-bharti-supershenron.html">Super Shenron</a>
+         <a href="https://www.wncc-iitb.org/soc_projects/55-bharti-supershenron.html" class="btn btn-light position-relative">Super Shenron</a>
       </div>
       
       <div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[&quot;Machine Learning&quot;,&quot;Development&quot;,&quot;Graphics&quot;,&quot;2020&quot;]">
@@ -198,7 +198,7 @@
             </div>
           </div>
         </div>
-         <a href="https://www.wncc-iitb.org/soc_projects/56-pagar-gestures.html">Gestures for 3D space</a>
+         <a href="https://www.wncc-iitb.org/soc_projects/56-pagar-gestures.html" class="btn btn-light position-relative">Gestures for 3D space</a>
       </div>
       
       <div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[&quot;Development&quot;,&quot;Machine Learning&quot;,&quot;2020&quot;]">
@@ -210,7 +210,7 @@
             </div>
           </div>
         </div>
-         <a href="https://www.wncc-iitb.org/soc_projects/52-anuj-food.html">Food Recommendation through Machine Learning</a>
+         <a href="https://www.wncc-iitb.org/soc_projects/52-anuj-food.html" class="btn btn-light position-relative">Food Recommendation through Machine Learning</a>
       </div>
       
       <div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[&quot;Development&quot;,&quot;Machine Learning&quot;,&quot;2020&quot;]">
@@ -222,7 +222,7 @@
             </div>
           </div>
         </div>
-         <a href="https://www.wncc-iitb.org/soc_projects/53-Ishwaryaa-chatbot.html">Conversational Chatbot</a>
+         <a href="https://www.wncc-iitb.org/soc_projects/53-Ishwaryaa-chatbot.html" class="btn btn-light position-relative">Conversational Chatbot</a>
       </div>
       
       <div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[&quot;Machine Learning&quot;,&quot;2020&quot;]">
@@ -234,7 +234,7 @@
             </div>
           </div>
         </div>
-         <a href="https://www.wncc-iitb.org/soc_projects/57-gagan-unstructured.html">(Un)structured</a>
+         <a href="https://www.wncc-iitb.org/soc_projects/57-gagan-unstructured.html" class="btn btn-light position-relative">(Un)structured</a>
       </div>
       
       <div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[&quot;Graphics&quot;,&quot;2020&quot;,&quot;2020&quot;]">
@@ -246,7 +246,7 @@
             </div>
           </div>
         </div>
-         <a href="https://www.wncc-iitb.org/soc_projects/58-debabrata-road-net.html">Road Network 3D Rendering using OpenGL</a>
+         <a href="https://www.wncc-iitb.org/soc_projects/58-debabrata-road-net.html" class="btn btn-light position-relative">Road Network 3D Rendering using OpenGL</a>
       </div>
       
       <div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[&quot;Miscellaneous&quot;,&quot;2020&quot;]">
@@ -258,7 +258,7 @@
             </div>
           </div>
         </div>
-         <a href="https://www.wncc-iitb.org/soc_projects/54-manan-keyboard.html">Virtual Keyboard</a>
+         <a href="https://www.wncc-iitb.org/soc_projects/54-manan-keyboard.html" class="btn btn-light position-relative">Virtual Keyboard</a>
       </div>
       
       <div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[&quot;Machine Learning&quot;,&quot;2020&quot;]">
@@ -270,7 +270,7 @@
             </div>
           </div>
         </div>
-         <a href="https://www.wncc-iitb.org/soc_projects/60-yash-kaggle.html">Introduction to Kaggle and Machine Learning</a>
+         <a href="https://www.wncc-iitb.org/soc_projects/60-yash-kaggle.html" class="btn btn-light position-relative">Introduction to Kaggle and Machine Learning</a>
       </div>
       
       <div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[&quot;Development&quot;,&quot;2020&quot;]">
@@ -282,7 +282,7 @@
             </div>
           </div>
         </div>
-         <a href="https://www.wncc-iitb.org/soc_projects/62-chaitanya-krittika.html">Krittika Website</a>
+         <a href="https://www.wncc-iitb.org/soc_projects/62-chaitanya-krittika.html" class="btn btn-light position-relative">Krittika Website</a>
       </div>
       
       <div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[&quot;Miscellaneous&quot;,&quot;2020&quot;]">
@@ -294,7 +294,7 @@
             </div>
           </div>
         </div>
-         <a href="https://www.wncc-iitb.org/soc_projects/43-pratyush-competitive-coding.html">Competitive coding</a>
+         <a href="https://www.wncc-iitb.org/soc_projects/43-pratyush-competitive-coding.html" class="btn btn-light position-relative">Competitive coding</a>
       </div>
       
       <div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[&quot;Graphics&quot;,&quot;2020&quot;]">
@@ -306,7 +306,7 @@
             </div>
           </div>
         </div>
-         <a href="https://www.wncc-iitb.org/soc_projects/64-rwitaban-computer-graphics.html">Planet/Atmosphere Renderer using OpenGL</a>
+         <a href="https://www.wncc-iitb.org/soc_projects/64-rwitaban-computer-graphics.html" class="btn btn-light position-relative">Planet/Atmosphere Renderer using OpenGL</a>
       </div>
       
       <div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[&quot;Machine Learning&quot;,&quot;2020&quot;]">
@@ -318,7 +318,7 @@
             </div>
           </div>
         </div>
-         <a href="https://www.wncc-iitb.org/soc_projects/42-rahul-intrusion-detection.html">Intrusion Detection system</a>
+         <a href="https://www.wncc-iitb.org/soc_projects/42-rahul-intrusion-detection.html" class="btn btn-light position-relative">Intrusion Detection system</a>
       </div>
       
       <div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[&quot;Development&quot;,&quot;Machine Learning&quot;,&quot;2020&quot;]">
@@ -330,7 +330,7 @@
             </div>
           </div>
         </div>
-         <a href="https://www.wncc-iitb.org/soc_projects/63-chaitanya-rubik-solver.html">Rubik's cube solver</a>
+         <a href="https://www.wncc-iitb.org/soc_projects/63-chaitanya-rubik-solver.html" class="btn btn-light position-relative">Rubik's cube solver</a>
       </div>
       
       <div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[&quot;Machine Learning&quot;,&quot;Development&quot;,&quot;2020&quot;]">
@@ -342,7 +342,7 @@
             </div>
           </div>
         </div>
-         <a href="https://www.wncc-iitb.org/soc_projects/41-cheeku-lama-ai.html">L.A.M.A. AI using Reinforcement Learning</a>
+         <a href="https://www.wncc-iitb.org/soc_projects/41-cheeku-lama-ai.html" class="btn btn-light position-relative">L.A.M.A. AI using Reinforcement Learning</a>
       </div>
       
       <div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[&quot;Machine Learning&quot;,&quot;2020&quot;]">
@@ -354,7 +354,7 @@
             </div>
           </div>
         </div>
-         <a href="https://www.wncc-iitb.org/soc_projects/59-shreya-face-recognition.html">Face Recognition using Statistics</a>
+         <a href="https://www.wncc-iitb.org/soc_projects/59-shreya-face-recognition.html" class="btn btn-light position-relative">Face Recognition using Statistics</a>
       </div>
       
       <div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[&quot;Development&quot;,&quot;2020&quot;]">
@@ -366,7 +366,7 @@
             </div>
           </div>
         </div>
-         <a href="https://www.wncc-iitb.org/soc_projects/67-vivek-saurabh-verma-TL-website.html">Tinkerers’ Laboratory Website</a>
+         <a href="https://www.wncc-iitb.org/soc_projects/67-vivek-saurabh-verma-TL-website.html" class="btn btn-light position-relative">Tinkerers’ Laboratory Website</a>
       </div>
       
       <div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[&quot;Graphics&quot;,&quot;Development&quot;,&quot;2020&quot;]">
@@ -378,7 +378,7 @@
             </div>
           </div>
         </div>
-         <a href="https://www.wncc-iitb.org/soc_projects/68-sudanshu-sahil-Graphic-Intensive-Music-App.html">Graphic Intensive MUSIC APP</a>
+         <a href="https://www.wncc-iitb.org/soc_projects/68-sudanshu-sahil-Graphic-Intensive-Music-App.html" class="btn btn-light position-relative">Graphic Intensive MUSIC APP</a>
       </div>
       
       <div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[&quot;Development&quot;,&quot;Machine Learning&quot;,&quot;2020&quot;]">
@@ -390,7 +390,7 @@
             </div>
           </div>
         </div>
-         <a href="https://www.wncc-iitb.org/soc_projects/66-prabhat-KontaKt-app.html">KontaKt App</a>
+         <a href="https://www.wncc-iitb.org/soc_projects/66-prabhat-KontaKt-app.html" class="btn btn-light position-relative">KontaKt App</a>
       </div>
       
       <div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[&quot;Development&quot;,&quot;2020&quot;]">
@@ -402,7 +402,7 @@
             </div>
           </div>
         </div>
-         <a href="https://www.wncc-iitb.org/soc_projects/69-aman-poolit.html">Pool It!</a>
+         <a href="https://www.wncc-iitb.org/soc_projects/69-aman-poolit.html" class="btn btn-light position-relative">Pool It!</a>
       </div>
       
       <div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[&quot;Miscellaneous&quot;,&quot;2020&quot;]">
@@ -414,7 +414,7 @@
             </div>
           </div>
         </div>
-         <a href="https://www.wncc-iitb.org/soc_projects/65-divyansh-depth.html">Digital Depth Perception</a>
+         <a href="https://www.wncc-iitb.org/soc_projects/65-divyansh-depth.html" class="btn btn-light position-relative">Digital Depth Perception</a>
       </div>
       
       <div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[&quot;Development&quot;,&quot;2020&quot;]">
@@ -426,7 +426,7 @@
             </div>
           </div>
         </div>
-         <a href="https://www.wncc-iitb.org/soc_projects/70-rishabh-instibuddy.html">Insti Buddy</a>
+         <a href="https://www.wncc-iitb.org/soc_projects/70-rishabh-instibuddy.html" class="btn btn-light position-relative">Insti Buddy</a>
       </div>
       
       <div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[&quot;Machine Learning&quot;,&quot;2020&quot;]">
@@ -438,7 +438,7 @@
             </div>
           </div>
         </div>
-         <a href="https://www.wncc-iitb.org/soc_projects/71-sanjeev-intelligent.html">Intelligent agents</a>
+         <a href="https://www.wncc-iitb.org/soc_projects/71-sanjeev-intelligent.html" class="btn btn-light position-relative">Intelligent agents</a>
       </div>
       
     </div>

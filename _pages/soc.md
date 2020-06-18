@@ -80,7 +80,7 @@ permalink: /soc/
             </div>
           </div>
         </div>
-         <a href="{{ item.url }}">{{ item.title }}</a>
+         <a href="{{ item.url }}" class="btn btn-light position-relative">{{ item.title }}</a>
       </div>
       {% endfor %}
     </div>
