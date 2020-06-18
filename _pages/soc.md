@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Seasons of Code
+title: Seasons of Code 2020
 permalink: /soc/
 ---
 
@@ -30,8 +30,8 @@ permalink: /soc/
   </header>
   <div class="container_soc">
     <div class="row">
-      <div class="row_soc align-items-center">
-        <section class="special_soc box1_soc align-items-center">
+      <div class="row_soc">
+        <section class="special_soc box1_soc">
           <img class="icon major_soc" src="/svg/light-siber-one.svg" />
           <h3>Padawan</h3>
           <p>The Force is strong with you. <br> Train yourself to let go of everything you fear to lose. <br> The Force will be with you always.<br> Ready are you?</p><br />
@@ -39,7 +39,7 @@ permalink: /soc/
         </section>
       </div>
       <div class="row_soc">
-        <section class="special_soc box2_soc align-items-center">
+        <section class="special_soc box2_soc">
           <img class="icon major_soc" src="/svg/light-siber.svg" />
           <h3>Master</h3>
           <p>I can feel you code. <br> It gives you focus. It makes you stronger. <br> Your focus determines your reality. <br> Use the force <br> and someday you will be the most powerful Jedi ever.</p>
@@ -75,11 +75,12 @@ permalink: /soc/
         <div class="position-relative rounded hover-wrapper" href="{{ item.url }}">
           <img src="{{ site.baseurl }}/{{ item.image }}" alt="{{ item.title }}" class="img-fluid rounded w-100 d-block">
           <div class="hover-overlay">
-            <div class="hover-content align-items-center">
-              <p class="font-secondary paragraph-lg text-dark">{{ item.title|Title }}</p>
+            <div style="backdrop-filter: saturate(130%) blur(3px);" class="hover-content">
+              <p class="font-tertiary paragraph-lg text-dark">{{ item.title|Title }}</p>
             </div>
           </div>
-
+        </div>
+      </div>
       {% endfor %}
     </div>
   </div>
