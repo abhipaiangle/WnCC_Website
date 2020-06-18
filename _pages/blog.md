@@ -8,11 +8,11 @@ permalink: /resources/
     <div class="container">
         <div class="col-12 text-center">
             <h2 class="section-title">WnCC Wiki- Grundy</h2>
-            It is an educational wiki, meant to help beginners get started with programming. It’s got 100+ articles, on
+            <p>It is an educational wiki, meant to help beginners get started with programming. It’s got 100+ articles, on
             various programming topics. All tutorials are hand-tailored by students of IIT Bombay. However, unlike
             conventional programming tutorials, these take a slightly different approach. Rather than reinventing the
             wheel, Grundy aims at bringing together a number of online tutorials and resources along with a set of
-            pre-requisites and motivation to learn a programming skill. Here are some top articles of Wiki
+            pre-requisites and motivation to learn a programming skill. Here are some top articles of Wiki</p>
         </div>
 
 <!-- Programming_101 -->
@@ -20,7 +20,7 @@ permalink: /resources/
 <div class="row">
             <div class="col-lg-4 col-sm-6 mb-4">
                 <article class="card shadow">
-                    <img class="rounded card-img-top" src="{{ site.baseurl }}/assets/images/resources/wiki1"
+                    <img class="rounded card-img-top" src="{{ site.baseurl }}/assets/images/resources/wiki1.jpg"
                         alt="Programming 101">
                     <div class="card-body">
                         <h4 class="card-title"><a class="text-dark"
@@ -30,7 +30,7 @@ permalink: /resources/
                             Instead, we will direct you to some amazing tutorials online along with some personalized
                             inputs on the general procedure
                         </p>
-                        <a href="https://www.wncc-iitb.org/wiki/index.php/Programming_101">Read More</a>
+                        <a href="https://www.wncc-iitb.org/wiki/index.php/Programming_101" class="btn btn-xs btn-primary">Read More</a>
                     </div>
                 </article>
             </div>
@@ -38,7 +38,7 @@ permalink: /resources/
 <!-- DC++ Setup -->
 <div class="col-lg-4 col-sm-6 mb-4">
                 <article class="card shadow">
-                    <img class="rounded card-img-top" src="{{ site.baseurl }}/assets/images/resources/wiki2"
+                    <img class="rounded card-img-top" src="{{ site.baseurl }}/assets/images/resources/wiki2.png"
                         alt="DC++ Setup">
                     <div class="card-body">
                         <h4 class="card-title"><a class="text-dark"
@@ -57,7 +57,7 @@ permalink: /resources/
 
 <div class="col-lg-4 col-sm-6 mb-4">
                 <article class="card shadow">
-                    <img class="rounded card-img-top" src="{{ site.baseurl }}/assets/images/resources/wiki3"
+                    <img class="rounded card-img-top" src="{{ site.baseurl }}/assets/images/resources/wiki3.jpg"
                         alt="GSoC Project">
                     <div class="card-body">
                         <h4 class="card-title"><a class="text-dark"
@@ -75,7 +75,7 @@ permalink: /resources/
 <!-- Software_ Engineering_ Without_ CS_ Major -->
 <div class="col-lg-4 col-sm-6 mb-4">
                 <article class="card shadow">
-                    <img class="rounded card-img-top" src="{{ site.baseurl }}/assets/images/resources/wiki4"
+                    <img class="rounded card-img-top" src="{{ site.baseurl }}/assets/images/resources/wiki4.png"
                         alt="Software Engineering">
                     <div class="card-body">
                         <h4 class="card-title"><a class="text-dark"
@@ -93,7 +93,7 @@ permalink: /resources/
 <!-- Introduction_ to_ Blockchain -->
 <div class="col-lg-4 col-sm-6 mb-4">
                 <article class="card shadow">
-                    <img class="rounded card-img-top" src="{{ site.baseurl }}/assets/images/resources/wiki5"
+                    <img class="rounded card-img-top" src="{{ site.baseurl }}/assets/images/resources/wiki5.png"
                         alt="Introduction to Blockchain">
                     <div class="card-body">
                         <h4 class="card-title"><a class="text-dark" href="
@@ -112,7 +112,7 @@ permalink: /resources/
 <!-- Community_ Resources -->
 <div class="col-lg-4 col-sm-6 mb-4">
                 <article class="card shadow">
-                    <img class="rounded card-img-top" src="{{ site.baseurl }}/assets/images/resources/wiki6"
+                    <img class="rounded card-img-top" src="{{ site.baseurl }}/assets/images/resources/wiki6.jpg"
                         alt="Community Resources">
                     <div class="card-body">
                         <h4 class="card-title"><a class="text-dark" href="
@@ -131,19 +131,19 @@ permalink: /resources/
 
 <section class="section bg-light">
     <div class="container">
-        <div class="row">
+        
             <div class="col-12 text-center">
                 <h2 class="section-title">Code.inQuarantine()</h2>
                <p> In the time of Lockdown, WnCC started a two month long open-for-all event so that everyone can utilize
                 their quarantine time learning coding skills. Here are few topics from them.</p>
             </div>
-        </div>
+        
 
 <!-- Competitive Programming -->
 <div class="row">
             <div class="col-lg-4 col-sm-6 mb-4">
                 <article class="card shadow">
-                    <img class="rounded card-img-top" src="{{ site.baseurl }}/assets/images/resources/Ciq1"
+                    <img class="rounded card-img-top" src="{{ site.baseurl }}/assets/images/resources/Ciq1.jpg"
                         alt="Competitive Programming">
                     <div class="card-body">
                         <h4 class="card-title"><a class="text-dark"
@@ -151,16 +151,16 @@ permalink: /resources/
                                 Programming</a></h4>
                         <p class="cars-text">
                         </p>
-                        <a href="https://github.com/wncc/CodeInQuarantine/blob/master/Week_2_CC/README.md">Read More</a>
+                        <a href="https://github.com/wncc/CodeInQuarantine/blob/master/Week_2_CC/README.md" class="btn btn-xs btn-primary">Read More</a>
                     </div>
                 </article>
             </div>
 
-<!-- Machine Learning -->
-<div class="row">
-                <div class="col-lg-4 col-sm-6 mb-4">
+            <!-- Machine Learning -->
+            
+            <div class="col-lg-4 col-sm-6 mb-4">
                     <article class="card shadow">
-                        <img class="rounded card-img-top" src="{{ site.baseurl }}/assets/images/resources/Ciq2"
+                        <img class="rounded card-img-top" src="{{ site.baseurl }}/assets/images/resources/Ciq2.jpg"
                             alt="Machine Learning">
                         <div class="card-body">
                             <h4 class="card-title"><a class="text-dark"
@@ -168,17 +168,17 @@ permalink: /resources/
                                     Learning</a></h4>
                             <p class="cars-text">
                             </p>
-                            <a href="https://github.com/wncc/CodeInQuarantine/blob/master/Week_3_ML/README.md">Read
+                            <a href="https://github.com/wncc/CodeInQuarantine/blob/master/Week_3_ML/README.md" class="btn btn-xs btn-primary">Read
                                 More</a>
                         </div>
                     </article>
-                </div>
+            </div>
 
-<!-- Advanced FrontEnd -->
-<div class="row">
-                    <div class="col-lg-4 col-sm-6 mb-4">
+            <!-- Advanced FrontEnd -->
+               
+            <div class="col-lg-4 col-sm-6 mb-4">
                         <article class="card shadow">
-                            <img class="rounded card-img-top" src="{{ site.baseurl }}/assets/images/resources/Ciq3"
+                            <img class="rounded card-img-top" src="{{ site.baseurl }}/assets/images/resources/Ciq3.jpg"
                                 alt="Advanced FrontEnd">
                             <div class="card-body">
                                 <h4 class="card-title"><a class="text-dark"
@@ -186,15 +186,12 @@ permalink: /resources/
                                         FrontEnd</a></h4>
                                 <p class="cars-text">
                                 </p>
-                                <a
-                                    href="https://github.com/wncc/CodeInQuarantine/blob/master/Week_7_AdvancedFrontEnd/README.md">Read
+                                <a href="https://github.com/wncc/CodeInQuarantine/blob/master/Week_7_AdvancedFrontEnd/README.md" class="btn btn-xs btn-primary">Read
                                     More</a>
                             </div>
                         </article>
-                    </div>
-                </div>
             </div>
-        </div>
+    </div>
 </section>
 <!-- /blog -->
 

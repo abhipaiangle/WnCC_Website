@@ -9,7 +9,7 @@ address: IIT Bombay, Powai, Mumbai, Maharashtra
 
 menu:
 - {name: About, link: '/about/'}
-- {name: Blog, link: '/blog/'}
+- {name: Resources, link: '/resources/'}
 - {name: SoC, link: '/soc/'}
 - {name: Contact, link: '/contact/'}
 
