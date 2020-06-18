@@ -179,7 +179,7 @@ soc-label:
     type : "Machine Learning"
   }
 - {
-    title : "DEV",
+    title : "DEVELOPMENT",
     type : "Development"
   }
 - {

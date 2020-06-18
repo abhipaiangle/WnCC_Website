@@ -72,14 +72,11 @@ permalink: /soc/
     <div class="row shuffle-wrapper">
       {% for item in site.data.settings.soc-items %}
       <div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[{% for soc in item.soc-type %}{% if forloop.first == true %}{% else %},{% endif %}&quot;{{ soc.type }}&quot;{% endfor %}]">
-        <div class="position-relative rounded hover-wrapper">
+        <div class="position-relative rounded hover-wrapper" href="{{ item.url }}">
           <img src="{{ site.baseurl }}/{{ item.image }}" alt="{{ item.title }}" class="img-fluid rounded w-100 d-block">
           <div class="hover-overlay">
-            <div class="hover-content">
-                    </div>
-                      <p class="font-secondary text-dark">{{ item.title|Title }}</p>
-                    </div>
-              <a class="btn btn-light btn-sm" href="{{ item.url }}">view project</a>
+            <div class="hover-content align-items-center">
+              <p class="font-secondary paragraph-lg text-dark">{{ item.title|Title }}</p>
             </div>
           </div>
 

@@ -1,4 +1,4 @@
-I"Š[<!-- about-soc -->
+I"’[<!-- about-soc -->
 <section class="section">
   <div class="container">
     <div class="row">
@@ -61,7 +61,7 @@
           </label>
           
           <label class="btn btn-sm btn-primary">
-            <input type="radio" name="shuffle-filter" value="Development" />DEV
+            <input type="radio" name="shuffle-filter" value="Development" />DEVELOPMENT
           </label>
           
           <label class="btn btn-sm btn-primary">
