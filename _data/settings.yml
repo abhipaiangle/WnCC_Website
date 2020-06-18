@@ -186,11 +186,12 @@ soc-label:
     title : "GRAPHICS",
     type : "Graphics"
   }
-  {
+- {
     title : "MISCELLANEOUS",
     type : "Miscellaneous"
   }
-  { title : "2020",
+-  {
+    title : "2020",
     type : "2020"
   }
 
