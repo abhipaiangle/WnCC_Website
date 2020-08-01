@@ -485,6 +485,90 @@ client-slider-items:
     url: "#"
 
 #-------------------------------
+# Resources Section
+
+resources-items:
+  - title: "WnCC Wiki- Grundy"
+    first-discription: "It is an educational wiki, meant to help beginners get started with programming. It’s got 100+ articles, on various programming topics. All tutorials are hand-tailored by students of IIT Bombay. However, unlike conventional programming tutorials, these take a slightly different approach. Rather than reinventing the wheel, Grundy aims at bringing together a number of online tutorials and resources along with a set of pre-requisites and motivation to learn a programming skill. Here are some top articles of Wiki."
+    name: "wiki"
+    last-discription: "We have articles covering tutorials covering most of basic Programming Languages, software and practices and we keep adding more and more so that everyone can use. Do visit to know more about it"
+    btn-title: "Visit Grundy"
+    btn-link: "https://www.wncc-iitb.org/wiki/index.php/The_Web_and_Coding_Club"
+    
+  - title: "Code.inQuarantine()"
+    first-discription: "In the time of Lockdown, WnCC started a two month long open-for-all event so that everyone can utilize their quarantine time learning coding skills. Here are few topics from them"
+    name: "ciq"
+    last-discription: "In these 8 weeks we provided tutorials for 8 diverse topics: Python; Competitive Programming; Machine Learning; Git/GitHub; FrontEnd Dev; BackEnd Dev; Advanced FrontEnd Dev; Blockchain. Do visit to learn."
+    btn-title: "Visit CiQ Github Repo"
+    btn-link: "https://github.com/wncc/CodeInQuarantine"
+    
+  # - title: ""
+  #   first-discription: ""
+  #   name: ""
+  #   last-discription: ""
+  #   btn-title: ""
+  #   btn-link: ""
+
+wiki:
+ - title: "Programming_101"
+   discription: "This is a comprehensive (hopefully) guide to starting out as a newbie in this giant world of programming. Remember, in this page we will not teach you how to code. Instead, we will direct you to some amazing tutorials online along with some personalized inputs on the general procedure."
+   link: "https://www.wncc-iitb.org/wiki/index.php/Programming_101"
+   image: "wiki1.png"
+
+ - title: "DC++ Setup"
+   discription: "DC++ is a free file sharing application that is used extensively within IIT Bombay. There are several DC++ "hubs" within IIT Bombay that can only be accessed using the IITB LAN. The benefits of using DC++ are high transfer speeds and content curated by various students."
+   link: "https://www.wncc-iitb.org/wiki/index.php/DC%2B%2B_Setup"
+   image: "wiki2.png"
+
+ - title: "GSoC Project"
+   discription: "This is a comprehensive list of GSoC projects our community has worked upon / recommends. We have tried to add our completion blog as well wherever relevant. We have a separate Open Source guide to get you started."
+   link: "https://www.wncc-iitb.org/wiki/index.php/GSoC_Projects"
+   image: "wiki3.png"
+
+ - title: "Software Engineering Without CS Major"
+   discription: "As the name suggest, the article deeply explains how you can be a Software Engineer without a CS Major degree by following these steps mentioned for each of your 3rd to 8th semester in your degree of any specialisation and in any college."
+   link: "https://www.wncc-iitb.org/wiki/index.php/Software_Engineering_Without_CS_Major"
+   image: "wiki4.png"
+ 
+ - title: "Introduction to Blockchain"
+   discription: "This is an introduction to blockchain and related concepts. This is an introduction to blockchain and related concepts. This article covers the basics of Blockchain and how cryptocurrencies like Bitcoins and Ethereum are built on it. The mathematical aspects of the Blockchain have been discussed."
+   link: "https://www.wncc-iitb.org/wiki/index.php/Introduction_to_Blockchain"
+   image: "wiki5.png"
+
+ - title: "Community Resources"
+   discription: "Our community has made a number of blogs with excellent tutorials, hacks and guidelines. This article is a comprehensive list of tutorials arranged topic wise. All slides and video tutorials are also tagged."
+   link: "https://www.wncc-iitb.org/wiki/index.php/Community_Resources"
+   image: "wiki6.png"
+
+
+ciq:
+ - title: "Competitive Programming"
+   discription: ""
+   link: "https://github.com/wncc/CodeInQuarantine/blob/master/Week_2_CC/README.md"
+   image: "ciq1.png"
+
+ - title: "Machine Learning"
+   discription: ""
+   link: "https://github.com/wncc/CodeInQuarantine/blob/master/Week_3_ML/README.md"
+   image: "ciq2.png"
+
+ - title: "Advanced FrontEnd"
+   discription: ""
+   link: "https://github.com/wncc/CodeInQuarantine/blob/master/Week_7_CC/README.md"
+   image: "ciq3.png"
+
+
+ 
+#  - title: ""
+#    discription: ""
+#    link: ""
+#    image: ""
+   
+
+
+    
+
+#-------------------------------
 # Contact Section
 
 contact-title: Contact Info
