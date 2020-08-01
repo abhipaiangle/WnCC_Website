@@ -515,8 +515,8 @@ wiki:
    link: "https://www.wncc-iitb.org/wiki/index.php/Programming_101"
    image: "wiki1.png"
 
- - title: "DC++ Setup"
-   discription: "DC++ is a free file sharing application that is used extensively within IIT Bombay. There are several DC++ "hubs" within IIT Bombay that can only be accessed using the IITB LAN. The benefits of using DC++ are high transfer speeds and content curated by various students."
+ - title: "DC Setup"
+   discription: "DC is a free file sharing application that is used extensively within IIT Bombay. There are several DC "hubs" within IIT Bombay that can only be accessed using the IITB LAN. The benefits of using DC are high transfer speeds and content curated by various students."
    link: "https://www.wncc-iitb.org/wiki/index.php/DC%2B%2B_Setup"
    image: "wiki2.png"
 
