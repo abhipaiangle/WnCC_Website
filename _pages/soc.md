@@ -23,27 +23,27 @@ permalink: /soc/
 <!-- /about-soc -->
 
 <!-- join the force (from old website) -->
-<section id="one" class="wrapper style2">
+<section id="one" class="wrapper bg-primary">
   <header class="major_soc">
-    <h2>Join The Force</h2>
-    <p>Do. Or do not. There is no try.</p>
+    <h2 class="text-white">Join The Force</h2>
+    <p class="text-white">Do. Or do not. There is no try.</p>
   </header>
-  <div class="container_soc">
+  <div class="container-fluid p-3">
     <div class="row">
-      <div class="row_soc">
-        <section class="special_soc box1_soc">
-          <img class="icon major_soc" src="/svg/light-siber-one.svg" />
-          <h3>Padawan</h3>
-          <p>The Force is strong with you. <br> Train yourself to let go of everything you fear to lose. <br> The Force will be with you always.<br> Ready are you?</p><br />
-          <a target="_blank" href="https://forms.gle/6hSaLUSB8Gfeogw7A" class="button big special">Become a Padawan</a>
-        </section>
+      <div class="col-md-6 col-sm-12 text-center">
+        <section>
+          <img class="icon major_soc " src="/svg/light-siber-one.svg" />
+          <h3 class="text-white">Padawan</h3>
+          <p class="text-white">The Force is strong with you. <br> Train yourself to let go of everything you fear to lose. <br> The Force will be with you always.<br> Ready are you?</p><br />
+          <a target="_blank" type="button" href="https://forms.gle/6hSaLUSB8Gfeogw7A" class="btn btn-info ">Become a Padawan</a>
+        </section>  
       </div>
-      <div class="row_soc">
-        <section class="special_soc box2_soc">
+      <div class="col-md-6 col-sm-12 text-center">
+        <section>
           <img class="icon major_soc" src="/svg/light-siber.svg" />
-          <h3>Master</h3>
-          <p>I can feel you code. <br> It gives you focus. It makes you stronger. <br> Your focus determines your reality. <br> Use the force <br> and someday you will be the most powerful Jedi ever.</p>
-          <a target="_blank" href="https://goo.gl/forms/1WXW4oSDwlCHD4313" class="button big special">Become a Master</a>
+          <h3 class="text-white">Master</h3>
+          <p class="text-white">I can feel you code. <br> It gives you focus. It makes you stronger. <br> Use the force <br> and someday you will be the most powerful Jedi ever.</p><br />
+          <a target="_blank" type="button" href="https://goo.gl/forms/1WXW4oSDwlCHD4313" class="btn btn-info">Become a Master</a>
         </section>
       </div>
     </div>
@@ -76,7 +76,7 @@ permalink: /soc/
           <img src="{{ site.baseurl }}/{{ item.image }}" alt="{{ item.title }}" class="img-fluid rounded w-100 d-block">
           <div class="hover-overlay">
             <div style="backdrop-filter: saturate(130%) blur(3px);" class="hover-content">
-              <a class="font-tertiary paragraph-lg text-dark" href = "{{item.link}}">{{ item.title|Title }}</a>
+              <a class="font-tertiary paragraph-lg text-dark" href = "{{item.url}}">{{ item.title|Title }}</a>
             </div>
           </div>
         </div>
