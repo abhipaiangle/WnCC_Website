@@ -4,7 +4,7 @@
 title: WnCC IIT Bombay
 logo: logo.png
 email: steve.fruits@email.com
-phone: +880 2544 658 256
+phone: 0000
 address: IIT Bombay, Powai, Mumbai, Maharashtra
 
 menu:
@@ -73,15 +73,15 @@ work-process:
 
 # My Team Section
 team:
-  - title : "Jack Schenziwe"
+  - title : "Akshit Shrivastava"
     image : "assets/images/team/member-1.png"
-    designation : "Project Manager"
+    designation : "Manager"
     
-  - title : "Julias Carlie"
+  - title : "Latika Patel"
     image : "assets/images/team/member-2.png"
-    designation : "Web Developer"
+    designation : "Manager"
     
-  - title : "John Doe"
+  - title : "Baaki Conveners"
     image : "assets/images/team/member-3.png"
     designation : "Designer"
 
