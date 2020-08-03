@@ -76,7 +76,7 @@ permalink: /soc/
           <img src="{{ site.baseurl }}/{{ item.image }}" alt="{{ item.title }}" class="img-fluid rounded w-100 d-block">
           <div class="hover-overlay">
             <div style="backdrop-filter: saturate(130%) blur(3px);" class="hover-content">
-              <p class="font-tertiary paragraph-lg text-dark">{{ item.title|Title }}</p>
+              <a class="font-tertiary paragraph-lg text-dark" href = "{{item.link}}">{{ item.title|Title }}</a>
             </div>
           </div>
         </div>

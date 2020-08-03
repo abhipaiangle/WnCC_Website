@@ -28,18 +28,16 @@ permalink: /soc/
     <h2>Join The Force</h2>
     <p>Do. Or do not. There is no try.</p>
   </header>
-  <div class="container_soc">
+  <div class="container-fluid">
     <div class="row">
-      <div class="row_soc">
-        <section class="special_soc box1_soc">
-          <img class="icon major_soc" src="/svg/light-siber-one.svg" />
+      <div class="col-md-6 col-sm-12 align-self-center">
+          <img class="icon major_soc align-self-center" src="/svg/light-siber-one.svg" />
           <h3>Padawan</h3>
           <p>The Force is strong with you. <br> Train yourself to let go of everything you fear to lose. <br> The Force will be with you always.<br> Ready are you?</p><br />
           <a target="_blank" href="https://forms.gle/6hSaLUSB8Gfeogw7A" class="button big special">Become a Padawan</a>
-        </section>
       </div>
-      <div class="row_soc">
-        <section class="special_soc box2_soc">
+      <div class="col-md-6 col-sm-12">
+        <section class="">
           <img class="icon major_soc" src="/svg/light-siber.svg" />
           <h3>Master</h3>
           <p>I can feel you code. <br> It gives you focus. It makes you stronger. <br> Your focus determines your reality. <br> Use the force <br> and someday you will be the most powerful Jedi ever.</p>
@@ -76,7 +74,7 @@ permalink: /soc/
           <img src="{{ site.baseurl }}/{{ item.image }}" alt="{{ item.title }}" class="img-fluid rounded w-100 d-block">
           <div class="hover-overlay">
             <div style="backdrop-filter: saturate(130%) blur(3px);" class="hover-content">
-              <p class="font-tertiary paragraph-lg text-dark">{{ item.title|Title }}</p>
+              <a class="font-tertiary paragraph-lg text-dark" href = "{{item.url}}">{{ item.title|Title }}</a>
             </div>
           </div>
         </div>
