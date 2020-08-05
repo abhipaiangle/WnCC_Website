@@ -1,4 +1,4 @@
-I"Ýo<!-- about-soc -->
+I"¹o<!-- about-soc -->
 <section class="section">
   <div class="container-fluid">
     <div class="row">
@@ -82,11 +82,11 @@
     <div class="row shuffle-wrapper">
       
       <div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[&quot;Machine Learning&quot;,&quot;2020&quot;]">
-        <div class="position-relative rounded hover-wrapper" href="https://www.wncc-iitb.org/soc_projects/44-akshit-gan.html">
+        <div class="position-relative rounded hover-wrapper" href="/soc/projects/why-the-hype-around-gans/">
           <span class="rounded"> <img src="/assets/images/soc/item-1.png" alt="Why The Hype Around GANs" class="img-fluid  w-100 d-block" /></span>
           <div class="hover-overlay">
             <div style="backdrop-filter: saturate(130%) blur(3px);" class="hover-content p-1">
-              <a class="btn btn-primary btn-block" style="white-space:normal; word-wrap:break-word;" href="https://www.wncc-iitb.org/soc_projects/44-akshit-gan.html">Why The Hype Around GANs</a>
+              <a class="btn btn-primary btn-block" style="white-space:normal; word-wrap:break-word;" href="/soc/projects/why-the-hype-around-gans/">Why The Hype Around GANs</a>
             </div>
           </div>
         </div>

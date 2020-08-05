@@ -198,7 +198,7 @@ soc-label:
 soc-items:
   - title : "Why The Hype Around GANs"
     image : "assets/images/soc/item-1.png"
-    url: "https://www.wncc-iitb.org/soc_projects/44-akshit-gan.html"
+    url: "/soc/projects/why-the-hype-around-gans/"
     soc-type:
      - type: "Machine Learning"
      - type: "2020"
