@@ -559,10 +559,12 @@ ciq:
    image: "ciq3.png"
 
 
- 
-#  - title: ""
-#    discription: ""
-#    link: ""
+#-------------------------
+# Events Section
+events-items:
+  - title: "QnA with Kalpesh"
+    discription: "Kalpesh Krishna, an EE graduate of class of 2018 IIT Bombay, gave a talk on different CS opportunites available for non-CS students in the institute."
+    link: "wncc-iitb.org"
 #    image: ""
    
 
