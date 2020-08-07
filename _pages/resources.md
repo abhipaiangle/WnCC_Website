@@ -10,7 +10,7 @@ permalink: /resources/
 <div class="container">
         <div class="col-12 text-center">
             <h2 class="section-title">{{ item.title }}</h2>
-            <p>{{ item.first-description }}</p>
+            <p>{{ item.fdes }}</p>
         </div>
 
 <!-- Programming_101 -->
@@ -32,7 +32,7 @@ permalink: /resources/
             </div>
             {% endfor %}
 </div>
-<p>{{ item.last-description }}</p>
+<p>{{ item.ldes }}</p>
 <a href="{{ item.btn-link }}" class="btn btn-xs btn-primary" target="_blank">{{ item.btn-title }}</a>
 </div>
 </section>
