@@ -4,13 +4,14 @@
 title: WnCC IIT Bombay
 logo: logo.png
 email: steve.fruits@email.com
-phone: +880 2544 658 256
+phone: 0000
 address: IIT Bombay, Powai, Mumbai, Maharashtra
 
 menu:
 - {name: About, link: '/about/'}
 - {name: Resources, link: '/resources/'}
 - {name: SoC, link: '/soc/'}
+- {name: Events, link: '/events/'}
 - {name: Contact, link: '/contact/'}
 
 
@@ -73,15 +74,15 @@ work-process:
 
 # My Team Section
 team:
-  - title : "Jack Schenziwe"
+  - title : "Akshit Shrivastava"
     image : "assets/images/team/member-1.png"
-    designation : "Project Manager"
+    designation : "Manager"
     
-  - title : "Julias Carlie"
+  - title : "Latika Patel"
     image : "assets/images/team/member-2.png"
-    designation : "Web Developer"
+    designation : "Manager"
     
-  - title : "John Doe"
+  - title : "Baaki Conveners"
     image : "assets/images/team/member-3.png"
     designation : "Designer"
 
@@ -198,7 +199,7 @@ soc-label:
 soc-items:
   - title : "Why The Hype Around GANs"
     image : "assets/images/soc/item-1.png"
-    url: "https://www.wncc-iitb.org/soc_projects/44-akshit-gan.html"
+    url: "/soc/projects/why-the-hype-around-gans/"
     soc-type:
      - type: "Machine Learning"
      - type: "2020"
@@ -515,10 +516,10 @@ wiki:
    link: "https://www.wncc-iitb.org/wiki/index.php/Programming_101"
    image: "wiki1.png"
 
- - title: "DC Setup"
-   discription: "DC is a free file sharing application that is used extensively within IIT Bombay. There are several DC "hubs" within IIT Bombay that can only be accessed using the IITB LAN. The benefits of using DC are high transfer speeds and content curated by various students."
-   link: "https://www.wncc-iitb.org/wiki/index.php/DC%2B%2B_Setup"
-   image: "wiki2.png"
+ #- title: "DC Setup"
+  # discription: "DC is a free file sharing application that is used extensively within IIT Bombay. There are several DC "hubs" within IIT Bombay that can only be accessed using the IITB LAN. The benefits of using DC are high transfer speeds and content curated by various students."
+   #link: "https://www.wncc-iitb.org/wiki/index.php/DC%2B%2B_Setup"
+   #image: "wiki2.png"
 
  - title: "GSoC Project"
    discription: "This is a comprehensive list of GSoC projects our community has worked upon / recommends. We have tried to add our completion blog as well wherever relevant. We have a separate Open Source guide to get you started."
@@ -558,10 +559,12 @@ ciq:
    image: "ciq3.png"
 
 
- 
-#  - title: ""
-#    discription: ""
-#    link: ""
+#-------------------------
+# Events Section
+events-items:
+  - title: "QnA with Kalpesh"
+    discription: "Kalpesh Krishna, an EE graduate of class of 2018 IIT Bombay, gave a talk on different CS opportunites available for non-CS students in the institute."
+    link: "wncc-iitb.org"
 #    image: ""
    
 

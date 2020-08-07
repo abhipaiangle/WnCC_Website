@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Seasons of Code 2020
+title: Seasons of Code
 permalink: /soc/
 ---
 
 <!-- about-soc -->
 <section class="section">
-  <div class="container">
+  <div class="container-fluid">
     <div class="row">
       <div class="col-lg-10 mx-auto text-center">
         <h3> What is Seasons of Code? </h3>
@@ -23,27 +23,27 @@ permalink: /soc/
 <!-- /about-soc -->
 
 <!-- join the force (from old website) -->
-<section id="one" class="wrapper style2">
-  <header class="major_soc">
-    <h2>Join The Force</h2>
-    <p>Do. Or do not. There is no try.</p>
+<section id="one" class="wrapper bg-primary">
+  <header class="major_soc p-2">
+    <h2 class="text-white">Join The Force</h2>
+    <p class="text-white">Do. Or do not. There is no try.</p>
   </header>
-  <div class="container_soc">
+  <div class="container p-3">
     <div class="row">
-      <div class="row_soc">
-        <section class="special_soc box1_soc">
-          <img class="icon major_soc" src="/svg/light-siber-one.svg" />
-          <h3>Padawan</h3>
-          <p>The Force is strong with you. <br> Train yourself to let go of everything you fear to lose. <br> The Force will be with you always.<br> Ready are you?</p><br />
-          <a target="_blank" href="https://forms.gle/6hSaLUSB8Gfeogw7A" class="button big special">Become a Padawan</a>
-        </section>
+      <div class="col-md-6 col-sm-12 text-center p-3">
+        <section>
+          <img class="icon major_soc " src="/svg/light-siber-one.svg" />
+          <h3 class="text-white">Padawan</h3>
+          <p class="text-white">The Force is strong with you. <br> Train yourself to let go of everything you fear to lose. <br> The Force will be with you always.<br> Ready are you?</p><br />
+          <a target="_blank" type="button" href="https://forms.gle/6hSaLUSB8Gfeogw7A" class="btn btn-info ">Become a Padawan</a>
+        </section>  
       </div>
-      <div class="row_soc">
-        <section class="special_soc box2_soc">
+      <div class="col-md-6 col-sm-12 text-center p-3">
+        <section>
           <img class="icon major_soc" src="/svg/light-siber.svg" />
-          <h3>Master</h3>
-          <p>I can feel you code. <br> It gives you focus. It makes you stronger. <br> Your focus determines your reality. <br> Use the force <br> and someday you will be the most powerful Jedi ever.</p>
-          <a target="_blank" href="https://goo.gl/forms/1WXW4oSDwlCHD4313" class="button big special">Become a Master</a>
+          <h3 class="text-white">Master</h3>
+          <p class="text-white">I can feel you code. <br> It gives you focus. It makes you stronger. <br> Use the force <br> and someday you will be the most powerful Jedi ever.</p><br />
+          <a target="_blank" type="button" href="https://goo.gl/forms/1WXW4oSDwlCHD4313" class="btn btn-info">Become a Master</a>
         </section>
       </div>
     </div>
@@ -73,10 +73,10 @@ permalink: /soc/
       {% for item in site.data.settings.soc-items %}
       <div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[{% for soc in item.soc-type %}{% if forloop.first == true %}{% else %},{% endif %}&quot;{{ soc.type }}&quot;{% endfor %}]">
         <div class="position-relative rounded hover-wrapper" href="{{ item.url }}">
-          <img src="{{ site.baseurl }}/{{ item.image }}" alt="{{ item.title }}" class="img-fluid rounded w-100 d-block">
+          <span class="rounded"> <img src="{{ site.baseurl }}/{{ item.image }}" alt="{{ item.title }}" class="img-fluid  w-100 d-block"></span>
           <div class="hover-overlay">
-            <div style="backdrop-filter: saturate(130%) blur(3px);" class="hover-content">
-              <p class="font-tertiary paragraph-lg text-dark">{{ item.title|Title }}</p>
+            <div style="backdrop-filter: saturate(130%) blur(3px);" class="hover-content p-1">
+              <a class="btn btn-primary btn-block" style="white-space:normal; word-wrap:break-word;" href = "{{item.url | relative_url}}">{{ item.title|Title }}</a>
             </div>
           </div>
         </div>
@@ -86,16 +86,3 @@ permalink: /soc/
   </div>
 </section>
 <!-- /soc -->
-
-<!-- clients -->
-<section class="section bg-light">
-  <div class="container">
-    <div class="row">
-      <div class="col-12 text-center">
-        <h2 class="section-title">My Clients</h2>
-      </div>
-    </div>
-    {% include client-slider.html %}
-  </div>
-</section>
-<!-- /clients -->
