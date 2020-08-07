@@ -75,8 +75,8 @@ permalink: /soc/
         <div class="position-relative rounded hover-wrapper" href="{{ item.url }}">
           <span class="rounded"> <img src="{{ site.baseurl }}/{{ item.image }}" alt="{{ item.title }}" class="img-fluid  w-100 d-block"></span>
           <div class="hover-overlay">
-            <div style="backdrop-filter: saturate(130%) blur(3px);" class="hover-content p-1">
-              <a class="btn btn-primary btn-block" style="white-space:normal; word-wrap:break-word;" href = "{{item.url | relative_url}}">{{ item.title|Title }}</a>
+            <div class="hover-content p-1 m-1">
+              <a class="btn btn-xs btn-primary btn-block" style="white-space:normal; word-wrap:break-word;overflow: hidden;text-overflow: ellipsis;" href = "{{item.url | relative_url}}">{{ item.title|Title }}</a>
             </div>
           </div>
         </div>

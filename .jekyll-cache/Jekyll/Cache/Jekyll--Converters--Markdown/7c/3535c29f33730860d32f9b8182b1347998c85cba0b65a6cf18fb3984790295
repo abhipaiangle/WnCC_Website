@@ -1,106 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-  <meta charset="utf-8">
-  <title>Seasons of Code</title>
-
-  <!-- mobile responsive meta -->
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-  
-  <!-- ** Plugins Needed for the Project ** -->
-  <!-- Bootstrap -->
-  <link rel="stylesheet" href="/assets/plugins/bootstrap/bootstrap.min.css">
-  <!-- slick slider -->
-  <link rel="stylesheet" href="/assets/plugins/slick/slick.css">
-  <!-- themefy-icon -->
-  <link rel="stylesheet" href="/assets/plugins/themify-icons/themify-icons.css">
-
-  <!-- Main Stylesheet -->
-  <link href="/assets/css/style.css" rel="stylesheet">
-  
-  <!--Favicon-->
-  <link rel="shortcut icon" href="/assets/images/favicon.ico" type="image/x-icon">
-  <link rel="icon" href="/assets/images/favicon.ico" type="image/x-icon">
-
-  <style>
-  .img-soc{
-    width: 100%;
-    height: auto;
-    aspect-ratio: attr(width) / attr(height);
-  }
-  </style>
-
-</head>
-
-<body>
-
-
-  <header class="navigation fixed-top">
-  <nav class="navbar navbar-expand-lg navbar-dark">
-    <a class="navbar-brand font-tertiary h3" href="/">
-      
-        <img src="/assets/images/logo.png" alt="WnCC IIT Bombay">
-      
-    </a>
-    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navigation"
-      aria-controls="navigation" aria-expanded="false" aria-label="Toggle navigation">
-      <span class="navbar-toggler-icon"></span>
-    </button>
-
-    <div class="collapse navbar-collapse text-center" id="navigation">
-      <ul class="navbar-nav ml-auto">
-        <li class="nav-item active">
-          <a class="nav-link" href="/">Home</a>
-        </li>
-        
-          <li class="nav-item ">
-            <a class="nav-link" href="/about/">About</a>
-          </li>
-        
-          <li class="nav-item ">
-            <a class="nav-link" href="/resources/">Resources</a>
-          </li>
-        
-          <li class="nav-item ">
-            <a class="nav-link" href="/soc/">SoC</a>
-          </li>
-        
-          <li class="nav-item ">
-            <a class="nav-link" href="/events/">Events</a>
-          </li>
-        
-          <li class="nav-item ">
-            <a class="nav-link" href="/contact/">Contact</a>
-          </li>
-        
-      </ul>
-    </div>
-  </nav>
-</header>
-
-  <!-- page title -->
-<section class="page-title bg-primary position-relative">
-  <div class="container">
-    <div class="row">
-      <div class="col-12 text-center">
-        <h1 class="text-white display-1">Seasons of Code</h1>
-      </div>
-    </div>
-  </div>
-  <!-- background shapes -->
-  <img src="/assets/images/illustrations/page-title.png" alt="illustrations" class="bg-shape-1 w-100">
-  <img src="/assets/images/illustrations/leaf-pink-round.png" alt="illustrations" class="bg-shape-2">
-  <img src="/assets/images/illustrations/dots-cyan.png" alt="illustrations" class="bg-shape-3">
-  <img src="/assets/images/illustrations/leaf-orange.png" alt="illustrations" class="bg-shape-4">
-  <img src="/assets/images/illustrations/leaf-yellow.png" alt="illustrations" class="bg-shape-5">
-  <img src="/assets/images/illustrations/dots-group-cyan.png" alt="illustrations" class="bg-shape-6">
-  <img src="/assets/images/illustrations/leaf-cyan-lg.png" alt="illustrations" class="bg-shape-7">
-</section>
-<!-- /page title -->
-
-<!-- about-soc -->
+I"�s<!-- about-soc -->
 <section class="section">
   <div class="container-fluid">
     <div class="row">
@@ -186,9 +84,9 @@
       <div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[&quot;Machine Learning&quot;,&quot;2020&quot;]">
         <div class="position-relative rounded hover-wrapper" href="/soc/projects/why-the-hype-around-gans/">
           <span class="rounded"> <img src="/assets/images/soc/item-1.png" alt="Why The Hype Around GANs" class="img-fluid  w-100 d-block" /></span>
-          <div class="hover-overlay">
-            <div class="hover-content p-1 m-1">
-              <a class="btn btn-xs btn-primary btn-block" style="white-space:normal; word-wrap:break-word;overflow: hidden;text-overflow: ellipsis;" href="/soc/projects/why-the-hype-around-gans/">Why The Hype Around GANs</a>
+          <div class="hover-overlay" style="white-space:nowrap; display:flex">
+            <div class="hover-content p-1 m-1" style="white-space:nowrap;display:flex;">
+              <a class="btn btn-primary btn-block" style="white-space:normal; word-wrap:break-word;" href="/soc/projects/why-the-hype-around-gans/">Why The Hype Around GANs</a>
             </div>
           </div>
         </div>
@@ -197,9 +95,9 @@
       <div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[&quot;Development&quot;,&quot;Machine Learning&quot;,&quot;2020&quot;]">
         <div class="position-relative rounded hover-wrapper" href="https://www.wncc-iitb.org/soc_projects/45-siddesh-3d-reconstruction.html">
           <span class="rounded"> <img src="/assets/images/soc/item-2.png" alt="3D reconstruction using 2D images" class="img-fluid  w-100 d-block" /></span>
-          <div class="hover-overlay">
-            <div class="hover-content p-1 m-1">
-              <a class="btn btn-xs btn-primary btn-block" style="white-space:normal; word-wrap:break-word;overflow: hidden;text-overflow: ellipsis;" href="https://www.wncc-iitb.org/soc_projects/45-siddesh-3d-reconstruction.html">3D reconstruction using 2D images</a>
+          <div class="hover-overlay" style="white-space:nowrap; display:flex">
+            <div class="hover-content p-1 m-1" style="white-space:nowrap;display:flex;">
+              <a class="btn btn-primary btn-block" style="white-space:normal; word-wrap:break-word;" href="https://www.wncc-iitb.org/soc_projects/45-siddesh-3d-reconstruction.html">3D reconstruction using 2D images</a>
             </div>
           </div>
         </div>
@@ -208,9 +106,9 @@
       <div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[&quot;Development&quot;,&quot;Machine Learning&quot;,&quot;2020&quot;]">
         <div class="position-relative rounded hover-wrapper" href="https://www.wncc-iitb.org/soc_projects/46-vishal-cv-workbench.html">
           <span class="rounded"> <img src="/assets/images/soc/item-3.png" alt="Computer Vision Workbench" class="img-fluid  w-100 d-block" /></span>
-          <div class="hover-overlay">
-            <div class="hover-content p-1 m-1">
-              <a class="btn btn-xs btn-primary btn-block" style="white-space:normal; word-wrap:break-word;overflow: hidden;text-overflow: ellipsis;" href="https://www.wncc-iitb.org/soc_projects/46-vishal-cv-workbench.html">Computer Vision Workbench</a>
+          <div class="hover-overlay" style="white-space:nowrap; display:flex">
+            <div class="hover-content p-1 m-1" style="white-space:nowrap;display:flex;">
+              <a class="btn btn-primary btn-block" style="white-space:normal; word-wrap:break-word;" href="https://www.wncc-iitb.org/soc_projects/46-vishal-cv-workbench.html">Computer Vision Workbench</a>
             </div>
           </div>
         </div>
@@ -219,9 +117,9 @@
       <div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[&quot;Machine Learning&quot;,&quot;2020&quot;]">
         <div class="position-relative rounded hover-wrapper" href="https://www.wncc-iitb.org/soc_projects/47-sudhir-neural.html">
           <span class="rounded"> <img src="/assets/images/soc/item-4.png" alt="3D Object Classification using Mesh Neural Network" class="img-fluid  w-100 d-block" /></span>
-          <div class="hover-overlay">
-            <div class="hover-content p-1 m-1">
-              <a class="btn btn-xs btn-primary btn-block" style="white-space:normal; word-wrap:break-word;overflow: hidden;text-overflow: ellipsis;" href="https://www.wncc-iitb.org/soc_projects/47-sudhir-neural.html">3D Object Classification using Mesh Neural Network</a>
+          <div class="hover-overlay" style="white-space:nowrap; display:flex">
+            <div class="hover-content p-1 m-1" style="white-space:nowrap;display:flex;">
+              <a class="btn btn-primary btn-block" style="white-space:normal; word-wrap:break-word;" href="https://www.wncc-iitb.org/soc_projects/47-sudhir-neural.html">3D Object Classification using Mesh Neural Network</a>
             </div>
           </div>
         </div>
@@ -230,9 +128,9 @@
       <div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[&quot;Machine Learning&quot;,&quot;2020&quot;]">
         <div class="position-relative rounded hover-wrapper" href="https://www.wncc-iitb.org/soc_projects/48-anubhav-ML.html">
           <span class="rounded"> <img src="/assets/images/soc/item-5.png" alt="Lossless high entropy compression algorithm" class="img-fluid  w-100 d-block" /></span>
-          <div class="hover-overlay">
-            <div class="hover-content p-1 m-1">
-              <a class="btn btn-xs btn-primary btn-block" style="white-space:normal; word-wrap:break-word;overflow: hidden;text-overflow: ellipsis;" href="https://www.wncc-iitb.org/soc_projects/48-anubhav-ML.html">Lossless high entropy compression algorithm</a>
+          <div class="hover-overlay" style="white-space:nowrap; display:flex">
+            <div class="hover-content p-1 m-1" style="white-space:nowrap;display:flex;">
+              <a class="btn btn-primary btn-block" style="white-space:normal; word-wrap:break-word;" href="https://www.wncc-iitb.org/soc_projects/48-anubhav-ML.html">Lossless high entropy compression algorithm</a>
             </div>
           </div>
         </div>
@@ -241,9 +139,9 @@
       <div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[&quot;Development&quot;,&quot;2020&quot;]">
         <div class="position-relative rounded hover-wrapper" href="https://www.wncc-iitb.org/soc_projects/50-pritam-kumar-webdev.html">
           <span class="rounded"> <img src="/assets/images/soc/item-6.png" alt="Tools for Web Development" class="img-fluid  w-100 d-block" /></span>
-          <div class="hover-overlay">
-            <div class="hover-content p-1 m-1">
-              <a class="btn btn-xs btn-primary btn-block" style="white-space:normal; word-wrap:break-word;overflow: hidden;text-overflow: ellipsis;" href="https://www.wncc-iitb.org/soc_projects/50-pritam-kumar-webdev.html">Tools for Web Development</a>
+          <div class="hover-overlay" style="white-space:nowrap; display:flex">
+            <div class="hover-content p-1 m-1" style="white-space:nowrap;display:flex;">
+              <a class="btn btn-primary btn-block" style="white-space:normal; word-wrap:break-word;" href="https://www.wncc-iitb.org/soc_projects/50-pritam-kumar-webdev.html">Tools for Web Development</a>
             </div>
           </div>
         </div>
@@ -252,9 +150,9 @@
       <div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[&quot;Machine Learning&quot;,&quot;2020&quot;]">
         <div class="position-relative rounded hover-wrapper" href="https://www.wncc-iitb.org/soc_projects/49-lalit-mlgym.html">
           <span class="rounded"> <img src="/assets/images/soc/item-7.png" alt="ML GYM" class="img-fluid  w-100 d-block" /></span>
-          <div class="hover-overlay">
-            <div class="hover-content p-1 m-1">
-              <a class="btn btn-xs btn-primary btn-block" style="white-space:normal; word-wrap:break-word;overflow: hidden;text-overflow: ellipsis;" href="https://www.wncc-iitb.org/soc_projects/49-lalit-mlgym.html">ML GYM</a>
+          <div class="hover-overlay" style="white-space:nowrap; display:flex">
+            <div class="hover-content p-1 m-1" style="white-space:nowrap;display:flex;">
+              <a class="btn btn-primary btn-block" style="white-space:normal; word-wrap:break-word;" href="https://www.wncc-iitb.org/soc_projects/49-lalit-mlgym.html">ML GYM</a>
             </div>
           </div>
         </div>
@@ -263,9 +161,9 @@
       <div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[&quot;Development&quot;,&quot;2020&quot;]">
         <div class="position-relative rounded hover-wrapper" href="https://www.wncc-iitb.org/soc_projects/51-dhairya-strategywars.html">
           <span class="rounded"> <img src="/assets/images/soc/item-8.png" alt="Strategy Wars [Online]" class="img-fluid  w-100 d-block" /></span>
-          <div class="hover-overlay">
-            <div class="hover-content p-1 m-1">
-              <a class="btn btn-xs btn-primary btn-block" style="white-space:normal; word-wrap:break-word;overflow: hidden;text-overflow: ellipsis;" href="https://www.wncc-iitb.org/soc_projects/51-dhairya-strategywars.html">Strategy Wars [Online]</a>
+          <div class="hover-overlay" style="white-space:nowrap; display:flex">
+            <div class="hover-content p-1 m-1" style="white-space:nowrap;display:flex;">
+              <a class="btn btn-primary btn-block" style="white-space:normal; word-wrap:break-word;" href="https://www.wncc-iitb.org/soc_projects/51-dhairya-strategywars.html">Strategy Wars [Online]</a>
             </div>
           </div>
         </div>
@@ -274,9 +172,9 @@
       <div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[&quot;Develppment&quot;,&quot;2020&quot;]">
         <div class="position-relative rounded hover-wrapper" href="https://www.wncc-iitb.org/soc_projects/55-bharti-supershenron.html">
           <span class="rounded"> <img src="/assets/images/soc/item-9.png" alt="Super Shenron" class="img-fluid  w-100 d-block" /></span>
-          <div class="hover-overlay">
-            <div class="hover-content p-1 m-1">
-              <a class="btn btn-xs btn-primary btn-block" style="white-space:normal; word-wrap:break-word;overflow: hidden;text-overflow: ellipsis;" href="https://www.wncc-iitb.org/soc_projects/55-bharti-supershenron.html">Super Shenron</a>
+          <div class="hover-overlay" style="white-space:nowrap; display:flex">
+            <div class="hover-content p-1 m-1" style="white-space:nowrap;display:flex;">
+              <a class="btn btn-primary btn-block" style="white-space:normal; word-wrap:break-word;" href="https://www.wncc-iitb.org/soc_projects/55-bharti-supershenron.html">Super Shenron</a>
             </div>
           </div>
         </div>
@@ -285,9 +183,9 @@
       <div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[&quot;Machine Learning&quot;,&quot;Development&quot;,&quot;Graphics&quot;,&quot;2020&quot;]">
         <div class="position-relative rounded hover-wrapper" href="https://www.wncc-iitb.org/soc_projects/56-pagar-gestures.html">
           <span class="rounded"> <img src="/assets/images/soc/item-10.gif" alt="Gestures for 3D space" class="img-fluid  w-100 d-block" /></span>
-          <div class="hover-overlay">
-            <div class="hover-content p-1 m-1">
-              <a class="btn btn-xs btn-primary btn-block" style="white-space:normal; word-wrap:break-word;overflow: hidden;text-overflow: ellipsis;" href="https://www.wncc-iitb.org/soc_projects/56-pagar-gestures.html">Gestures for 3D space</a>
+          <div class="hover-overlay" style="white-space:nowrap; display:flex">
+            <div class="hover-content p-1 m-1" style="white-space:nowrap;display:flex;">
+              <a class="btn btn-primary btn-block" style="white-space:normal; word-wrap:break-word;" href="https://www.wncc-iitb.org/soc_projects/56-pagar-gestures.html">Gestures for 3D space</a>
             </div>
           </div>
         </div>
@@ -296,9 +194,9 @@
       <div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[&quot;Development&quot;,&quot;Machine Learning&quot;,&quot;2020&quot;]">
         <div class="position-relative rounded hover-wrapper" href="https://www.wncc-iitb.org/soc_projects/52-anuj-food.html">
           <span class="rounded"> <img src="/assets/images/soc/item-11.png" alt="Food Recommendation through Machine Learning" class="img-fluid  w-100 d-block" /></span>
-          <div class="hover-overlay">
-            <div class="hover-content p-1 m-1">
-              <a class="btn btn-xs btn-primary btn-block" style="white-space:normal; word-wrap:break-word;overflow: hidden;text-overflow: ellipsis;" href="https://www.wncc-iitb.org/soc_projects/52-anuj-food.html">Food Recommendation through Machine Learning</a>
+          <div class="hover-overlay" style="white-space:nowrap; display:flex">
+            <div class="hover-content p-1 m-1" style="white-space:nowrap;display:flex;">
+              <a class="btn btn-primary btn-block" style="white-space:normal; word-wrap:break-word;" href="https://www.wncc-iitb.org/soc_projects/52-anuj-food.html">Food Recommendation through Machine Learning</a>
             </div>
           </div>
         </div>
@@ -307,9 +205,9 @@
       <div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[&quot;Development&quot;,&quot;Machine Learning&quot;,&quot;2020&quot;]">
         <div class="position-relative rounded hover-wrapper" href="https://www.wncc-iitb.org/soc_projects/53-Ishwaryaa-chatbot.html">
           <span class="rounded"> <img src="/assets/images/soc/item-12.png" alt="Conversational Chatbot" class="img-fluid  w-100 d-block" /></span>
-          <div class="hover-overlay">
-            <div class="hover-content p-1 m-1">
-              <a class="btn btn-xs btn-primary btn-block" style="white-space:normal; word-wrap:break-word;overflow: hidden;text-overflow: ellipsis;" href="https://www.wncc-iitb.org/soc_projects/53-Ishwaryaa-chatbot.html">Conversational Chatbot</a>
+          <div class="hover-overlay" style="white-space:nowrap; display:flex">
+            <div class="hover-content p-1 m-1" style="white-space:nowrap;display:flex;">
+              <a class="btn btn-primary btn-block" style="white-space:normal; word-wrap:break-word;" href="https://www.wncc-iitb.org/soc_projects/53-Ishwaryaa-chatbot.html">Conversational Chatbot</a>
             </div>
           </div>
         </div>
@@ -318,9 +216,9 @@
       <div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[&quot;Machine Learning&quot;,&quot;2020&quot;]">
         <div class="position-relative rounded hover-wrapper" href="https://www.wncc-iitb.org/soc_projects/57-gagan-unstructured.html">
           <span class="rounded"> <img src="/assets/images/soc/item-13.png" alt="(Un)structured" class="img-fluid  w-100 d-block" /></span>
-          <div class="hover-overlay">
-            <div class="hover-content p-1 m-1">
-              <a class="btn btn-xs btn-primary btn-block" style="white-space:normal; word-wrap:break-word;overflow: hidden;text-overflow: ellipsis;" href="https://www.wncc-iitb.org/soc_projects/57-gagan-unstructured.html">(Un)structured</a>
+          <div class="hover-overlay" style="white-space:nowrap; display:flex">
+            <div class="hover-content p-1 m-1" style="white-space:nowrap;display:flex;">
+              <a class="btn btn-primary btn-block" style="white-space:normal; word-wrap:break-word;" href="https://www.wncc-iitb.org/soc_projects/57-gagan-unstructured.html">(Un)structured</a>
             </div>
           </div>
         </div>
@@ -329,9 +227,9 @@
       <div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[&quot;Graphics&quot;,&quot;2020&quot;,&quot;2020&quot;]">
         <div class="position-relative rounded hover-wrapper" href="https://www.wncc-iitb.org/soc_projects/58-debabrata-road-net.html">
           <span class="rounded"> <img src="/assets/images/soc/item-14.png" alt="Road Network 3D Rendering using OpenGL" class="img-fluid  w-100 d-block" /></span>
-          <div class="hover-overlay">
-            <div class="hover-content p-1 m-1">
-              <a class="btn btn-xs btn-primary btn-block" style="white-space:normal; word-wrap:break-word;overflow: hidden;text-overflow: ellipsis;" href="https://www.wncc-iitb.org/soc_projects/58-debabrata-road-net.html">Road Network 3D Rendering using OpenGL</a>
+          <div class="hover-overlay" style="white-space:nowrap; display:flex">
+            <div class="hover-content p-1 m-1" style="white-space:nowrap;display:flex;">
+              <a class="btn btn-primary btn-block" style="white-space:normal; word-wrap:break-word;" href="https://www.wncc-iitb.org/soc_projects/58-debabrata-road-net.html">Road Network 3D Rendering using OpenGL</a>
             </div>
           </div>
         </div>
@@ -340,9 +238,9 @@
       <div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[&quot;Miscellaneous&quot;,&quot;2020&quot;]">
         <div class="position-relative rounded hover-wrapper" href="https://www.wncc-iitb.org/soc_projects/54-manan-keyboard.html">
           <span class="rounded"> <img src="/assets/images/soc/item-15.png" alt="Virtual Keyboard" class="img-fluid  w-100 d-block" /></span>
-          <div class="hover-overlay">
-            <div class="hover-content p-1 m-1">
-              <a class="btn btn-xs btn-primary btn-block" style="white-space:normal; word-wrap:break-word;overflow: hidden;text-overflow: ellipsis;" href="https://www.wncc-iitb.org/soc_projects/54-manan-keyboard.html">Virtual Keyboard</a>
+          <div class="hover-overlay" style="white-space:nowrap; display:flex">
+            <div class="hover-content p-1 m-1" style="white-space:nowrap;display:flex;">
+              <a class="btn btn-primary btn-block" style="white-space:normal; word-wrap:break-word;" href="https://www.wncc-iitb.org/soc_projects/54-manan-keyboard.html">Virtual Keyboard</a>
             </div>
           </div>
         </div>
@@ -351,9 +249,9 @@
       <div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[&quot;Machine Learning&quot;,&quot;2020&quot;]">
         <div class="position-relative rounded hover-wrapper" href="https://www.wncc-iitb.org/soc_projects/60-yash-kaggle.html">
           <span class="rounded"> <img src="/assets/images/soc/item-16.png" alt="Introduction to Kaggle and Machine Learning" class="img-fluid  w-100 d-block" /></span>
-          <div class="hover-overlay">
-            <div class="hover-content p-1 m-1">
-              <a class="btn btn-xs btn-primary btn-block" style="white-space:normal; word-wrap:break-word;overflow: hidden;text-overflow: ellipsis;" href="https://www.wncc-iitb.org/soc_projects/60-yash-kaggle.html">Introduction to Kaggle and Machine Learning</a>
+          <div class="hover-overlay" style="white-space:nowrap; display:flex">
+            <div class="hover-content p-1 m-1" style="white-space:nowrap;display:flex;">
+              <a class="btn btn-primary btn-block" style="white-space:normal; word-wrap:break-word;" href="https://www.wncc-iitb.org/soc_projects/60-yash-kaggle.html">Introduction to Kaggle and Machine Learning</a>
             </div>
           </div>
         </div>
@@ -362,9 +260,9 @@
       <div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[&quot;Development&quot;,&quot;2020&quot;]">
         <div class="position-relative rounded hover-wrapper" href="https://www.wncc-iitb.org/soc_projects/62-chaitanya-krittika.html">
           <span class="rounded"> <img src="/assets/images/soc/item-17.png" alt="Krittika Website" class="img-fluid  w-100 d-block" /></span>
-          <div class="hover-overlay">
-            <div class="hover-content p-1 m-1">
-              <a class="btn btn-xs btn-primary btn-block" style="white-space:normal; word-wrap:break-word;overflow: hidden;text-overflow: ellipsis;" href="https://www.wncc-iitb.org/soc_projects/62-chaitanya-krittika.html">Krittika Website</a>
+          <div class="hover-overlay" style="white-space:nowrap; display:flex">
+            <div class="hover-content p-1 m-1" style="white-space:nowrap;display:flex;">
+              <a class="btn btn-primary btn-block" style="white-space:normal; word-wrap:break-word;" href="https://www.wncc-iitb.org/soc_projects/62-chaitanya-krittika.html">Krittika Website</a>
             </div>
           </div>
         </div>
@@ -373,9 +271,9 @@
       <div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[&quot;Miscellaneous&quot;,&quot;2020&quot;]">
         <div class="position-relative rounded hover-wrapper" href="https://www.wncc-iitb.org/soc_projects/43-pratyush-competitive-coding.html">
           <span class="rounded"> <img src="/assets/images/soc/item-18.png" alt="Competitive coding" class="img-fluid  w-100 d-block" /></span>
-          <div class="hover-overlay">
-            <div class="hover-content p-1 m-1">
-              <a class="btn btn-xs btn-primary btn-block" style="white-space:normal; word-wrap:break-word;overflow: hidden;text-overflow: ellipsis;" href="https://www.wncc-iitb.org/soc_projects/43-pratyush-competitive-coding.html">Competitive coding</a>
+          <div class="hover-overlay" style="white-space:nowrap; display:flex">
+            <div class="hover-content p-1 m-1" style="white-space:nowrap;display:flex;">
+              <a class="btn btn-primary btn-block" style="white-space:normal; word-wrap:break-word;" href="https://www.wncc-iitb.org/soc_projects/43-pratyush-competitive-coding.html">Competitive coding</a>
             </div>
           </div>
         </div>
@@ -384,9 +282,9 @@
       <div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[&quot;Graphics&quot;,&quot;2020&quot;]">
         <div class="position-relative rounded hover-wrapper" href="https://www.wncc-iitb.org/soc_projects/64-rwitaban-computer-graphics.html">
           <span class="rounded"> <img src="/assets/images/soc/item-19.png" alt="Planet/Atmosphere Renderer using OpenGL" class="img-fluid  w-100 d-block" /></span>
-          <div class="hover-overlay">
-            <div class="hover-content p-1 m-1">
-              <a class="btn btn-xs btn-primary btn-block" style="white-space:normal; word-wrap:break-word;overflow: hidden;text-overflow: ellipsis;" href="https://www.wncc-iitb.org/soc_projects/64-rwitaban-computer-graphics.html">Planet/Atmosphere Renderer using OpenGL</a>
+          <div class="hover-overlay" style="white-space:nowrap; display:flex">
+            <div class="hover-content p-1 m-1" style="white-space:nowrap;display:flex;">
+              <a class="btn btn-primary btn-block" style="white-space:normal; word-wrap:break-word;" href="https://www.wncc-iitb.org/soc_projects/64-rwitaban-computer-graphics.html">Planet/Atmosphere Renderer using OpenGL</a>
             </div>
           </div>
         </div>
@@ -395,9 +293,9 @@
       <div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[&quot;Machine Learning&quot;,&quot;2020&quot;]">
         <div class="position-relative rounded hover-wrapper" href="https://www.wncc-iitb.org/soc_projects/42-rahul-intrusion-detection.html">
           <span class="rounded"> <img src="/assets/images/soc/item-20.png" alt="Intrusion Detection system" class="img-fluid  w-100 d-block" /></span>
-          <div class="hover-overlay">
-            <div class="hover-content p-1 m-1">
-              <a class="btn btn-xs btn-primary btn-block" style="white-space:normal; word-wrap:break-word;overflow: hidden;text-overflow: ellipsis;" href="https://www.wncc-iitb.org/soc_projects/42-rahul-intrusion-detection.html">Intrusion Detection system</a>
+          <div class="hover-overlay" style="white-space:nowrap; display:flex">
+            <div class="hover-content p-1 m-1" style="white-space:nowrap;display:flex;">
+              <a class="btn btn-primary btn-block" style="white-space:normal; word-wrap:break-word;" href="https://www.wncc-iitb.org/soc_projects/42-rahul-intrusion-detection.html">Intrusion Detection system</a>
             </div>
           </div>
         </div>
@@ -406,9 +304,9 @@
       <div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[&quot;Development&quot;,&quot;Machine Learning&quot;,&quot;2020&quot;]">
         <div class="position-relative rounded hover-wrapper" href="https://www.wncc-iitb.org/soc_projects/63-chaitanya-rubik-solver.html">
           <span class="rounded"> <img src="/assets/images/soc/item-21.png" alt="Rubik's cube solver" class="img-fluid  w-100 d-block" /></span>
-          <div class="hover-overlay">
-            <div class="hover-content p-1 m-1">
-              <a class="btn btn-xs btn-primary btn-block" style="white-space:normal; word-wrap:break-word;overflow: hidden;text-overflow: ellipsis;" href="https://www.wncc-iitb.org/soc_projects/63-chaitanya-rubik-solver.html">Rubik's cube solver</a>
+          <div class="hover-overlay" style="white-space:nowrap; display:flex">
+            <div class="hover-content p-1 m-1" style="white-space:nowrap;display:flex;">
+              <a class="btn btn-primary btn-block" style="white-space:normal; word-wrap:break-word;" href="https://www.wncc-iitb.org/soc_projects/63-chaitanya-rubik-solver.html">Rubik's cube solver</a>
             </div>
           </div>
         </div>
@@ -417,9 +315,9 @@
       <div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[&quot;Machine Learning&quot;,&quot;Development&quot;,&quot;2020&quot;]">
         <div class="position-relative rounded hover-wrapper" href="https://www.wncc-iitb.org/soc_projects/41-cheeku-lama-ai.html">
           <span class="rounded"> <img src="/assets/images/soc/item-22.png" alt="L.A.M.A. AI using Reinforcement Learning" class="img-fluid  w-100 d-block" /></span>
-          <div class="hover-overlay">
-            <div class="hover-content p-1 m-1">
-              <a class="btn btn-xs btn-primary btn-block" style="white-space:normal; word-wrap:break-word;overflow: hidden;text-overflow: ellipsis;" href="https://www.wncc-iitb.org/soc_projects/41-cheeku-lama-ai.html">L.A.M.A. AI using Reinforcement Learning</a>
+          <div class="hover-overlay" style="white-space:nowrap; display:flex">
+            <div class="hover-content p-1 m-1" style="white-space:nowrap;display:flex;">
+              <a class="btn btn-primary btn-block" style="white-space:normal; word-wrap:break-word;" href="https://www.wncc-iitb.org/soc_projects/41-cheeku-lama-ai.html">L.A.M.A. AI using Reinforcement Learning</a>
             </div>
           </div>
         </div>
@@ -428,9 +326,9 @@
       <div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[&quot;Machine Learning&quot;,&quot;2020&quot;]">
         <div class="position-relative rounded hover-wrapper" href="https://www.wncc-iitb.org/soc_projects/59-shreya-face-recognition.html">
           <span class="rounded"> <img src="/assets/images/soc/item-23.png" alt="Face Recognition using Statistics" class="img-fluid  w-100 d-block" /></span>
-          <div class="hover-overlay">
-            <div class="hover-content p-1 m-1">
-              <a class="btn btn-xs btn-primary btn-block" style="white-space:normal; word-wrap:break-word;overflow: hidden;text-overflow: ellipsis;" href="https://www.wncc-iitb.org/soc_projects/59-shreya-face-recognition.html">Face Recognition using Statistics</a>
+          <div class="hover-overlay" style="white-space:nowrap; display:flex">
+            <div class="hover-content p-1 m-1" style="white-space:nowrap;display:flex;">
+              <a class="btn btn-primary btn-block" style="white-space:normal; word-wrap:break-word;" href="https://www.wncc-iitb.org/soc_projects/59-shreya-face-recognition.html">Face Recognition using Statistics</a>
             </div>
           </div>
         </div>
@@ -439,9 +337,9 @@
       <div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[&quot;Development&quot;,&quot;2020&quot;]">
         <div class="position-relative rounded hover-wrapper" href="https://www.wncc-iitb.org/soc_projects/67-vivek-saurabh-verma-TL-website.html">
           <span class="rounded"> <img src="/assets/images/soc/item-24.png" alt="Tinkerers’ Laboratory Website" class="img-fluid  w-100 d-block" /></span>
-          <div class="hover-overlay">
-            <div class="hover-content p-1 m-1">
-              <a class="btn btn-xs btn-primary btn-block" style="white-space:normal; word-wrap:break-word;overflow: hidden;text-overflow: ellipsis;" href="https://www.wncc-iitb.org/soc_projects/67-vivek-saurabh-verma-TL-website.html">Tinkerers’ Laboratory Website</a>
+          <div class="hover-overlay" style="white-space:nowrap; display:flex">
+            <div class="hover-content p-1 m-1" style="white-space:nowrap;display:flex;">
+              <a class="btn btn-primary btn-block" style="white-space:normal; word-wrap:break-word;" href="https://www.wncc-iitb.org/soc_projects/67-vivek-saurabh-verma-TL-website.html">Tinkerers’ Laboratory Website</a>
             </div>
           </div>
         </div>
@@ -450,9 +348,9 @@
       <div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[&quot;Graphics&quot;,&quot;Development&quot;,&quot;2020&quot;]">
         <div class="position-relative rounded hover-wrapper" href="https://www.wncc-iitb.org/soc_projects/68-sudanshu-sahil-Graphic-Intensive-Music-App.html">
           <span class="rounded"> <img src="/assets/images/soc/item-25.png" alt="Graphic Intensive MUSIC APP" class="img-fluid  w-100 d-block" /></span>
-          <div class="hover-overlay">
-            <div class="hover-content p-1 m-1">
-              <a class="btn btn-xs btn-primary btn-block" style="white-space:normal; word-wrap:break-word;overflow: hidden;text-overflow: ellipsis;" href="https://www.wncc-iitb.org/soc_projects/68-sudanshu-sahil-Graphic-Intensive-Music-App.html">Graphic Intensive MUSIC APP</a>
+          <div class="hover-overlay" style="white-space:nowrap; display:flex">
+            <div class="hover-content p-1 m-1" style="white-space:nowrap;display:flex;">
+              <a class="btn btn-primary btn-block" style="white-space:normal; word-wrap:break-word;" href="https://www.wncc-iitb.org/soc_projects/68-sudanshu-sahil-Graphic-Intensive-Music-App.html">Graphic Intensive MUSIC APP</a>
             </div>
           </div>
         </div>
@@ -461,9 +359,9 @@
       <div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[&quot;Development&quot;,&quot;Machine Learning&quot;,&quot;2020&quot;]">
         <div class="position-relative rounded hover-wrapper" href="https://www.wncc-iitb.org/soc_projects/66-prabhat-KontaKt-app.html">
           <span class="rounded"> <img src="/assets/images/soc/item-26.png" alt="KontaKt App" class="img-fluid  w-100 d-block" /></span>
-          <div class="hover-overlay">
-            <div class="hover-content p-1 m-1">
-              <a class="btn btn-xs btn-primary btn-block" style="white-space:normal; word-wrap:break-word;overflow: hidden;text-overflow: ellipsis;" href="https://www.wncc-iitb.org/soc_projects/66-prabhat-KontaKt-app.html">KontaKt App</a>
+          <div class="hover-overlay" style="white-space:nowrap; display:flex">
+            <div class="hover-content p-1 m-1" style="white-space:nowrap;display:flex;">
+              <a class="btn btn-primary btn-block" style="white-space:normal; word-wrap:break-word;" href="https://www.wncc-iitb.org/soc_projects/66-prabhat-KontaKt-app.html">KontaKt App</a>
             </div>
           </div>
         </div>
@@ -472,9 +370,9 @@
       <div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[&quot;Development&quot;,&quot;2020&quot;]">
         <div class="position-relative rounded hover-wrapper" href="https://www.wncc-iitb.org/soc_projects/69-aman-poolit.html">
           <span class="rounded"> <img src="/assets/images/soc/item-27.png" alt="Pool It!" class="img-fluid  w-100 d-block" /></span>
-          <div class="hover-overlay">
-            <div class="hover-content p-1 m-1">
-              <a class="btn btn-xs btn-primary btn-block" style="white-space:normal; word-wrap:break-word;overflow: hidden;text-overflow: ellipsis;" href="https://www.wncc-iitb.org/soc_projects/69-aman-poolit.html">Pool It!</a>
+          <div class="hover-overlay" style="white-space:nowrap; display:flex">
+            <div class="hover-content p-1 m-1" style="white-space:nowrap;display:flex;">
+              <a class="btn btn-primary btn-block" style="white-space:normal; word-wrap:break-word;" href="https://www.wncc-iitb.org/soc_projects/69-aman-poolit.html">Pool It!</a>
             </div>
           </div>
         </div>
@@ -483,9 +381,9 @@
       <div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[&quot;Miscellaneous&quot;,&quot;2020&quot;]">
         <div class="position-relative rounded hover-wrapper" href="https://www.wncc-iitb.org/soc_projects/65-divyansh-depth.html">
           <span class="rounded"> <img src="/assets/images/soc/item-28.png" alt="Digital Depth Perception" class="img-fluid  w-100 d-block" /></span>
-          <div class="hover-overlay">
-            <div class="hover-content p-1 m-1">
-              <a class="btn btn-xs btn-primary btn-block" style="white-space:normal; word-wrap:break-word;overflow: hidden;text-overflow: ellipsis;" href="https://www.wncc-iitb.org/soc_projects/65-divyansh-depth.html">Digital Depth Perception</a>
+          <div class="hover-overlay" style="white-space:nowrap; display:flex">
+            <div class="hover-content p-1 m-1" style="white-space:nowrap;display:flex;">
+              <a class="btn btn-primary btn-block" style="white-space:normal; word-wrap:break-word;" href="https://www.wncc-iitb.org/soc_projects/65-divyansh-depth.html">Digital Depth Perception</a>
             </div>
           </div>
         </div>
@@ -494,9 +392,9 @@
       <div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[&quot;Development&quot;,&quot;2020&quot;]">
         <div class="position-relative rounded hover-wrapper" href="https://www.wncc-iitb.org/soc_projects/70-rishabh-instibuddy.html">
           <span class="rounded"> <img src="/assets/images/soc/item-29.png" alt="Insti Buddy" class="img-fluid  w-100 d-block" /></span>
-          <div class="hover-overlay">
-            <div class="hover-content p-1 m-1">
-              <a class="btn btn-xs btn-primary btn-block" style="white-space:normal; word-wrap:break-word;overflow: hidden;text-overflow: ellipsis;" href="https://www.wncc-iitb.org/soc_projects/70-rishabh-instibuddy.html">Insti Buddy</a>
+          <div class="hover-overlay" style="white-space:nowrap; display:flex">
+            <div class="hover-content p-1 m-1" style="white-space:nowrap;display:flex;">
+              <a class="btn btn-primary btn-block" style="white-space:normal; word-wrap:break-word;" href="https://www.wncc-iitb.org/soc_projects/70-rishabh-instibuddy.html">Insti Buddy</a>
             </div>
           </div>
         </div>
@@ -505,9 +403,9 @@
       <div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[&quot;Machine Learning&quot;,&quot;2020&quot;]">
         <div class="position-relative rounded hover-wrapper" href="https://www.wncc-iitb.org/soc_projects/71-sanjeev-intelligent.html">
           <span class="rounded"> <img src="/assets/images/soc/item-30.png" alt="Intelligent agents" class="img-fluid  w-100 d-block" /></span>
-          <div class="hover-overlay">
-            <div class="hover-content p-1 m-1">
-              <a class="btn btn-xs btn-primary btn-block" style="white-space:normal; word-wrap:break-word;overflow: hidden;text-overflow: ellipsis;" href="https://www.wncc-iitb.org/soc_projects/71-sanjeev-intelligent.html">Intelligent agents</a>
+          <div class="hover-overlay" style="white-space:nowrap; display:flex">
+            <div class="hover-content p-1 m-1" style="white-space:nowrap;display:flex;">
+              <a class="btn btn-primary btn-block" style="white-space:normal; word-wrap:break-word;" href="https://www.wncc-iitb.org/soc_projects/71-sanjeev-intelligent.html">Intelligent agents</a>
             </div>
           </div>
         </div>
@@ -517,48 +415,4 @@
   </div>
 </section>
 <!-- /soc -->
-
-
-  <!-- footer -->
-<footer class="bg-dark footer-section">
-  <div class="section">
-    <div class="container">
-      <div class="row">
-        <div class="col-md-4">
-          <h5 class="text-light">Email</h5>
-          <p class="text-white paragraph-lg font-secondary">steve.fruits@email.com</p>
-        </div>
-        <div class="col-md-4">
-          <h5 class="text-light">Phone</h5>
-          <p class="text-white paragraph-lg font-secondary">0</p>
-        </div>
-        <div class="col-md-4">
-          <h5 class="text-light">Address</h5>
-          <p class="text-white paragraph-lg font-secondary">IIT Bombay, Powai, Mumbai, Maharashtra</p>
-        </div>
-      </div>
-    </div>
-  </div>
-  <div class="border-top text-center border-dark py-5">
-    <p class="mb-0 text-light">Copyright ©<script>
-        var CurrentYear = new Date().getFullYear()
-        document.write(CurrentYear)
-      </script> Web and Coding Club, IIT Bombay</p>
-  </div>
-</footer>
-<!-- /footer -->
-
-  <!-- jQuery -->
-  <script src="/assets/plugins/jQuery/jquery.min.js"></script>
-  <!-- Bootstrap JS -->
-  <script src="/assets/plugins/bootstrap/bootstrap.min.js"></script>
-  <!-- slick slider -->
-  <script src="/assets/plugins/slick/slick.min.js"></script>
-  <!-- filter -->
-  <script src="/assets/plugins/shuffle/shuffle.min.js"></script>
-
-  <!-- Main Script -->
-  <script src="/assets/js/script.js"></script>
-</body>
-
-</html>
+:ET
