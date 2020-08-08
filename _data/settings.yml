@@ -455,34 +455,46 @@ testimonial-items:
 # Client Slider Section
 
 client-slider-items:
-  - logo: "assets/images/clients-logo/client-logo-1.png"
+  - logo: "assets/images/clients-logo/facebook.png"
     url: "#"
     
-  - logo: "assets/images/clients-logo/client-logo-2.png"
+  - logo: "assets/images/clients-logo/mozilla.jpg"
     url: "#"
     
-  - logo: "assets/images/clients-logo/client-logo-3.png"
+  - logo: "assets/images/clients-logo/microsoft.png"
     url: "#"
     
-  - logo: "assets/images/clients-logo/client-logo-4.png"
+  - logo: "assets/images/clients-logo/lenovo.png"
     url: "#"
     
-  - logo: "assets/images/clients-logo/client-logo-5.png"
+  - logo: "assets/images/clients-logo/yahoo_japan.png"
     url: "#"
     
-  - logo: "assets/images/clients-logo/client-logo-1.png"
+  - logo: "assets/images/clients-logo/walmartlabs.png"
     url: "#"
     
-  - logo: "assets/images/clients-logo/client-logo-2.png"
+  - logo: "assets/images/clients-logo/xlab.png"
     url: "#"
     
-  - logo: "assets/images/clients-logo/client-logo-3.png"
+  - logo: "assets/images/clients-logo/gdgmumbai.png"
     url: "#"
     
-  - logo: "assets/images/clients-logo/client-logo-4.png"
+  - logo: "assets/images/clients-logo/globalcyberchallenge.png"
     url: "#"
     
-  - logo: "assets/images/clients-logo/client-logo-5.png"
+  - logo: "assets/images/clients-logo/kandy.png"
+    url: "#"
+    
+  - logo: "assets/images/clients-logo/intertrust.png"
+    url: "#"
+    
+  - logo: "assets/images/clients-logo/mercari.png"
+    url: "#"
+    
+  - logo: "assets/images/clients-logo/sap.jpg"
+    url: "#"
+
+  - logo: "assets/images/clients-logo/ubisoft.jpg"
     url: "#"
 
 #-------------------------------
