@@ -16,7 +16,30 @@ permalink: /resources/
 <!-- Programming_101 -->
 
 <div class="row">
-            {% for label in site.data.settings.{{ item.name }} %}
+            <!-- {% for label in site.data.settings.{{ item.name }} %}
+            <div class="col-lg-4 col-sm-6 mb-4">
+                <article class="card shadow">
+                    <img class="rounded card-img-top" src="{{ site.baseurl }}/assets/images/resources/{{ label.image }}"
+                        alt="{{ label.title }}">
+                    <div class="card-body">
+                        <h4 class="card-title"><a class="text-dark"
+                                href="{{ label.link }}" target="_blank">{{ label.title }}</a></h4>
+                        <p class="cars-text">{{ label.discription }}
+                        </p>
+                        <a href="{{ label.link }}" class="btn btn-xs btn-primary" target="_blank">Read More</a>
+                    </div>
+                </article>
+            </div>
+            {% endfor %} -->
+</div>
+<p>{{ item.ldes }}</p>
+<a href="{{ item.btn-link }}" class="btn btn-xs btn-primary" target="_blank">{{ item.btn-title }}</a>
+</div>
+</section>
+
+{% endfor %}
+
+{% for label in site.data.settings.wiki %}
             <div class="col-lg-4 col-sm-6 mb-4">
                 <article class="card shadow">
                     <img class="rounded card-img-top" src="{{ site.baseurl }}/assets/images/resources/{{ label.image }}"
@@ -31,13 +54,6 @@ permalink: /resources/
                 </article>
             </div>
             {% endfor %}
-</div>
-<p>{{ item.ldes }}</p>
-<a href="{{ item.btn-link }}" class="btn btn-xs btn-primary" target="_blank">{{ item.btn-title }}</a>
-</div>
-</section>
-
-{% endfor %}
 
 
 <!-- /blog -->
