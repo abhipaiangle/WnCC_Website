@@ -31,6 +31,7 @@ permalink: /resources/
                 </article>
             </div>
             {% endfor %} -->
+            {{ if forloop.index = 1 }}
             {% for label in site.data.settings.wiki %}
             <div class="col-lg-4 col-sm-6 mb-4">
                 <article class="card shadow">
@@ -46,17 +47,10 @@ permalink: /resources/
                 </article>
             </div>
             {% endfor %}
-</div>
-<p>{{ item.ldis }}</p>
-<div style="display: flex; align-item: center; justify-content: center;">
-<a href="{{ item.btn-link }}" class="btn btn-xs btn-primary" target="_blank">{{ item.btn-title }}</a>
-</div>
-</div>
-</section>
-
-{% endfor %}
-<div>
-{% for label in site.data.settings.wiki %}
+            {{ endif }}
+            
+            {{ if forloop.index = 2 }}
+            {% for label in site.data.settings.ciq %}
             <div class="col-lg-4 col-sm-6 mb-4">
                 <article class="card shadow">
                     <img class="rounded card-img-top" src="{{ site.baseurl }}/assets/images/resources/{{ label.image }}"
@@ -70,8 +64,20 @@ permalink: /resources/
                     </div>
                 </article>
             </div>
-{% endfor %}
+            {% endfor %}
+            {{ endif }}
+
+
 </div>
+<p>{{ item.ldis }}</p>
+<div style="display: flex; align-item: center; justify-content: center;">
+<a href="{{ item.btn-link }}" class="btn btn-xs btn-primary" target="_blank">{{ item.btn-title }}</a>
+</div>
+</div>
+</section>
+
+{% endfor %}
+
 
 <!-- /blog -->
 
