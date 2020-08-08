@@ -49,7 +49,7 @@ permalink: /resources/
             </div>
             {% endfor %}
             
-            {{ endif }}
+           
             
             {{ elsif item.name == "ciq" }}
             
@@ -69,11 +69,11 @@ permalink: /resources/
             </div>
             {% endfor %}
             
-            {{ endif }}
+         
             
             {{ elsif item.name == "as" }}
             
-            {% for label in site.data.settings.ciq %}
+            {% for label in site.data.settings.as %}
             <div class="col-lg-4 col-sm-6 mb-4">
                 <article class="card shadow">
                     <img class="rounded card-img-top" src="{{ site.baseurl }}/assets/images/resources/{{ label.image }}"
@@ -89,11 +89,11 @@ permalink: /resources/
             </div>
             {% endfor %}
             
-            {{ endif }}
+           
            
             {{ elsif item.name == "ls" }}
             
-            {% for label in site.data.settings.ciq %}
+            {% for label in site.data.settings.ls %}
             <div class="col-lg-4 col-sm-6 mb-4">
                 <article class="card shadow">
                     <img class="rounded card-img-top" src="{{ site.baseurl }}/assets/images/resources/{{ label.image }}"
