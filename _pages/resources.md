@@ -71,7 +71,10 @@ permalink: /resources/
 </div>
 <p>{{ item.ldis }}</p>
 <div style="display: flex; align-item: center; justify-content: center;">
-<a href="{{ item.btn-link }}" class="btn btn-xs btn-primary" target="_blank">{{ item.btn-title }}</a>
+<a href="{{ item.btn-link }}" class="btn btn-xs btn-primary" target="_blank" style="
+    padding: 15px 30px;
+    font-size: 25px;
+">{{ item.btn-title }}</a>
 </div>
 </div>
 </section>
