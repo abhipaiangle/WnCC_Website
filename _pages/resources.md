@@ -31,7 +31,7 @@ permalink: /resources/
                 </article>
             </div>
             {% endfor %} -->
-            {{ if forloop.index = 1 }}
+            {{ if forloop.index == 1 }}
             {% for label in site.data.settings.wiki %}
             <div class="col-lg-4 col-sm-6 mb-4">
                 <article class="card shadow">
@@ -46,10 +46,12 @@ permalink: /resources/
                     </div>
                 </article>
             </div>
+
             {% endfor %}
             {{ endif }}
             
-            {{ if forloop.index = 2 }}
+            
+            {{ if forloop.index == 2 }}
             {% for label in site.data.settings.ciq %}
             <div class="col-lg-4 col-sm-6 mb-4">
                 <article class="card shadow">
