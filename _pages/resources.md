@@ -32,6 +32,7 @@ permalink: /resources/
             </div>
             {% endfor %} -->
             {{ if item.name == "wiki" }}
+            
             {% for label in site.data.settings.wiki %}
             <div class="col-lg-4 col-sm-6 mb-4">
                 <article class="card shadow">
@@ -46,11 +47,12 @@ permalink: /resources/
                     </div>
                 </article>
             </div>
-
             {% endfor %}
+            
             {{ endif }}
             
             {{ elsif item.name == "ciq" }}
+            
             {% for label in site.data.settings.ciq %}
             <div class="col-lg-4 col-sm-6 mb-4">
                 <article class="card shadow">
@@ -66,6 +68,47 @@ permalink: /resources/
                 </article>
             </div>
             {% endfor %}
+            
+            {{ endif }}
+            
+            {{ elsif item.name == "as" }}
+            
+            {% for label in site.data.settings.ciq %}
+            <div class="col-lg-4 col-sm-6 mb-4">
+                <article class="card shadow">
+                    <img class="rounded card-img-top" src="{{ site.baseurl }}/assets/images/resources/{{ label.image }}"
+                        alt="{{ label.title }}">
+                    <div class="card-body">
+                        <h4 class="card-title"><a class="text-dark"
+                                href="{{ label.link }}" target="_blank">{{ label.title }}</a></h4>
+                        <p class="cars-text">{{ label.discription }}
+                        </p>
+                        <a href="{{ label.link }}" class="btn btn-xs btn-primary" target="_blank">Read More</a>
+                    </div>
+                </article>
+            </div>
+            {% endfor %}
+            
+            {{ endif }}
+           
+            {{ elsif item.name == "ls" }}
+            
+            {% for label in site.data.settings.ciq %}
+            <div class="col-lg-4 col-sm-6 mb-4">
+                <article class="card shadow">
+                    <img class="rounded card-img-top" src="{{ site.baseurl }}/assets/images/resources/{{ label.image }}"
+                        alt="{{ label.title }}">
+                    <div class="card-body">
+                        <h4 class="card-title"><a class="text-dark"
+                                href="{{ label.link }}" target="_blank">{{ label.title }}</a></h4>
+                        <p class="cars-text">{{ label.discription }}
+                        </p>
+                        <a href="{{ label.link }}" class="btn btn-xs btn-primary" target="_blank">Read More</a>
+                    </div>
+                </article>
+            </div>
+            {% endfor %}
+            
             {{ endif }}
 
 

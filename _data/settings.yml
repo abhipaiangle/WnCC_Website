@@ -455,6 +455,9 @@ testimonial-items:
 # Client Slider Section
 
 client-slider-items:
+  - logo: "assets/images/clients-logo/walmartlabs.png"
+    url: "#"
+
   - logo: "assets/images/clients-logo/facebook.png"
     url: "#"
     
@@ -469,10 +472,7 @@ client-slider-items:
     
   - logo: "assets/images/clients-logo/yahoo_japan.png"
     url: "#"
-    
-  - logo: "assets/images/clients-logo/walmartlabs.png"
-    url: "#"
-    
+        
   - logo: "assets/images/clients-logo/xlab.png"
     url: "#"
     
@@ -511,9 +511,23 @@ resources-items:
   - title: "Code.inQuarantine()"
     fdis: "In the time of Lockdown, WnCC started a two month long open-for-all event so that everyone can utilize their quarantine time learning coding skills. Here are few topics from them"
     name: "ciq"
-    ldis: "In these 8 weeks we provided tutorials for 8 diverse topics: Python; Competitive Programming; Machine Learning; Git/GitHub; FrontEnd Dev; BackEnd Dev; Advanced FrontEnd Dev; Blockchain. Do visit to learn."
+    ldis: "In these 8 weeks we provided tutorials for 8 diverse topics: Python; Competitive Programming; Machine Learning; Git/GitHub; FrontEnd Dev; BackEnd Dev; Advanced FrontEnd Dev; Blockchain; Do visit to learn about them!"
     btn-title: "Visit CiQ Github Repo"
     btn-link: "https://github.com/wncc/CodeInQuarantine"
+    
+  - title: "Algorithms Simplified"
+    fdis: "Algorithms Simplified series contains short videos trivially explaining some mind-blowing yet intuitive algorithms. This is a series where we do not require you to code. You can just watch a 15-20 min video to learn something cool, that’s it! Even if you want to code and implement those algorithms, we got it covered. We have shared some optional tasks in a ‘Dive Deep’ section as well."
+    name: "as"
+    ldis: "We have over 8+ algorithms simplified here and we keep adding algos regularly. Do visit timely to learn :) "
+    btn-title: "Visit Algorithms Simplified"
+    btn-link: "https://github.com/wncc/CodeInQuarantine"
+    
+  - title: "Learner's Space 2020"
+    fdis: "Undergraduate Acadamic Council(UGAC), IIT Bomabay launched a two months long technical summer school with Web and Coding Club in summers 2020. In this, week wise tutorials of python, machine learning and web dovelopment, three of the most hot-tech-skills, were provided to more then 600 students."
+    name: "ls"
+    ldis: "These tutorials contain mixture of important articles, videos and assignments that can help understand these topics better and content is divided week-wise to manage time. If you are looking for learning one of these skills, then these resources can help you find easy and nice content."
+    btn-title: "Visit LS GitHub Repo"
+    btn-link: "https://github.com/wncc/learners-space"
     
   # - title: ""
   #   first-discription: ""
@@ -569,6 +583,40 @@ ciq:
     discription: ""
     link: "https://github.com/wncc/CodeInQuarantine/blob/master/Week_7_CC/README.md"
     image: "ciq3.png"
+
+as:
+  - title: "Heuristic Search"
+    discription: "Heuristic search refers to a search strategy that attempts to optimize a problem by iteratively improving the solution based on a given heuristic function or a cost measure. A heuristic search method does not always guarantee to find an optimal or the best solution, but may instead find a good or acceptable solution within a reasonable amount of time and memory space."
+    link: "https://github.com/wncc/algos-simplified/blob/master/Heuristic-Algorithms/README.md"
+    image: "as1.png"  
+  
+  - title: "Encryption"
+    discription: "Looking forward to explore Cyber Security? Bringing to you Encryption Algorithms to lay some foundation about how things happen in CSec. Encryption algorithms are used in cryptography to transfer information between two people such that the thord person trying to steal information from you doesn't get the information."
+    link: "https://github.com/wncc/algos-simplified/blob/master/Encryption_Algorithms/README.md"
+    image: "as2.png"  
+  
+  - title: "Object Detection"
+    discription: "Have you ever wondered how an automonous car detects other cars on the road, the traffic lights and pedestrians? Have you ever given a thought how does security surveillance systems work? Object detection is associated with Computer Vision and describes a system that can identify the presence and location of a desired object or body within an image."
+    link: "https://github.com/wncc/algos-simplified/blob/master/Encryption_Algorithms/README.md"
+    image: "as3.png"
+    
+ls:
+  - title: "Python"
+    discription: ""
+    link: "https://github.com/wncc/learners-space/tree/master/Python"
+    image: "ls1.png"  
+
+  - title: "Web Dovelopment"
+    discription: ""
+    link: "https://github.com/wncc/learners-space/tree/master/Web%20Development"
+    image: "ls2.png"  
+
+  - title: "Machine Learning"
+    discription: ""
+    link: "https://github.com/wncc/learners-space/tree/master/Machine%20Learning"
+    image: "ls3.png"  
+
+  
 
 
 #-------------------------
