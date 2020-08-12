@@ -508,7 +508,7 @@ resources-items:
     btn-title: "Visit Grundy"
     btn-link: "https://www.wncc-iitb.org/wiki/index.php/The_Web_and_Coding_Club"
     
-  - title: "Code.inQuarantine()"
+  - title: "Code inQuarantine()"
     fdis: "In the time of Lockdown, WnCC started a two month long open-for-all event so that everyone can utilize their quarantine time learning coding skills. Here are few topics from them"
     name: "ciq"
     ldis: "In these 8 weeks we provided tutorials for 8 diverse topics: Python; Competitive Programming; Machine Learning; Git/GitHub; FrontEnd Dev; BackEnd Dev; Advanced FrontEnd Dev; Blockchain; Do visit to learn about them!"
@@ -542,8 +542,8 @@ wiki:
     link: "https://www.wncc-iitb.org/wiki/index.php/Programming_101"
     image: "wiki1.png"
 
-  - title: "DC Setup"
-    discription: "DC is a free file sharing application that is used extensively within IIT Bombay. There are several DC hubs within IIT Bombay that can only be accessed using the IITB LAN. The benefits of using DC are high transfer speeds and content curated by various students."
+  - title: "DC++ Setup"
+    discription: "DC++ is a free file sharing application that is used extensively within IIT Bombay. There are several DC++ hubs within IIT Bombay that can only be accessed using the IITB LAN. The benefits of using DC++ are high transfer speeds and content curated by various students."
     link: "https://www.wncc-iitb.org/wiki/index.php/DC%2B%2B_Setup"
     image: "wiki2.png"
 
@@ -557,9 +557,9 @@ wiki:
     link: "https://www.wncc-iitb.org/wiki/index.php/Software_Engineering_Without_CS_Major"
     image: "wiki4.png"
  
-  - title: "Introduction to Blockchain"
-    discription: "This is an introduction to blockchain and related concepts. This is an introduction to blockchain and related concepts. This article covers the basics of Blockchain and how cryptocurrencies like Bitcoins and Ethereum are built on it. The mathematical aspects of the Blockchain have been discussed."
-    link: "https://www.wncc-iitb.org/wiki/index.php/Introduction_to_Blockchain"
+  - title: "Introduction to Git/Github"
+    discription: "This article lists some excellent tutorials to learn Git/Github, along with some practical advice for the same. Learning git will help you pick up any version control system easily, teach you to make larger projects effectively as well as contribute to massive open source projects."
+    link: "https://www.wncc-iitb.org/wiki/index.php/Git"
     image: "wiki5.png"
 
   - title: "Community Resources"
@@ -569,20 +569,35 @@ wiki:
 
 
 ciq:
+  - title: "Python"
+    discription: ""
+    link: "https://github.com/wncc/CodeInQuarantine/blob/master/Week_1_Python/README.md"
+    image: "ciq1.png"
+
   - title: "Competitive Programming"
     discription: ""
     link: "https://github.com/wncc/CodeInQuarantine/blob/master/Week_2_CC/README.md"
-    image: "ciq1.png"
+    image: "ciq2.png"
 
   - title: "Machine Learning"
     discription: ""
     link: "https://github.com/wncc/CodeInQuarantine/blob/master/Week_3_ML/README.md"
-    image: "ciq2.png"
+    image: "ciq3.png"
 
-  - title: "Advanced FrontEnd"
+  - title: "Backend Dovelopment"
+    discription: ""
+    link: "https://github.com/wncc/CodeInQuarantine/blob/master/Week_6_Backend/README.md"
+    image: "ciq4.png"
+
+  - title: "Advanced FrontEnd Dovelopment"
     discription: ""
     link: "https://github.com/wncc/CodeInQuarantine/blob/master/Week_7_CC/README.md"
-    image: "ciq3.png"
+    image: "ciq5.png"
+
+  - title: "BlockChain"
+    discription: ""
+    link: "https://github.com/wncc/CodeInQuarantine/blob/master/Week_8_Blockchain/README.md"
+    image: "ciq6.png"
 
 as:
   - title: "Heuristic Search"
