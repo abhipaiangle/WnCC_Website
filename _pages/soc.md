@@ -57,7 +57,7 @@ permalink: /soc/
   <div class="container">
     <div class="row mb-5">
       <div class="col-12">
-        <div class="btn-group btn-group-toggle justify-content-center d-flex" data-toggle="buttons">
+        <div class="btn-group btn-group-toggle justify-content-center d-flex scroll"  data-toggle="buttons">
           <label class="btn btn-sm btn-primary active">
             <input type="radio" name="shuffle-filter" value="all" checked="checked" />All
           </label>

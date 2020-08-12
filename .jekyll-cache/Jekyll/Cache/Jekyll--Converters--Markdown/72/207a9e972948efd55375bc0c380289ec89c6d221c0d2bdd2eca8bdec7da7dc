@@ -1,0 +1,65 @@
+I"A<!-- portfolio -->
+<section class="section">
+  <div class="container">
+    <div class="row mb-5">
+      <div class="col-12">
+        <div class="btn-group btn-group-toggle justify-content-center d-flex" data-toggle="buttons">
+          <label class="btn btn-sm btn-primary active">
+            <input type="radio" name="shuffle-filter" value="all" checked="checked" />All
+          </label>
+          
+        </div>
+      </div>
+    </div>
+    <div class="row shuffle-wrapper">
+      
+    </div>
+  </div>
+</section>
+<!-- /portfolio -->
+
+<!-- clients -->
+<section class="section bg-light">
+  <div class="container">
+    <div class="row">
+      <div class="col-12 text-center">
+        <h2 class="section-title">My Clients</h2>
+      </div>
+    </div>
+    
+<div class="client-logo-slider d-flex align-items-center">
+  
+  <a href="#" class="text-center d-block outline-0 p-4"><img class="d-unset img-fluid" src="/assets/images/clients-logo/walmartlabs.png" alt="client-logo" /></a>
+  
+  <a href="#" class="text-center d-block outline-0 p-4"><img class="d-unset img-fluid" src="/assets/images/clients-logo/facebook.png" alt="client-logo" /></a>
+  
+  <a href="#" class="text-center d-block outline-0 p-4"><img class="d-unset img-fluid" src="/assets/images/clients-logo/mozilla.jpg" alt="client-logo" /></a>
+  
+  <a href="#" class="text-center d-block outline-0 p-4"><img class="d-unset img-fluid" src="/assets/images/clients-logo/microsoft.png" alt="client-logo" /></a>
+  
+  <a href="#" class="text-center d-block outline-0 p-4"><img class="d-unset img-fluid" src="/assets/images/clients-logo/lenovo.png" alt="client-logo" /></a>
+  
+  <a href="#" class="text-center d-block outline-0 p-4"><img class="d-unset img-fluid" src="/assets/images/clients-logo/yahoo_japan.png" alt="client-logo" /></a>
+  
+  <a href="#" class="text-center d-block outline-0 p-4"><img class="d-unset img-fluid" src="/assets/images/clients-logo/xlab.png" alt="client-logo" /></a>
+  
+  <a href="#" class="text-center d-block outline-0 p-4"><img class="d-unset img-fluid" src="/assets/images/clients-logo/gdgmumbai.png" alt="client-logo" /></a>
+  
+  <a href="#" class="text-center d-block outline-0 p-4"><img class="d-unset img-fluid" src="/assets/images/clients-logo/globalcyberchallenge.png" alt="client-logo" /></a>
+  
+  <a href="#" class="text-center d-block outline-0 p-4"><img class="d-unset img-fluid" src="/assets/images/clients-logo/kandy.png" alt="client-logo" /></a>
+  
+  <a href="#" class="text-center d-block outline-0 p-4"><img class="d-unset img-fluid" src="/assets/images/clients-logo/intertrust.png" alt="client-logo" /></a>
+  
+  <a href="#" class="text-center d-block outline-0 p-4"><img class="d-unset img-fluid" src="/assets/images/clients-logo/mercari.png" alt="client-logo" /></a>
+  
+  <a href="#" class="text-center d-block outline-0 p-4"><img class="d-unset img-fluid" src="/assets/images/clients-logo/sap.jpg" alt="client-logo" /></a>
+  
+  <a href="#" class="text-center d-block outline-0 p-4"><img class="d-unset img-fluid" src="/assets/images/clients-logo/ubisoft.jpg" alt="client-logo" /></a>
+  
+</div>
+
+  </div>
+</section>
+<!-- /clients -->
+:ET
