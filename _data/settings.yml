@@ -619,12 +619,12 @@ ls:
   - title: "Python"
     discription: ""
     link: "https://github.com/wncc/learners-space/tree/master/Python"
-    image: "ls1.png"  
+    image: "ls1.jpg"  
 
   - title: "Web Dovelopment"
     discription: ""
     link: "https://github.com/wncc/learners-space/tree/master/Web%20Development"
-    image: "ls2.png"  
+    image: "ls2.jpg"  
 
   - title: "Machine Learning"
     discription: ""

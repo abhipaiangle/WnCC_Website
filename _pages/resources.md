@@ -9,7 +9,7 @@ permalink: /resources/
 <section class="section bg-light">
 <div class="container">
         <div class="col-12 text-center">
-            <h2 class="section-title">{{ item.title }}</h2>
+            <h2 class="section-title" style="margin-bottom: 40px;">{{ item.title }}</h2>
             <p>{{ item.fdis }}</p>
         </div>
 
