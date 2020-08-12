@@ -31,7 +31,7 @@ permalink: /resources/
                 </article>
             </div>
             {% endfor %} -->
-            {{ if item.name == "wiki" }}
+            {% if item.name == "wiki" %}
             
             {% for label in site.data.settings.wiki %}
             <div class="col-lg-4 col-sm-6 mb-4">
@@ -51,7 +51,7 @@ permalink: /resources/
             
            
             
-            {{ elsif item.name == "ciq" }}
+            {% elsif item.name == "ciq" %}
             
             {% for label in site.data.settings.ciq %}
             <div class="col-lg-4 col-sm-6 mb-4">
@@ -71,7 +71,7 @@ permalink: /resources/
             
          
             
-            {{ elsif item.name == "as" }}
+            {% elsif item.name == "as" %}
             
             {% for label in site.data.settings.as %}
             <div class="col-lg-4 col-sm-6 mb-4">
@@ -91,7 +91,7 @@ permalink: /resources/
             
            
            
-            {{ elsif item.name == "ls" }}
+            {% elsif item.name == "ls" %}
             
             {% for label in site.data.settings.ls %}
             <div class="col-lg-4 col-sm-6 mb-4">
@@ -109,7 +109,7 @@ permalink: /resources/
             </div>
             {% endfor %}
             
-            {{ endif }}
+            {% endif %}
 
 
 </div>
