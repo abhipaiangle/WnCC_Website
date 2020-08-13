@@ -68,7 +68,7 @@ permalink: /soc/projects/why-the-hype-around-gans/
     </thead>
     <tbody>
         <tr>
-        <td>Week 1-2</td>
+        <td style='width: 120px'>Week 1-2</td>
         <td>Learn/Brush-up Python, Torch, Jupyter, Numpy, Unix commands</td>
         </tr>
         <tr>
