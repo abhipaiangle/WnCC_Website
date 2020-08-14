@@ -29,11 +29,13 @@ permalink: /soc/projects/why-the-hype-around-gans/
     <img src="{{ site.baseurl }}/{{ project.image }}"  width = "300" height="300" alt="{{ project.project}}" class="border rounded img-soc">
 </div>
 <div>
+    <br>
     <ul>
         {% for topic in page.topics %}
         <li><h4 class="text-primary text-center">{{topic}}</h4></li>
         {% endfor %}
     </ul>
+    <br>
     <h4 class="display3  ">Mentors :</h4> 
     <ul>
         {% for mentor in page.mentors %}

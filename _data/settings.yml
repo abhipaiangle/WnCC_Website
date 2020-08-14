@@ -206,7 +206,7 @@ soc-items:
 
   - title : "3D reconstruction using 2D images"
     image : "assets/images/soc/item-2.png"
-    url: "https://www.wncc-iitb.org/soc_projects/45-siddesh-3d-reconstruction.html"
+    url: "/soc/projects/3d-reconstruction-using-2d-images/"
     soc-type:
      - type: "Development"
      - type: "Machine Learning"
@@ -214,7 +214,7 @@ soc-items:
 
   - title : "Computer Vision Workbench"
     image : "assets/images/soc/item-3.png"
-    url: "https://www.wncc-iitb.org/soc_projects/46-vishal-cv-workbench.html"
+    url: "/soc/projects/computer-vision-workbench/"
     soc-type:
      - type: "Development"
      - type: "Machine Learning"
@@ -223,35 +223,35 @@ soc-items:
 
   - title : "3D Object Classification using Mesh Neural Network"
     image : "assets/images/soc/item-4.png"
-    url: "https://www.wncc-iitb.org/soc_projects/47-sudhir-neural.html"
+    url: "/soc/projects/mesh-neural-network/"
     soc-type:
      - type: "Machine Learning"     
      - type: "2020"
 
   - title : "Lossless high entropy compression algorithm"
     image : "assets/images/soc/item-5.png"
-    url: "https://www.wncc-iitb.org/soc_projects/48-anubhav-ML.html"
+    url: "/soc/projects/lossless-high-entropy-compression-algorithm"
     soc-type:
      - type: "Machine Learning"
      - type: "2020"
 
   - title : "Tools for Web Development"
     image : "assets/images/soc/item-6.png"
-    url: "https://www.wncc-iitb.org/soc_projects/50-pritam-kumar-webdev.html"
+    url: "/soc/projects/tools-for-web-dev/"
     soc-type:
      - type: "Development"
      - type: "2020"
 
   - title : "ML GYM"
     image : "assets/images/soc/item-7.png"
-    url: "https://www.wncc-iitb.org/soc_projects/49-lalit-mlgym.html"
+    url: "/soc/projects/ml-gym"
     soc-type:
      - type: "Machine Learning"
      - type: "2020"
 
   - title : "Strategy Wars [Online]"
     image : "assets/images/soc/item-8.png"
-    url: "https://www.wncc-iitb.org/soc_projects/51-dhairya-strategywars.html"
+    url: "/soc/projects/strategy-wars"
     soc-type:
      - type: "Development"
      - type: "2020"
@@ -259,14 +259,14 @@ soc-items:
 
   - title : "Super Shenron"
     image : "assets/images/soc/item-9.png"
-    url: "https://www.wncc-iitb.org/soc_projects/55-bharti-supershenron.html"
+    url: "/soc/projects/super-shenron"
     soc-type:
      - type: "Develppment"
      - type: "2020"
 
   - title : "Gestures for 3D space"
     image : "assets/images/soc/item-10.gif"
-    url: "https://www.wncc-iitb.org/soc_projects/56-pagar-gestures.html"
+    url: "/soc/projects/gestures-for-3d-space"
     soc-type:
      - type: "Machine Learning"
      - type: "Development"
@@ -275,7 +275,7 @@ soc-items:
 
   - title : "Food Recommendation through Machine Learning"
     image : "assets/images/soc/item-11.png"
-    url: "https://www.wncc-iitb.org/soc_projects/52-anuj-food.html"
+    url: "/soc/projects/food-recommendation-through-machine-learning"
     soc-type:
      - type: "Development"          
      - type: "Machine Learning"
@@ -283,7 +283,7 @@ soc-items:
       
   - title : "Conversational Chatbot"
     image : "assets/images/soc/item-12.png"
-    url: "https://www.wncc-iitb.org/soc_projects/53-Ishwaryaa-chatbot.html"
+    url: "/soc/projects/conversational-chatbot/"
     soc-type:
      - type: "Development"
      - type: "Machine Learning"
@@ -292,14 +292,14 @@ soc-items:
 
   - title : "(Un)structured"
     image : "assets/images/soc/item-13.png"
-    url: "https://www.wncc-iitb.org/soc_projects/57-gagan-unstructured.html"
+    url: "/soc/projects/unstructured"
     soc-type:
      - type: "Machine Learning"
      - type: "2020"
 
   - title : "Road Network 3D Rendering using OpenGL"
     image : "assets/images/soc/item-14.png"
-    url: "https://www.wncc-iitb.org/soc_projects/58-debabrata-road-net.html"
+    url: "/soc/projects/road-network-3d-rendering-using-opengl"
     soc-type:
      - type: "Graphics"
      - type: "2020"
@@ -308,49 +308,49 @@ soc-items:
 
   - title : "Virtual Keyboard"
     image : "assets/images/soc/item-15.png"
-    url: "https://www.wncc-iitb.org/soc_projects/54-manan-keyboard.html"
+    url: "/soc/projects/virtual-keyboard"
     soc-type:
      - type: "Miscellaneous"
      - type: "2020"
 
   - title : "Introduction to Kaggle and Machine Learning"
     image : "assets/images/soc/item-16.png"
-    url: "https://www.wncc-iitb.org/soc_projects/60-yash-kaggle.html"
+    url: "/soc/projects/introduction-to-kaggle-and-machine-learning"
     soc-type:
      - type: "Machine Learning"
      - type: "2020"
 
   - title : "Krittika Website"
     image : "assets/images/soc/item-17.png"
-    url: "https://www.wncc-iitb.org/soc_projects/62-chaitanya-krittika.html"
+    url: "/soc/projects/krittika-website"
     soc-type:
      - type: "Development"
      - type: "2020"
 
   - title : "Competitive coding"
     image : "assets/images/soc/item-18.png"
-    url: "https://www.wncc-iitb.org/soc_projects/43-pratyush-competitive-coding.html"
+    url: "/soc/projects/competitive-coding"
     soc-type:
      - type: "Miscellaneous"  
      - type: "2020"
 
   - title : "Planet/Atmosphere Renderer using OpenGL"
     image : "assets/images/soc/item-19.png"
-    url: "https://www.wncc-iitb.org/soc_projects/64-rwitaban-computer-graphics.html"
+    url: "/soc/projects/planet-atmosphere-renderer-using-opengl"
     soc-type:
      - type: "Graphics"   
      - type: "2020"
 
   - title : "Intrusion Detection system"
     image : "assets/images/soc/item-20.png"
-    url: "https://www.wncc-iitb.org/soc_projects/42-rahul-intrusion-detection.html"
+    url: "/soc/projects/intrusion-detection-system"
     soc-type:
      - type: "Machine Learning"
      - type: "2020"
 
   - title : "Rubik's cube solver"
     image : "assets/images/soc/item-21.png"
-    url: "https://www.wncc-iitb.org/soc_projects/63-chaitanya-rubik-solver.html"
+    url: "/soc/projects/rubiks-cube-solver"
     soc-type:
      - type: "Development"
      - type: "Machine Learning"
@@ -358,7 +358,7 @@ soc-items:
 
   - title : "L.A.M.A. AI using Reinforcement Learning"
     image : "assets/images/soc/item-22.png"
-    url: "https://www.wncc-iitb.org/soc_projects/41-cheeku-lama-ai.html"
+    url: "/soc/projects/lama-ai"
     soc-type:
      - type: "Machine Learning"
      - type: "Development"
@@ -366,21 +366,21 @@ soc-items:
 
   - title : "Face Recognition using Statistics"
     image : "assets/images/soc/item-23.png"
-    url: "https://www.wncc-iitb.org/soc_projects/59-shreya-face-recognition.html"
+    url: "/soc/projects/face-recognition-using-statistics"
     soc-type:
      - type: "Machine Learning"
      - type: "2020"
 
   - title : "Tinkerers’ Laboratory Website"
     image : "assets/images/soc/item-24.png"
-    url: "https://www.wncc-iitb.org/soc_projects/67-vivek-saurabh-verma-TL-website.html"
+    url: "/soc/projects/TL-website"
     soc-type:
      - type: "Development"
      - type: "2020"
 
   - title : "Graphic Intensive MUSIC APP"
     image : "assets/images/soc/item-25.png"
-    url: "https://www.wncc-iitb.org/soc_projects/68-sudanshu-sahil-Graphic-Intensive-Music-App.html"
+    url: "/soc/projects/graphic-intensive-music-app"
     soc-type:
      - type: "Graphics"
      - type: "Development" 
@@ -388,7 +388,7 @@ soc-items:
 
   - title : "KontaKt App"
     image : "assets/images/soc/item-26.png"
-    url: "https://www.wncc-iitb.org/soc_projects/66-prabhat-KontaKt-app.html"
+    url: "/soc/projects/kontakt-app"
     soc-type:
      - type: "Development"
      - type: "Machine Learning"  
@@ -396,28 +396,28 @@ soc-items:
 
   - title : "Pool It!"
     image : "assets/images/soc/item-27.png"
-    url: "https://www.wncc-iitb.org/soc_projects/69-aman-poolit.html"
+    url: "/soc/projects/pool-it"
     soc-type:
      - type: "Development"   
      - type: "2020"
 
   - title : "Digital Depth Perception"
     image : "assets/images/soc/item-28.png"
-    url: "https://www.wncc-iitb.org/soc_projects/65-divyansh-depth.html"
+    url: "/soc/projects/digital-depth-perception"
     soc-type:
      - type: "Miscellaneous" 
      - type: "2020"
 
   - title : "Insti Buddy"
     image : "assets/images/soc/item-29.png"
-    url: "https://www.wncc-iitb.org/soc_projects/70-rishabh-instibuddy.html"
+    url: "/soc/projects/insti-buddy"
     soc-type:
      - type: "Development" 
      - type: "2020"
 
   - title : "Intelligent agents"
     image : "assets/images/soc/item-30.png"
-    url: "https://www.wncc-iitb.org/soc_projects/71-sanjeev-intelligent.html"
+    url: "/soc/projects/intelligent-agents"
     soc-type:
      - type: "Machine Learning" 
      - type: "2020"
