@@ -1,0 +1,114 @@
+I"s<h2 class="display1 m-3 p-3 text-center">Virtual Keyboard</h2>
+
+<div>
+    <img src="/assets/images/soc/item-15.png" width="300" height="300" alt="" class="border rounded img-soc" />
+</div>
+<div>
+    <br />
+    <ul>
+        
+        <li><h4 class="text-primary text-center">Augmented Reality</h4></li>
+        
+    </ul>
+    <br />
+    <h4 class="display3  ">Mentors :</h4> 
+    <ul>
+        
+        <li><h5 class=" ">Manan Kumar Garg</h5></li>
+        
+    </ul>
+    <h4 class="display3  ">Mentees :</h4> 
+    <ul>
+        
+        <li><h5 class="">Aanal Sonara</h5></li>
+        
+        <li><h5 class="">Aashuraj Hassani</h5></li>
+        
+        <li><h5 class="">Aashwin Agrawal</h5></li>
+        
+        <li><h5 class="">Aayush Shrivastava</h5></li>
+        
+        <li><h5 class="">Aditya Vijay Jain</h5></li>
+        
+        <li><h5 class="">Akshat Vira</h5></li>
+        
+        <li><h5 class="">ANKIT KUMAR JAIN</h5></li>
+        
+        <li><h5 class="">Darin Jeff</h5></li>
+        
+        <li><h5 class="">Devansh Saini</h5></li>
+        
+        <li><h5 class="">DHANUSH S</h5></li>
+        
+        <li><h5 class="">Harsh Kumar</h5></li>
+        
+        <li><h5 class="">Harshavardhan Ragade</h5></li>
+        
+        <li><h5 class="">Kritin agarwal</h5></li>
+        
+        <li><h5 class="">Nirmal Shah</h5></li>
+        
+        <li><h5 class="">Nitin Kumar</h5></li>
+        
+        <li><h5 class="">Paarth Jain</h5></li>
+        
+        <li><h5 class="">Pallavi Kochar</h5></li>
+        
+        <li><h5 class="">Pavithra</h5></li>
+        
+        <li><h5 class="">Rushil Hari Kopakka</h5></li>
+        
+        <li><h5 class="">Sharvaree Sinkar</h5></li>
+        
+        <li><h5 class="">Sudhansh</h5></li>
+        
+        <li><h5 class="">Tanisha Khandelwal</h5></li>
+        
+        <li><h5 class="">Vishesh Agarwal</h5></li>
+        
+        <li><h5 class="">Yash Sharda</h5></li>
+        
+    </ul>
+</div>
+<div>
+    <p class="display3" style="font-size:20px;">
+        <br />
+        The project is about making a virtual keyboard that can be projected on any flat surface like a table and then can be used to type in real-time. To start with, we need to program image processing that senses touch at a certain key on the virtual setting of keyboard. after that we need to fetch programs for individual as well as combination of keys (ex. Shift + any letter = Capital).
+
+</p>
+</div>
+<div>
+    <h4 class="display3" style="margin:40px 0px 40px 0px;">Tentative Timeline :</h4>
+    <table class="table table-striped">
+    <thead>
+        <tr>
+        <th>Week</th>
+        <th>Work</th>
+        </tr>
+    </thead>
+    <tbody>
+    <tr>
+      <td style="width: 120px">Week 1-2</td>
+      <td>Learn basics of image processing and software like unity</td>
+    </tr>
+    <tr>
+      <td>Week 3-4</td>
+      <td>Learn Basics of Augmented Reality</td>
+    </tr>
+    <tr>
+      <td>Week 5-6</td>
+      <td>Basic Program for detecting touches</td>
+    </tr>
+    <tr>
+      <td>Week 7-8</td>
+      <td>Final programming for keyboard</td>
+    </tr>
+    <tr>
+      <td>Week 9-10</td>
+      <td>Further advancements</td>
+    </tr>
+    </tbody>
+    </table>
+</div>
+
+:ET

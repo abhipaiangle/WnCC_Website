@@ -1,0 +1,618 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <title>Seasons of Code</title>
+
+  <!-- mobile responsive meta -->
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+  
+  <!-- ** Plugins Needed for the Project ** -->
+  <!-- Bootstrap -->
+  <link rel="stylesheet" href="/assets/plugins/bootstrap/bootstrap.min.css">
+  <!-- slick slider -->
+  <link rel="stylesheet" href="/assets/plugins/slick/slick.css">
+  <!-- themefy-icon -->
+  <link rel="stylesheet" href="/assets/plugins/themify-icons/themify-icons.css">
+
+  <!-- Main Stylesheet -->
+  <link href="/assets/css/style.css" rel="stylesheet">
+  
+  <!--Favicon-->
+  <link rel="shortcut icon" href="/assets/images/favicon.ico" type="image/x-icon">
+  <link rel="icon" href="/assets/images/favicon.ico" type="image/x-icon">
+
+  <style>
+  .img-soc{
+    width: 100%;
+    height: auto;
+    aspect-ratio: attr(width) / attr(height);
+  }
+  @media screen and (max-width: 767px) {
+    .scroll{
+      overflow-x: scroll;
+      scroll-behavior: smooth;
+    }
+    
+  }
+  </style>
+
+</head>
+
+<body>
+
+<header class="navigation fixed-top">
+  <nav class="navbar navbar-expand-lg navbar-dark">
+    <a class="navbar-brand font-tertiary h3" href="/">
+      
+        <img src="/assets/images/logo.png" alt="WnCC IIT Bombay">
+      
+    </a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navigation"
+      aria-controls="navigation" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <div class="collapse navbar-collapse text-center" id="navigation">
+      <ul class="navbar-nav ml-auto">
+        <li class="nav-item active">
+          <a class="nav-link" href="/">Home</a>
+        </li>
+        
+          <li class="nav-item ">
+            <a class="nav-link" href="/resources/">Resources</a>
+          </li>
+        
+          <li class="nav-item ">
+            <a class="nav-link" href="/soc/">SoC</a>
+          </li>
+        
+          <li class="nav-item ">
+            <a class="nav-link" href="/events/">Events</a>
+          </li>
+        
+          <li class="nav-item ">
+            <a class="nav-link" href="/contact/">Contact</a>
+          </li>
+        
+      </ul>
+    </div>
+  </nav>
+</header>
+
+<!-- page title -->
+
+    <!-- background shapes 
+    <img src="/assets/images/illustrations/page-title.png" alt="illustrations" class="bg-shape-1 w-100">
+    <img src="/assets/images/illustrations/leaf-pink-round.png" alt="illustrations" class="bg-shape-2">
+    <img src="/assets/images/illustrations/dots-cyan.png" alt="illustrations" class="bg-shape-3">
+    <img src="/assets/images/illustrations/leaf-orange.png" alt="illustrations" class="bg-shape-4">
+    <img src="/assets/images/illustrations/leaf-yellow.png" alt="illustrations" class="bg-shape-5">
+    <img src="/assets/images/illustrations/dots-group-cyan.png" alt="illustrations" class="bg-shape-6">
+    <img src="/assets/images/illustrations/leaf-cyan-lg.png" alt="illustrations" class="bg-shape-7">
+  </section>
+   /page title -->
+<div style="width: 100%; height: 200px;" class="bg-primary"></div>
+
+<div class="container">
+    <div class="row">
+        <div class="col"></div>
+        <div class="col-sm-10 col-md-8">
+            <h2 class="display1 m-3 p-3 text-center">3D reconstruction using 2D images</h2>
+
+<div>
+    <img src="/assets/images/soc/item-2.png" width="300" height="300" alt="" class="border rounded img-soc" />
+</div>
+<div>
+    <br />
+    <ul>
+        
+        <li><h4 class="text-primary text-center">Machine Learning</h4></li>
+        
+        <li><h4 class="text-primary text-center">Image Processing</h4></li>
+        
+        <li><h4 class="text-primary text-center">Development</h4></li>
+        
+    </ul>
+    <br />
+    <h4 class="display3  ">Mentors :</h4> 
+    <ul>
+        
+        <li><h5 class=" ">Siddhesh Pawar</h5></li>
+        
+        <li><h5 class=" ">Hrushikesh Bodas</h5></li>
+        
+    </ul>
+    <h4 class="display3  ">Mentees :</h4> 
+    <ul>
+        
+        <li><h5 class="">Dharshan</h5></li>
+        
+        <li><h5 class="">Divya Pattisapu</h5></li>
+        
+        <li><h5 class="">Prayas Jain</h5></li>
+        
+        <li><h5 class="">Avyakta Wrat</h5></li>
+        
+        <li><h5 class="">Ayush Jangir</h5></li>
+        
+        <li><h5 class="">Puranjay Dutta</h5></li>
+        
+        <li><h5 class="">Kriti Chaturvedi</h5></li>
+        
+    </ul>
+</div>
+<div>
+    <p class="display3" style="font-size:20px;">
+        <br />
+        Producing 2D images of a 3D world is inherently a lossy process, i.e. the entire geometric richness of 3D gets projected onto a single flat 2D image. We aim to create an API in Python which primarily reconstructs 3D volumes from 2D X-Ray Images.
+<br /><br />
+We see this project as the first step towards a diagnostic tool in conditions where either no CT equipment or the education to interpret x-ray imagery is available, such as for mobile x-ray devices, lay users, or medical diagnostics in developing countries. The project is primarily divided into 2 parts:
+<br /><br />
+    Implementation of various CNN architectures for 3D reconstruction from 2D images(3 people would be working on this part)
+<br /><br />
+    Development of API(back-end framework for the above task).1 mentee would be working on this part.
+<br /><br />
+Part 1 has some hard pre-requisites while anyone who has an interest in python or has done some basic programming in python or java-script can apply for part 2.
+<br /><br />
+Pre-requisites for part 1: Must be familiar with any one of the following deep learning frameworks: Pytorch/Tensorflow/Theano/Keras. A basic idea of neural networks and machine learning is required. Previous experience in image processing is desired although is not a hard pre-requisite.
+<br /><br />
+Interested people in this part should go through the following <a href="https://arxiv.org/pdf/1710.04867.pdf">paper</a> while applying.
+<br /><br />
+Note: If you are new to deep learning, it is recommended that you should go through the first 5 chapters of the <a href="https://www.goodreads.com/book/show/33986067-deep-learning-with-python">book</a> before applying.
+    </p>
+</div>
+<div>
+    <h4 class="display3" style="margin:40px 0px 40px 0px;">Tentative Timeline :</h4>
+    <table class="table table-striped">
+    <thead>
+        <tr>
+        <th>Week</th>
+        <th>Work</th>
+        </tr>
+    </thead>
+    <tbody>
+    <tr>
+      <td style="width: 120px">Week 1 and 2</td>
+      <td>Reading of related material and learning relevant applications of the framework that would be used(mostly Keras and PyTorch)</td>
+    </tr>
+    <tr>
+      <td>Week 3</td>
+      <td>Testing and implementing Simple CNN architectures</td>
+    </tr>
+    <tr>
+      <td>Week 4 and 5</td>
+      <td>Working on Designing and implementation of 3D reconstruction from multiple images along with data pre-processing</td>
+    </tr>
+    <tr>
+      <td>Week 6 and 7</td>
+      <td>Programming and testing of various models for 3D reconstruction from single 2D image</td>
+    </tr>
+    <tr>
+      <td>Week 8</td>
+      <td>Further improvements on the models that have been created above.</td>
+    </tr>
+    </tbody>
+    </table>
+</div>
+
+
+        </div>
+        <div class="col"></div>
+    </div>
+</div>
+
+ <!-- soc -->
+<section class="section">
+  <div class="container">
+    <div class="row mb-5">
+      <div class="col-12">
+        <div class="btn-group btn-group-toggle justify-content-center d-flex" data-toggle="buttons">
+          <label class="btn btn-sm btn-primary active">
+            <input type="radio" name="shuffle-filter" value="all" checked="checked" />All
+          </label>
+          
+          <label class="btn btn-sm btn-primary">
+            <input type="radio" name="shuffle-filter" value="Machine Learning" />ML
+          </label>
+          
+          <label class="btn btn-sm btn-primary">
+            <input type="radio" name="shuffle-filter" value="Development" />DEVELOPMENT
+          </label>
+          
+          <label class="btn btn-sm btn-primary">
+            <input type="radio" name="shuffle-filter" value="Graphics" />GRAPHICS
+          </label>
+          
+          <label class="btn btn-sm btn-primary">
+            <input type="radio" name="shuffle-filter" value="Miscellaneous" />MISCELLANEOUS
+          </label>
+          
+          <label class="btn btn-sm btn-primary">
+            <input type="radio" name="shuffle-filter" value="2020" />2020
+          </label>
+          
+        </div>
+      </div>
+    </div>
+    <div class="row shuffle-wrapper">
+      
+      <div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[&quot;Machine Learning&quot;,&quot;2020&quot;]">
+        <div class="position-relative rounded hover-wrapper" href="/soc/projects/why-the-hype-around-gans/">
+          <span class="rounded"> <img src="/assets/images/soc/item-1.png" alt="Why The Hype Around GANs" class="img-fluid  w-100 d-block"></span>
+          <div class="hover-overlay">
+            <div class="hover-content p-1 m-1">
+              <a class="btn btn-xs btn-primary btn-block" style="white-space:normal; word-wrap:break-word;overflow: hidden;text-overflow: ellipsis;" href = "/soc/projects/why-the-hype-around-gans/">Why The Hype Around GANs</a>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+      <div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[&quot;Development&quot;,&quot;Machine Learning&quot;,&quot;2020&quot;]">
+        <div class="position-relative rounded hover-wrapper" href="/soc/projects/3d-reconstruction-using-2d-images/">
+          <span class="rounded"> <img src="/assets/images/soc/item-2.png" alt="3D reconstruction using 2D images" class="img-fluid  w-100 d-block"></span>
+          <div class="hover-overlay">
+            <div class="hover-content p-1 m-1">
+              <a class="btn btn-xs btn-primary btn-block" style="white-space:normal; word-wrap:break-word;overflow: hidden;text-overflow: ellipsis;" href = "/soc/projects/3d-reconstruction-using-2d-images/">3D reconstruction using 2D images</a>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+      <div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[&quot;Development&quot;,&quot;Machine Learning&quot;,&quot;2020&quot;]">
+        <div class="position-relative rounded hover-wrapper" href="/soc/projects/computer-vision-workbench/">
+          <span class="rounded"> <img src="/assets/images/soc/item-3.png" alt="Computer Vision Workbench" class="img-fluid  w-100 d-block"></span>
+          <div class="hover-overlay">
+            <div class="hover-content p-1 m-1">
+              <a class="btn btn-xs btn-primary btn-block" style="white-space:normal; word-wrap:break-word;overflow: hidden;text-overflow: ellipsis;" href = "/soc/projects/computer-vision-workbench/">Computer Vision Workbench</a>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+      <div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[&quot;Machine Learning&quot;,&quot;2020&quot;]">
+        <div class="position-relative rounded hover-wrapper" href="/soc/projects/mesh-neural-network/">
+          <span class="rounded"> <img src="/assets/images/soc/item-4.png" alt="3D Object Classification using Mesh Neural Network" class="img-fluid  w-100 d-block"></span>
+          <div class="hover-overlay">
+            <div class="hover-content p-1 m-1">
+              <a class="btn btn-xs btn-primary btn-block" style="white-space:normal; word-wrap:break-word;overflow: hidden;text-overflow: ellipsis;" href = "/soc/projects/mesh-neural-network/">3D Object Classification using Mesh Neural Network</a>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+      <div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[&quot;Machine Learning&quot;,&quot;2020&quot;]">
+        <div class="position-relative rounded hover-wrapper" href="/soc/projects/lossless-high-entropy-compression-algorithm">
+          <span class="rounded"> <img src="/assets/images/soc/item-5.png" alt="Lossless high entropy compression algorithm" class="img-fluid  w-100 d-block"></span>
+          <div class="hover-overlay">
+            <div class="hover-content p-1 m-1">
+              <a class="btn btn-xs btn-primary btn-block" style="white-space:normal; word-wrap:break-word;overflow: hidden;text-overflow: ellipsis;" href = "/soc/projects/lossless-high-entropy-compression-algorithm">Lossless high entropy compression algorithm</a>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+      <div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[&quot;Development&quot;,&quot;2020&quot;]">
+        <div class="position-relative rounded hover-wrapper" href="/soc/projects/tools-for-web-dev/">
+          <span class="rounded"> <img src="/assets/images/soc/item-6.png" alt="Tools for Web Development" class="img-fluid  w-100 d-block"></span>
+          <div class="hover-overlay">
+            <div class="hover-content p-1 m-1">
+              <a class="btn btn-xs btn-primary btn-block" style="white-space:normal; word-wrap:break-word;overflow: hidden;text-overflow: ellipsis;" href = "/soc/projects/tools-for-web-dev/">Tools for Web Development</a>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+      <div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[&quot;Machine Learning&quot;,&quot;2020&quot;]">
+        <div class="position-relative rounded hover-wrapper" href="/soc/projects/ml-gym">
+          <span class="rounded"> <img src="/assets/images/soc/item-7.png" alt="ML GYM" class="img-fluid  w-100 d-block"></span>
+          <div class="hover-overlay">
+            <div class="hover-content p-1 m-1">
+              <a class="btn btn-xs btn-primary btn-block" style="white-space:normal; word-wrap:break-word;overflow: hidden;text-overflow: ellipsis;" href = "/soc/projects/ml-gym">ML GYM</a>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+      <div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[&quot;Development&quot;,&quot;2020&quot;]">
+        <div class="position-relative rounded hover-wrapper" href="/soc/projects/strategy-wars">
+          <span class="rounded"> <img src="/assets/images/soc/item-8.png" alt="Strategy Wars [Online]" class="img-fluid  w-100 d-block"></span>
+          <div class="hover-overlay">
+            <div class="hover-content p-1 m-1">
+              <a class="btn btn-xs btn-primary btn-block" style="white-space:normal; word-wrap:break-word;overflow: hidden;text-overflow: ellipsis;" href = "/soc/projects/strategy-wars">Strategy Wars [Online]</a>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+      <div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[&quot;Develppment&quot;,&quot;2020&quot;]">
+        <div class="position-relative rounded hover-wrapper" href="/soc/projects/super-shenron">
+          <span class="rounded"> <img src="/assets/images/soc/item-9.png" alt="Super Shenron" class="img-fluid  w-100 d-block"></span>
+          <div class="hover-overlay">
+            <div class="hover-content p-1 m-1">
+              <a class="btn btn-xs btn-primary btn-block" style="white-space:normal; word-wrap:break-word;overflow: hidden;text-overflow: ellipsis;" href = "/soc/projects/super-shenron">Super Shenron</a>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+      <div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[&quot;Machine Learning&quot;,&quot;Development&quot;,&quot;Graphics&quot;,&quot;2020&quot;]">
+        <div class="position-relative rounded hover-wrapper" href="/soc/projects/gestures-for-3d-space">
+          <span class="rounded"> <img src="/assets/images/soc/item-10.gif" alt="Gestures for 3D space" class="img-fluid  w-100 d-block"></span>
+          <div class="hover-overlay">
+            <div class="hover-content p-1 m-1">
+              <a class="btn btn-xs btn-primary btn-block" style="white-space:normal; word-wrap:break-word;overflow: hidden;text-overflow: ellipsis;" href = "/soc/projects/gestures-for-3d-space">Gestures for 3D space</a>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+      <div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[&quot;Development&quot;,&quot;Machine Learning&quot;,&quot;2020&quot;]">
+        <div class="position-relative rounded hover-wrapper" href="/soc/projects/food-recommendation-through-machine-learning">
+          <span class="rounded"> <img src="/assets/images/soc/item-11.png" alt="Food Recommendation through Machine Learning" class="img-fluid  w-100 d-block"></span>
+          <div class="hover-overlay">
+            <div class="hover-content p-1 m-1">
+              <a class="btn btn-xs btn-primary btn-block" style="white-space:normal; word-wrap:break-word;overflow: hidden;text-overflow: ellipsis;" href = "/soc/projects/food-recommendation-through-machine-learning">Food Recommendation through Machine Learning</a>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+      <div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[&quot;Development&quot;,&quot;Machine Learning&quot;,&quot;2020&quot;]">
+        <div class="position-relative rounded hover-wrapper" href="/soc/projects/conversational-chatbot/">
+          <span class="rounded"> <img src="/assets/images/soc/item-12.png" alt="Conversational Chatbot" class="img-fluid  w-100 d-block"></span>
+          <div class="hover-overlay">
+            <div class="hover-content p-1 m-1">
+              <a class="btn btn-xs btn-primary btn-block" style="white-space:normal; word-wrap:break-word;overflow: hidden;text-overflow: ellipsis;" href = "/soc/projects/conversational-chatbot/">Conversational Chatbot</a>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+      <div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[&quot;Machine Learning&quot;,&quot;2020&quot;]">
+        <div class="position-relative rounded hover-wrapper" href="/soc/projects/unstructured">
+          <span class="rounded"> <img src="/assets/images/soc/item-13.png" alt="(Un)structured" class="img-fluid  w-100 d-block"></span>
+          <div class="hover-overlay">
+            <div class="hover-content p-1 m-1">
+              <a class="btn btn-xs btn-primary btn-block" style="white-space:normal; word-wrap:break-word;overflow: hidden;text-overflow: ellipsis;" href = "/soc/projects/unstructured">(Un)structured</a>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+      <div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[&quot;Graphics&quot;,&quot;2020&quot;,&quot;2020&quot;]">
+        <div class="position-relative rounded hover-wrapper" href="/soc/projects/road-network-3d-rendering-using-opengl">
+          <span class="rounded"> <img src="/assets/images/soc/item-14.png" alt="Road Network 3D Rendering using OpenGL" class="img-fluid  w-100 d-block"></span>
+          <div class="hover-overlay">
+            <div class="hover-content p-1 m-1">
+              <a class="btn btn-xs btn-primary btn-block" style="white-space:normal; word-wrap:break-word;overflow: hidden;text-overflow: ellipsis;" href = "/soc/projects/road-network-3d-rendering-using-opengl">Road Network 3D Rendering using OpenGL</a>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+      <div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[&quot;Miscellaneous&quot;,&quot;2020&quot;]">
+        <div class="position-relative rounded hover-wrapper" href="/soc/projects/virtual-keyboard">
+          <span class="rounded"> <img src="/assets/images/soc/item-15.png" alt="Virtual Keyboard" class="img-fluid  w-100 d-block"></span>
+          <div class="hover-overlay">
+            <div class="hover-content p-1 m-1">
+              <a class="btn btn-xs btn-primary btn-block" style="white-space:normal; word-wrap:break-word;overflow: hidden;text-overflow: ellipsis;" href = "/soc/projects/virtual-keyboard">Virtual Keyboard</a>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+      <div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[&quot;Machine Learning&quot;,&quot;2020&quot;]">
+        <div class="position-relative rounded hover-wrapper" href="/soc/projects/introduction-to-kaggle-and-machine-learning">
+          <span class="rounded"> <img src="/assets/images/soc/item-16.png" alt="Introduction to Kaggle and Machine Learning" class="img-fluid  w-100 d-block"></span>
+          <div class="hover-overlay">
+            <div class="hover-content p-1 m-1">
+              <a class="btn btn-xs btn-primary btn-block" style="white-space:normal; word-wrap:break-word;overflow: hidden;text-overflow: ellipsis;" href = "/soc/projects/introduction-to-kaggle-and-machine-learning">Introduction to Kaggle and Machine Learning</a>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+      <div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[&quot;Development&quot;,&quot;2020&quot;]">
+        <div class="position-relative rounded hover-wrapper" href="/soc/projects/krittika-website">
+          <span class="rounded"> <img src="/assets/images/soc/item-17.png" alt="Krittika Website" class="img-fluid  w-100 d-block"></span>
+          <div class="hover-overlay">
+            <div class="hover-content p-1 m-1">
+              <a class="btn btn-xs btn-primary btn-block" style="white-space:normal; word-wrap:break-word;overflow: hidden;text-overflow: ellipsis;" href = "/soc/projects/krittika-website">Krittika Website</a>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+      <div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[&quot;Miscellaneous&quot;,&quot;2020&quot;]">
+        <div class="position-relative rounded hover-wrapper" href="/soc/projects/competitive-coding">
+          <span class="rounded"> <img src="/assets/images/soc/item-18.png" alt="Competitive coding" class="img-fluid  w-100 d-block"></span>
+          <div class="hover-overlay">
+            <div class="hover-content p-1 m-1">
+              <a class="btn btn-xs btn-primary btn-block" style="white-space:normal; word-wrap:break-word;overflow: hidden;text-overflow: ellipsis;" href = "/soc/projects/competitive-coding">Competitive coding</a>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+      <div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[&quot;Graphics&quot;,&quot;2020&quot;]">
+        <div class="position-relative rounded hover-wrapper" href="/soc/projects/planet-atmosphere-renderer-using-opengl">
+          <span class="rounded"> <img src="/assets/images/soc/item-19.png" alt="Planet/Atmosphere Renderer using OpenGL" class="img-fluid  w-100 d-block"></span>
+          <div class="hover-overlay">
+            <div class="hover-content p-1 m-1">
+              <a class="btn btn-xs btn-primary btn-block" style="white-space:normal; word-wrap:break-word;overflow: hidden;text-overflow: ellipsis;" href = "/soc/projects/planet-atmosphere-renderer-using-opengl">Planet/Atmosphere Renderer using OpenGL</a>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+      <div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[&quot;Machine Learning&quot;,&quot;2020&quot;]">
+        <div class="position-relative rounded hover-wrapper" href="/soc/projects/intrusion-detection-system">
+          <span class="rounded"> <img src="/assets/images/soc/item-20.png" alt="Intrusion Detection system" class="img-fluid  w-100 d-block"></span>
+          <div class="hover-overlay">
+            <div class="hover-content p-1 m-1">
+              <a class="btn btn-xs btn-primary btn-block" style="white-space:normal; word-wrap:break-word;overflow: hidden;text-overflow: ellipsis;" href = "/soc/projects/intrusion-detection-system">Intrusion Detection system</a>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+      <div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[&quot;Development&quot;,&quot;Machine Learning&quot;,&quot;2020&quot;]">
+        <div class="position-relative rounded hover-wrapper" href="/soc/projects/rubiks-cube-solver">
+          <span class="rounded"> <img src="/assets/images/soc/item-21.png" alt="Rubik's cube solver" class="img-fluid  w-100 d-block"></span>
+          <div class="hover-overlay">
+            <div class="hover-content p-1 m-1">
+              <a class="btn btn-xs btn-primary btn-block" style="white-space:normal; word-wrap:break-word;overflow: hidden;text-overflow: ellipsis;" href = "/soc/projects/rubiks-cube-solver">Rubik's cube solver</a>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+      <div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[&quot;Machine Learning&quot;,&quot;Development&quot;,&quot;2020&quot;]">
+        <div class="position-relative rounded hover-wrapper" href="/soc/projects/lama-ai">
+          <span class="rounded"> <img src="/assets/images/soc/item-22.png" alt="L.A.M.A. AI using Reinforcement Learning" class="img-fluid  w-100 d-block"></span>
+          <div class="hover-overlay">
+            <div class="hover-content p-1 m-1">
+              <a class="btn btn-xs btn-primary btn-block" style="white-space:normal; word-wrap:break-word;overflow: hidden;text-overflow: ellipsis;" href = "/soc/projects/lama-ai">L.A.M.A. AI using Reinforcement Learning</a>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+      <div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[&quot;Machine Learning&quot;,&quot;2020&quot;]">
+        <div class="position-relative rounded hover-wrapper" href="/soc/projects/face-recognition-using-statistics">
+          <span class="rounded"> <img src="/assets/images/soc/item-23.png" alt="Face Recognition using Statistics" class="img-fluid  w-100 d-block"></span>
+          <div class="hover-overlay">
+            <div class="hover-content p-1 m-1">
+              <a class="btn btn-xs btn-primary btn-block" style="white-space:normal; word-wrap:break-word;overflow: hidden;text-overflow: ellipsis;" href = "/soc/projects/face-recognition-using-statistics">Face Recognition using Statistics</a>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+      <div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[&quot;Development&quot;,&quot;2020&quot;]">
+        <div class="position-relative rounded hover-wrapper" href="/soc/projects/TL-website">
+          <span class="rounded"> <img src="/assets/images/soc/item-24.png" alt="Tinkerers’ Laboratory Website" class="img-fluid  w-100 d-block"></span>
+          <div class="hover-overlay">
+            <div class="hover-content p-1 m-1">
+              <a class="btn btn-xs btn-primary btn-block" style="white-space:normal; word-wrap:break-word;overflow: hidden;text-overflow: ellipsis;" href = "/soc/projects/TL-website">Tinkerers’ Laboratory Website</a>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+      <div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[&quot;Graphics&quot;,&quot;Development&quot;,&quot;2020&quot;]">
+        <div class="position-relative rounded hover-wrapper" href="/soc/projects/graphic-intensive-music-app">
+          <span class="rounded"> <img src="/assets/images/soc/item-25.png" alt="Graphic Intensive MUSIC APP" class="img-fluid  w-100 d-block"></span>
+          <div class="hover-overlay">
+            <div class="hover-content p-1 m-1">
+              <a class="btn btn-xs btn-primary btn-block" style="white-space:normal; word-wrap:break-word;overflow: hidden;text-overflow: ellipsis;" href = "/soc/projects/graphic-intensive-music-app">Graphic Intensive MUSIC APP</a>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+      <div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[&quot;Development&quot;,&quot;Machine Learning&quot;,&quot;2020&quot;]">
+        <div class="position-relative rounded hover-wrapper" href="/soc/projects/kontakt-app">
+          <span class="rounded"> <img src="/assets/images/soc/item-26.png" alt="KontaKt App" class="img-fluid  w-100 d-block"></span>
+          <div class="hover-overlay">
+            <div class="hover-content p-1 m-1">
+              <a class="btn btn-xs btn-primary btn-block" style="white-space:normal; word-wrap:break-word;overflow: hidden;text-overflow: ellipsis;" href = "/soc/projects/kontakt-app">KontaKt App</a>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+      <div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[&quot;Development&quot;,&quot;2020&quot;]">
+        <div class="position-relative rounded hover-wrapper" href="/soc/projects/pool-it">
+          <span class="rounded"> <img src="/assets/images/soc/item-27.png" alt="Pool It!" class="img-fluid  w-100 d-block"></span>
+          <div class="hover-overlay">
+            <div class="hover-content p-1 m-1">
+              <a class="btn btn-xs btn-primary btn-block" style="white-space:normal; word-wrap:break-word;overflow: hidden;text-overflow: ellipsis;" href = "/soc/projects/pool-it">Pool It!</a>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+      <div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[&quot;Miscellaneous&quot;,&quot;2020&quot;]">
+        <div class="position-relative rounded hover-wrapper" href="/soc/projects/digital-depth-perception">
+          <span class="rounded"> <img src="/assets/images/soc/item-28.png" alt="Digital Depth Perception" class="img-fluid  w-100 d-block"></span>
+          <div class="hover-overlay">
+            <div class="hover-content p-1 m-1">
+              <a class="btn btn-xs btn-primary btn-block" style="white-space:normal; word-wrap:break-word;overflow: hidden;text-overflow: ellipsis;" href = "/soc/projects/digital-depth-perception">Digital Depth Perception</a>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+      <div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[&quot;Development&quot;,&quot;2020&quot;]">
+        <div class="position-relative rounded hover-wrapper" href="/soc/projects/insti-buddy">
+          <span class="rounded"> <img src="/assets/images/soc/item-29.png" alt="Insti Buddy" class="img-fluid  w-100 d-block"></span>
+          <div class="hover-overlay">
+            <div class="hover-content p-1 m-1">
+              <a class="btn btn-xs btn-primary btn-block" style="white-space:normal; word-wrap:break-word;overflow: hidden;text-overflow: ellipsis;" href = "/soc/projects/insti-buddy">Insti Buddy</a>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+      <div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[&quot;Machine Learning&quot;,&quot;2020&quot;]">
+        <div class="position-relative rounded hover-wrapper" href="/soc/projects/intelligent-agents">
+          <span class="rounded"> <img src="/assets/images/soc/item-30.png" alt="Intelligent agents" class="img-fluid  w-100 d-block"></span>
+          <div class="hover-overlay">
+            <div class="hover-content p-1 m-1">
+              <a class="btn btn-xs btn-primary btn-block" style="white-space:normal; word-wrap:break-word;overflow: hidden;text-overflow: ellipsis;" href = "/soc/projects/intelligent-agents">Intelligent agents</a>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+    </div>
+  </div>
+</section>
+<!-- /soc -->
+  <!-- footer -->
+<footer class="bg-dark footer-section">
+  <div class="section">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-4">
+          <h5 class="text-light">Email</h5>
+          <p class="text-white paragraph-lg font-secondary">wncc@iitb.ac.in</p>
+        </div>
+        <div class="col-md-4">
+          <h5 class="text-light">Phone</h5>
+          <p class="text-white paragraph-lg font-secondary">0</p>
+        </div>
+        <div class="col-md-4">
+          <h5 class="text-light">Address</h5>
+          <p class="text-white paragraph-lg font-secondary">IIT Bombay, Powai, Mumbai, Maharashtra</p>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="border-top text-center border-dark py-5">
+    <p class="mb-0 text-light">Copyright ©<script>
+        var CurrentYear = new Date().getFullYear()
+        document.write(CurrentYear)
+      </script> Web and Coding Club, IIT Bombay</p>
+  </div>
+</footer>
+<!-- /footer -->
+
+  <!-- jQuery -->
+  <script src="/assets/plugins/jQuery/jquery.min.js"></script>
+  <!-- Bootstrap JS -->
+  <script src="/assets/plugins/bootstrap/bootstrap.min.js"></script>
+  <!-- slick slider -->
+  <script src="/assets/plugins/slick/slick.min.js"></script>
+  <!-- filter -->
+  <script src="/assets/plugins/shuffle/shuffle.min.js"></script>
+
+  <!-- Main Script -->
+  <script src="/assets/js/script.js"></script>
+</body>
+
+</html>

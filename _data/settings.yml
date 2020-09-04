@@ -3,12 +3,11 @@
 
 title: WnCC IIT Bombay
 logo: logo.png
-email: steve.fruits@email.com
+email: wncc@iitb.ac.in
 phone: 0000
 address: IIT Bombay, Powai, Mumbai, Maharashtra
 
 menu:
-- {name: About, link: '/about/'}
 - {name: Resources, link: '/resources/'}
 - {name: SoC, link: '/soc/'}
 - {name: Events, link: '/events/'}
@@ -36,13 +35,14 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 # Hero Section
 
 hero:
-  hero-title: Web And Coding Club
+  hero-title: Web and <br> Coding Club <br> <font color = '#ffa500'>IIT Bombay</font> 
 
 social:
-- {icon: "ti-facebook", link: "#"}
-- {icon: "ti-instagram", link: "#"}
-- {icon: "ti-dribbble", link: "#"}
-- {icon: "ti-twitter", link: "#"}
+- {icon: "ti-facebook", link: "https://www.facebook.com/wncc.iitb"}
+- {icon: "ti-instagram", link: "http://instagram.com/wncc.iitb"}
+- {icon: "ti-linkedin", link: "https://www.linkedin.com/company/wncc-iitb/"}
+- {icon: "ti-github", link: "https://github.com/wncc"}
+
 
 
 #-------------------------------
@@ -74,17 +74,69 @@ work-process:
 
 # My Team Section
 team:
-  - title : "Akshit Shrivastava"
+    
+  - title : "Divyanshi Kamra"
+    image : "assets/images/team/DK.jpg"
+    designation : "Convener"
+    github : "https://github.com/divyanshikamra"
+    facebook : "https://www.facebook.com/divyanshi.kamra.7/"
+    linkedin: "https://www.linkedin.com/in/divyanshi-kamra-36268b1b3/"
+
+  - title : "Pradipta Parag Bora"
+    image : "assets/images/team/Bora.jpg"
+    designation : "Convener"
+    github : "https://github.com/geekpradd"
+    facebook: "https://www.facebook.com/pradiptapbora"
+    linkedin : "https://www.linkedin.com/in/pradipta-bora-23b705153/"
+
+  - title : "Pranjal Gupta"
+    image : "assets/images/team/Pranjal.png"
+    designation : "Convener"
+    github: "https://github.com/TheMonitorBeep"
+    facebook: "https://www.facebook.com/pranjal.gupta.710"
+    linkedin : "http://linkedin.com/in/pranjal-gupta-aa1411192"
+
+  - title : "Payal Choudhary"
+    image : "assets/images/team/Payal.jpg"
+    designation : "Convener"
+    github: "https://github.com/payalchoudhary2410"
+    facebook: "https://www.facebook.com/payal.choudhary.5686322"
+    linkedin : "https://www.linkedin.com/in/payal-choudhary-/"
+
+  - title : "Abhishek Pai Angle"
+    image : "assets/images/team/Abhi.jpg"
+    designation : "Convener"
+    github: "https://github.com/abhipaiangle"
+    facebook: "https://www.facebook.com/abhishek.paiangle/"
+    linkedin : "https://www.linkedin.com/in/abhipaiangle/"
+
+  - title : "Divyansh Natani"
+    image : "assets/images/team/Divyansh.jpeg"
+    designation : "Convener"
+    github: "https://github.com/DivyanshNatani/"
+    facebook: "https://www.facebook.com/divyansh.natani.142"
+    linkedin : "https://www.linkedin.com/in/divyansh-natani-b59389193/"
+
+  - title : "Atharva Raut"
+    image : "assets/images/team/Atharva.jpg"
+    designation : "Convener"
+    github: "https://github.com/Atharva-Raut"
+    facebook: "https://www.facebook.com/atharva.raut.1410"
+    linkedin : "https://www.linkedin.com/in/atharva-raut-5735941aa"
+
+  - title : "Ankit Kumar Jain"
     image : "assets/images/team/member-1.png"
-    designation : "Manager"
-    
-  - title : "Latika Patel"
+    designation : "Convener"
+    github: ""
+    facebook: ""
+    linkedin : ""
+
+  - title : "Aakriti"
     image : "assets/images/team/member-2.png"
-    designation : "Manager"
-    
-  - title : "Baaki Conveners"
-    image : "assets/images/team/member-3.png"
-    designation : "Designer"
+    designation : "Volunteer"
+    github: ""
+    facebook: ""
+    linkedin : ""
 
 
 #-------------------------------
@@ -103,20 +155,20 @@ skills:
 
 experience-title: Sub-Groups
 experience:
-- {name: DevCom, icon: 'icon-1.png', date: 'Jan 2007 - Feb 2009', organization: 'WEBEX'}
-- {name: Csec Group, icon: 'icon-2.png', date: 'Mar 2009 - Aug 2014', organization: 'AUGMEDIX'}
-- {name: BlockChain Circle, icon: 'icon-2.jpg', date: 'Sep 2014 - Present', organization: 'THEMEFISHER'}
+- {name: DevCom, icon: 'icon-1.png', link: 'https://www.insti.app/org/devcom'}
+- {name: Csec Group, icon: 'icon2.png', link: 'https://www.insti.app/org/csec'}
+- {name: BlockChain Circle, icon: 'icon-2.jpg', link: 'https://www.insti.app/event/introduction-to-blockchain-38607fb2' }
 
 
 #-------------------------------
 # Education Section
 
-education-title: Education
+education-title: Achievements
 education:
 - {name: Number of Wiki Articles, date: '2006', organization: 'Masassusets Institute of Technology'}
-- {name: Honours in Fine Arts, date: '2004', organization: 'Harvard University'}
-- {name: Higher Secondary Certificat, date: '2000', organization: 'Cardiff School'}
-- {name: Secondary School Certificate, date: '1998', organization: 'Cardiff School'}
+- {name: Number of Sessions, date: '2004', organization: 'Harvard University'}
+- {name: Any other ideas, date: '2000', organization: 'Cardiff School'}
+- {name: Years of Existence, date: '1998', organization: 'Cardiff School'}
 
 
 #-------------------------------
@@ -426,10 +478,10 @@ soc-items:
 # Testimonials Section
 
 testimonial-items:
-  - name: "Wiki"
+  - name: "WnCC Wiki- Grundy"
     image: "assets/images/testimonial/wiki.png"
     designation : " "
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+    content : "It is an educational wiki, meant to help beginners get started with programming. It’s got 100+ articles, on various programming topics. All tutorials are hand-tailored by students of IIT Bombay. However, unlike conventional programming tutorials, these take a slightly different approach. Rather than reinventing the wheel, Grundy aims at bringing together a number of online tutorials and resources along with a set of pre-requisites and motivation to learn a programming skill. Here are some top articles of Wiki."
     
   - name: "Code in Quarantine"
     image: "assets/images/testimonial/ciq.jpeg"
@@ -446,11 +498,14 @@ testimonial-items:
     designation: " "
     content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
 
-  - name: "SoC"
+  - name: "Seasons of Code"
     image: "assets/images/testimonial/soc.png"
     designation: " "
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
-
+    content: "Seasons of Code is a programme launched by the WnCC, along the lines of GSoC without much greenery though. The idea is that one can choose from the projects offered by mentors who are senior undergrads, doctorate students or professors, and in some exceptional cases, startups. The projects floated span several genres, including Development, Scientific Computation, Machine Learning and Open Source. With most of the projects running in summer, we’ve also had projects that have extended into the semester and some in winter."
+  - name: "Reflections"
+    image: "assets/images/testimonial/reflections.jpg"
+    designation: " "
+    content: "Reflections are our beloved series of informal events that aim to give one an idea of the breadth of Computer Science. These are mostly conducted in Hostel Lounges, where speakers discuss about their CS research projects conducted as RnDs or internships. The problems discussed are usually very specific, but the discussion often covers an overview, providing a general understanding of the topic."
 #-------------------------------
 # Client Slider Section
 
@@ -650,4 +705,4 @@ events-items:
 # Contact Section
 
 contact-title: Contact Info
-contact-email: steve.fruits@email.com
+contact-email: wncc@iitb.ac.in

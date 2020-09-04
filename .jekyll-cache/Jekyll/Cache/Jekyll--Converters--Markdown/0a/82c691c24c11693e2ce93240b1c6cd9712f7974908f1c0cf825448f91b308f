@@ -1,0 +1,116 @@
+I"»<h2 class="display1 m-3 p-3 text-center">Gestures for 3D space</h2>
+
+<div>
+    <img src="/assets/images/soc/item-10.gif" width="300" height="300" alt="" class="border rounded img-soc" />
+</div>
+<div>
+    <br />
+    <ul>
+        
+        <li><h4 class="text-primary text-center">Machine Learning</h4></li>
+        
+        <li><h4 class="text-primary text-center">Image Processing</h4></li>
+        
+        <li><h4 class="text-primary text-center">Development</h4></li>
+        
+    </ul>
+    <br />
+    <h4 class="display3  ">Mentors :</h4> 
+    <ul>
+        
+        <li><h5 class=" ">Pranav Pagar</h5></li>
+        
+        <li><h5 class=" ">Siddhesh Pawar</h5></li>
+        
+    </ul>
+    <h4 class="display3  ">Mentees :</h4> 
+    <ul>
+        
+        <li><h5 class="">Kshitij</h5></li>
+        
+        <li><h5 class="">Abhinav Gupta</h5></li>
+        
+        <li><h5 class="">Ankit Kumar Misra</h5></li>
+        
+        <li><h5 class="">ANUPAM NAYAK</h5></li>
+        
+        <li><h5 class="">Jai Israni</h5></li>
+        
+        <li><h5 class="">Jash Shah</h5></li>
+        
+        <li><h5 class="">Atharva mete</h5></li>
+        
+        <li><h5 class="">Tejas Pagare</h5></li>
+        
+        <li><h5 class="">Meeta Malviya</h5></li>
+        
+        <li><h5 class="">Senthil Vikram Vodapalli</h5></li>
+        
+        <li><h5 class="">Manan Goyal</h5></li>
+        
+        <li><h5 class="">Richeek Das</h5></li>
+        
+        <li><h5 class="">Rishab Khantwal</h5></li>
+        
+        <li><h5 class="">Rohit Vartak</h5></li>
+        
+        <li><h5 class="">Shrey Singal</h5></li>
+        
+    </ul>
+</div>
+<div>
+    <p class="display3" style="font-size:20px;">
+        <br />
+        Have you ever wondered what will be the future of interaction with computers or smart devices. Well here is a clue, its going to be touch less.This project will contain the research part as well as the development (front end and back end) part of the technology.
+    </p>
+</div>
+<div>
+    <h4 class="display3" style="margin:40px 0px 40px 0px;">Tentative Timeline :</h4>
+    <table class="table table-striped">
+    <thead>
+        <tr>
+        <th>Week</th>
+        <th>Work</th>
+        </tr>
+    </thead>
+    <tbody>
+    <tr>
+      <td style="width: 120px">Week 1</td>
+      <td>Research on the type of hand gestures and the possible ways of doing them</td>
+    </tr><tr>
+      <td>Week 2</td>
+      <td>Exploring existing modules for hand recognition and using them in different applications</td>
+    </tr>
+    <tr>
+      <td>Week 3</td>
+      <td>Creating your own module on the basis of the previous problems you faced.</td>
+    </tr>
+    <tr>
+      <td>Week 4</td>
+      <td>Creating a problem statement for an application (for front end design)</td>
+    </tr>
+    <tr>
+      <td>Week 5</td>
+      <td>Buffer</td>
+    </tr>
+    <tr>
+      <td>Week 6</td>
+      <td>Body tracking and monitoring</td>
+    </tr>
+    <tr>
+      <td>Week 7</td>
+      <td>Creating 2nd problem statement for an application (based on body tracking)</td>
+    </tr>
+    <tr>
+      <td>Week 8</td>
+      <td>Front end development.</td>
+    </tr>
+    <tr>
+      <td>Week 9-10</td>
+      <td>Refining and final presentation</td>
+    </tr>
+    </tbody>
+    </table>
+</div>
+
+:ET

@@ -4,19 +4,69 @@
   <div class="container">
     <div class="row">
       <div class="col-12 text-center">
-        <h2 class="section-title">My Team</h2>
+        <h2 class="section-title">Team </h2>
       </div>
-      {% for team-member in site.data.settings.team %}
+    </div>
+      <div class ="row justify-content-md-center" >
       <div class="col-md-4 col-sm-6 mb-4 mb-md-0">
         <div class="card text-center">
-          <img src="{{ site.baseurl }}/{{ team-member.image }}" class="card-img-top">
+          <img src="{{ site.baseurl }}/assets/images/team/Akshit.jpg" class="card-img-top">
           <div class="card-body">
-            <h4 class="card-title">{{ team-member.title }}</h4>
-            <p class="text-light font-secondary">{{ team-member.designation }}</p>
+            <h4 class="card-title">Akshit Srivastava</h4>
+            <p class="text-dark font-secondary">Manager</p>
+            <div class ="row justify-content-md-center">
+              <div class="col col-lg-2">
+              <h5><a class="text-dark" href="https://github.com/akshitt/"><i class="ti-github"></i></a></h5>    </div>
+              <div class="col-md-auto">
+                <h5><a class="text-dark" href="https://www.facebook.com/akshit1511"><i class="ti-facebook"></i></a></h5>
+              </div>
+              <div class="col col-lg-2">
+              <h5><a class="text-dark" href="https://www.linkedin.com/in/akshit-srivastava/"><i class="ti-linkedin"></i></a></h5>    </div>
+            </div>
           </div>
         </div>
       </div>
+    <div class="col-md-4 col-sm-6 mb-4 mb-md-0">
+        <div class="card text-center">
+          <img src="{{ site.baseurl }}/assets/images/team/Latika.jpg" class="card-img-top">
+          <div class="card-body">
+            <h4 class="card-title">Latika Patel </h4>
+            <p class="text-dark font-secondary">Manager</p>
+            <div class ="row justify-content-md-center">
+              <div class="col col-lg-2">
+              <h5><a class="text-dark" href="https://github.com/latika24/"><i class="ti-github"></i></a></h5>    </div>
+              <div class="col-md-auto">
+                <h5><a class="text-dark" href="https://www.facebook.com/latika.patel.526/"><i class="ti-facebook"></i></a></h5>
+              </div>
+              <div class="col col-lg-2">
+              <h5><a class="text-dark" href="https://www.linkedin.com/in/latika-patel-1951b0196/"><i class="ti-linkedin"></i></a></h5>    </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+      <div class="row">
+      {% for team-member in site.data.settings.team %}
+      <div class="col-md-4 col-sm-6 mb-4 mb-md-0">
+        <div class="card text-center">
+          <img src="{{ site.baseurl }}/{{ team-member.image }}" class="card-img-top" width:="350px" height="400px">
+          <div class="card-body">
+            <h4 class="card-title">{{ team-member.title }}</h4>
+            <p class="text-dark font-secondary">{{ team-member.designation }}</p>
+            <div class ="row justify-content-md-center">
+              <div class="col col-lg-2">
+              <h5><a class="text-dark" href="{{team-member.github}}"><i class="ti-github"></i></a></h5>    </div>
+              <div class="col-md-auto">
+                <h5><a class="text-dark" href="{{team-member.facebook}}"><i class="ti-facebook"></i></a></h5>
+              </div>
+              <div class="col col-lg-2">
+              <h5><a class="text-dark" href="{{team-member.linkedin}}"><i class="ti-linkedin"></i></a></h5>    </div>
+            </div>
+          </div>
+          </div>
+        </div>
       {% endfor %}
+    </div>
     </div>
   </div>
 </section>

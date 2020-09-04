@@ -1,0 +1,60 @@
+I"K<h2 class="display1 m-3 p-3 text-center">ML GYM</h2>
+
+<div>
+    <img src="/assets/images/soc/item-7.png" width="300" height="300" alt="" class="border rounded img-soc" />
+</div>
+<div>
+    <br />
+    <ul>
+        
+        <li><h4 class="text-primary text-center">Machine Learning</h4></li>
+        
+    </ul>
+    <br />
+    <h4 class="display3  ">Mentors :</h4> 
+    <ul>
+        
+        <li><h5 class=" ">Lalit Saini</h5></li>
+        
+        <li><h5 class=" ">Devak Sinha</h5></li>
+        
+    </ul>
+    <h4 class="display3  ">Mentees :</h4> 
+    <ul>
+        
+        <li><h5 class="">Akash Vivek Chodankar</h5></li>
+        
+        <li><h5 class="">Anjali Yadav</h5></li>
+        
+        <li><h5 class="">D. Chandra Sekhara SS Hetha Havya</h5></li>
+        
+        <li><h5 class="">G. Raghunandan Reddy</h5></li>
+        
+        <li><h5 class="">Ishan Kapnadak</h5></li>
+        
+        <li><h5 class="">Koustav Sen</h5></li>
+        
+        <li><h5 class="">Prakhar Mittal</h5></li>
+        
+        <li><h5 class="">Shaan Shah</h5></li>
+        
+        <li><h5 class="">Shivam Raj</h5></li>
+        
+        <li><h5 class="">Prathmesh Jayaprakash</h5></li>
+        
+        <li><h5 class="">Sheel Shah</h5></li>
+        
+        <li><h5 class="">Sumeet Kumar Mishra</h5></li>
+        
+    </ul>
+</div>
+<div>
+    <p class="display3" style="font-size:20px;">
+        <br />
+        The project is about making a web platform where a user can upload the data, choose any model according to which they want their data to be trained and see the results. In the first phase, we will make a platform where every parameter is given by the user. After successfully completing this, we will add a feature to suggest the best method and parameters for the data. In the final stage, the platform will have features for uploading raw data and getting results after pre-processing. Pre req: Grip over linear algebra
+        <br /><br />
+        Every week, the mentees will be given to learn, analyze and work on a specific algorithm and explore how variation of parameters can vary the results for that.
+    </p>
+</div>
+
+:ET

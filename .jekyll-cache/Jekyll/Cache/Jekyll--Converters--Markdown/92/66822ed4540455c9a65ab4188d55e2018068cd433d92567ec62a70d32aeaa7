@@ -1,0 +1,78 @@
+I"§
+<h2 class="display1 m-3 p-3 text-center">Lossless high entropy compression algorithm</h2>
+
+<div>
+    <img src="/assets/images/soc/item-5.png" width="300" height="300" alt="" class="border rounded img-soc" />
+</div>
+<div>
+    <br />
+    <ul>
+        
+        <li><h4 class="text-primary text-center">Machine Learning</h4></li>
+        
+        <li><h4 class="text-primary text-center">Signal Processing</h4></li>
+        
+        <li><h4 class="text-primary text-center">Neural Networks</h4></li>
+        
+    </ul>
+    <br />
+    <h4 class="display3  ">Mentors :</h4> 
+    <ul>
+        
+        <li><h5 class=" ">Anubhav Agarwal</h5></li>
+        
+    </ul>
+    <h4 class="display3  ">Mentees :</h4> 
+    <ul>
+        
+        <li><h5 class="">Aman Singh</h5></li>
+        
+        <li><h5 class="">Raj Aryan Agarwal</h5></li>
+        
+        <li><h5 class="">Gaurav P</h5></li>
+        
+        <li><h5 class="">Tirthankar Adhikari</h5></li>
+        
+        <li><h5 class="">Ojas Gramopadhye</h5></li>
+        
+    </ul>
+</div>
+<div>
+    <p class="display3" style="font-size:20px;">
+        <br />
+        Implement your own sequence neural net
+        <br /><br />
+        Ever dreamed of making the compression algorithm from Pied Piper featured in the popular Silicon Valley series? Here is your chance! The project aims at implementing a potentially lossless algorithm which, unlike others, can work even on high entropy data. The project will involve basic knowledge of Discrete Time Fourier Transform, signal processing. However, a major portion would involve developing expertise in neural networks with focus on RNNs, LSTMs, etc. You would implement your own sequence to sequence neural net aimed at performing a particular task which is essential to the working of compression algorithm.
+    </p>
+</div>
+<div>
+    <h4 class="display3" style="margin:40px 0px 40px 0px;">Tentative Timeline :</h4>
+    <table class="table table-striped">
+    <thead>
+        <tr>
+        <th>Week</th>
+        <th>Work</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+        <td style="width: 120px">Week 1,2,3</td>
+        <td>Developing fundamentals in python,machine learning and neural networks through popular sources like coursera, udacity.</td>
+    </tr>
+    <tr>
+      <td>Week 4,5</td>
+      <td>Learning basics of RNNs and LSTMs and their in-depth implementation in tensorflow  2.0</td>
+    </tr>
+    <tr>
+      <td>Week 6,7</td>
+      <td>Trying out various models and getting your hands dirty while aiming to achieve the objective</td>
+    </tr>
+    <tr>
+      <td>Week 8,9</td>
+      <td>If above task is complete, packaging everything into an end-to-end pipeline</td>
+    </tr>
+    </tbody>
+    </table>
+</div>
+
+:ET
