@@ -691,14 +691,43 @@ ls:
 
 #-------------------------
 # Events Section
+event-labels:
+- {
+    title : "2018",
+    type : "2018"
+  }
+- {
+    title : "2019",
+    type : "2019"
+  }
+- {
+    title : "2020",
+    type : "2020"
+  }
+  
 events-items:
+    # 2020 events
+  - title: "Git/GitHub Workshop"
+    image: "assets/images/events/git.jpeg"
+    description: "A session on Introducing Git and GitHub as a Version Control System for better code management among organizations and individuals"
+    url: "https://www.wncc-iitb.org/events/"
+    event-type:
+      - type: "2020"
   - title: "QnA with Kalpesh"
-    discription: "Kalpesh Krishna, an EE graduate of class of 2018 IIT Bombay, gave a talk on different CS opportunites available for non-CS students in the institute."
-    link: "wncc-iitb.org"
-#    image: ""
+    image: "assets/images/events/qna_with_kalpesh.png"
+    description: "Kalpesh Krishna, ex-WnCC Manager gives a talk on CS opportunities for Non-CS students, and how one can get into Computer Science Research from a different field"
+    url: "https://www.wncc-iitb.org/events/"
+    event-type:
+      - type: "2020"
+  - title: "CovidTalks"
+    image: "assets/images/events/insti_against_covid.png"
+    description: "During the COVID-19 Pandemic, some professors and students of IIT Bombay were working on novel ways to tackle the problems due to the pandemic. Prof. Manoj Gopalakrishnan gives a talk on his project"
+    url: "https://www.wncc-iitb.org/events/"
+    event-type:
+      - type: "2020" 
+
+    # 2019 events
    
-
-
     
 
 #-------------------------------

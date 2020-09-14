@@ -1,112 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-  <meta charset="utf-8">
-  <title>Events</title>
-
-  <!-- mobile responsive meta -->
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-  
-  <!-- ** Plugins Needed for the Project ** -->
-  <!-- Bootstrap -->
-  <link rel="stylesheet" href="/assets/plugins/bootstrap/bootstrap.min.css">
-  <!-- slick slider -->
-  <link rel="stylesheet" href="/assets/plugins/slick/slick.css">
-  <!-- themefy-icon -->
-  <link rel="stylesheet" href="/assets/plugins/themify-icons/themify-icons.css">
-
-  <!-- Main Stylesheet -->
-  <link href="/assets/css/style.css" rel="stylesheet">
-  
-  <!--Favicon-->
-  <link rel="shortcut icon" href="/assets/images/favicon.ico" type="image/x-icon">
-  <link rel="icon" href="/assets/images/favicon.ico" type="image/x-icon">
-
-  <style>
-  .img-soc{
-    width: 100%;
-    height: auto;
-    aspect-ratio: attr(width) / attr(height);
-  }
-  @media screen and (max-width: 767px) {
-    .scroll{
-      overflow-x: scroll;
-      scroll-behavior: smooth;
-    }
-    
-  }
-  </style>
-
-</head>
-
-<body>
-
-
-  <header class="navigation fixed-top">
-  <nav class="navbar navbar-expand-lg navbar-dark">
-    <a class="navbar-brand font-tertiary h3" href="/">
-      
-        <img src="/assets/images/logo.png" alt="WnCC IIT Bombay">
-      
-    </a>
-    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navigation"
-      aria-controls="navigation" aria-expanded="false" aria-label="Toggle navigation">
-      <span class="navbar-toggler-icon"></span>
-    </button>
-
-    <div class="collapse navbar-collapse text-center" id="navigation">
-      <ul class="navbar-nav ml-auto">
-        <li class="nav-item active">
-          <a class="nav-link" href="/">Home</a>
-        </li>
-        
-          <li class="nav-item ">
-            <a class="nav-link" href="/resources/">Resources</a>
-          </li>
-        
-          <li class="nav-item ">
-            <a class="nav-link" href="/soc/">SoC</a>
-          </li>
-        
-          <li class="nav-item ">
-            <a class="nav-link" href="/events/">Events</a>
-          </li>
-        
-          <li class="nav-item ">
-            <a class="nav-link" href="/contact/">Contact</a>
-          </li>
-        
-      </ul>
-    </div>
-  </nav>
-</header>
-
-
-  <!-- page title -->
-<section class="page-title bg-primary position-relative">
-  <div class="container">
-    <div class="row">
-      <div class="col-12 text-center">
-        <h1 class="text-white display-1">Events</h1>
-      </div>
-    </div>
-  </div>
-  <!-- background shapes -->
-<!-- 
-  <img src="/assets/images/illustrations/page-title.png" alt="illustrations" class="bg-shape-1 w-100">
-  <img src="/assets/images/illustrations/leaf-pink-round.png" alt="illustrations" class="bg-shape-2">
-  <img src="/assets/images/illustrations/dots-cyan.png" alt="illustrations" class="bg-shape-3">
-  <img src="/assets/images/illustrations/leaf-orange.png" alt="illustrations" class="bg-shape-4">
-  <img src="/assets/images/illustrations/leaf-yellow.png" alt="illustrations" class="bg-shape-5">
-  <img src="/assets/images/illustrations/dots-group-cyan.png" alt="illustrations" class="bg-shape-6">
-  <img src="/assets/images/illustrations/leaf-cyan-lg.png" alt="illustrations" class="bg-shape-7">
--->
-</section>
-<!-- /page title -->
-
-<!-- Labels for different years -->
+I"Ëw<!-- Labels for different years -->
 <section class="section">
   <div class="container">
     <div class="row mb-5">
@@ -523,7 +415,7 @@
           <span class="rounded"> <img src="/assets/images/events/git.jpeg" alt="Git/GitHub Workshop" class="img-fluid  w-100 d-block" /></span>
           <div class="card-body">
                         <h4 class="card-title"><a class="text-dark" href="https://www.wncc-iitb.org/events/" target="_blank">Git/GitHub Workshop</a></h4>
-                        <p class="cars-text"> A session on Introducing Git and GitHub as a Version Control System for better code management among organizations and individuals
+                        <p class="cars-text"> We conducted a session on Introducing Git and GitHub as a Version Control System
                         </p>
                         <a href="https://www.wncc-iitb.org/events/" class="btn btn-xs btn-primary" target="_blank">Read More</a>
           </div>
@@ -542,7 +434,7 @@
           <span class="rounded"> <img src="/assets/images/events/qna_with_kalpesh.png" alt="QnA with Kalpesh" class="img-fluid  w-100 d-block" /></span>
           <div class="card-body">
                         <h4 class="card-title"><a class="text-dark" href="https://www.wncc-iitb.org/events/" target="_blank">QnA with Kalpesh</a></h4>
-                        <p class="cars-text"> Kalpesh Krishna, ex-WnCC Manager gives a talk on CS opportunities for Non-CS students, and how one can get into Computer Science Research from a different field
+                        <p class="cars-text"> Kalpesh Krishna, ex-WnCC Manager gives a talk on CS opportunities for Non-CS students, and how one can get into Computer Science Research
                         </p>
                         <a href="https://www.wncc-iitb.org/events/" class="btn btn-xs btn-primary" target="_blank">Read More</a>
           </div>
@@ -577,48 +469,4 @@
     </div>
   </div>
 </section>
-
-
-  <!-- footer -->
-<footer class="bg-dark footer-section">
-  <div class="section">
-    <div class="container">
-      <div class="row">
-        <div class="col-md-4">
-          <h5 class="text-light">Email</h5>
-          <p class="text-white paragraph-lg font-secondary">wncc@iitb.ac.in</p>
-        </div>
-        <div class="col-md-4">
-          <h5 class="text-light">Phone</h5>
-          <p class="text-white paragraph-lg font-secondary">0</p>
-        </div>
-        <div class="col-md-4">
-          <h5 class="text-light">Address</h5>
-          <p class="text-white paragraph-lg font-secondary">IIT Bombay, Powai, Mumbai, Maharashtra</p>
-        </div>
-      </div>
-    </div>
-  </div>
-  <div class="border-top text-center border-dark py-5">
-    <p class="mb-0 text-light">Copyright Â©<script>
-        var CurrentYear = new Date().getFullYear()
-        document.write(CurrentYear)
-      </script> Web and Coding Club, IIT Bombay</p>
-  </div>
-</footer>
-<!-- /footer -->
-
-  <!-- jQuery -->
-  <script src="/assets/plugins/jQuery/jquery.min.js"></script>
-  <!-- Bootstrap JS -->
-  <script src="/assets/plugins/bootstrap/bootstrap.min.js"></script>
-  <!-- slick slider -->
-  <script src="/assets/plugins/slick/slick.min.js"></script>
-  <!-- filter -->
-  <script src="/assets/plugins/shuffle/shuffle.min.js"></script>
-
-  <!-- Main Script -->
-  <script src="/assets/js/script.js"></script>
-</body>
-
-</html>
+:ET

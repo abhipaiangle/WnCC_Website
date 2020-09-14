@@ -1,4 +1,4 @@
-I"Ύή<!-- blog -->
+I"ήθ<!-- blog -->
 
 <section class="section bg-light">
 <div class="container">
@@ -11,6 +11,20 @@
 
 <div class="row">
             <!-- 
+            <div class="col-lg-4 col-sm-6 mb-4">
+                <article class="card shadow">
+                    <img class="rounded card-img-top" src="/assets/images/resources/"
+                        alt="">
+                    <div class="card-body">
+                        <h4 class="card-title"><a class="text-dark"
+                                href="" target="_blank"></a></h4>
+                        <p class="cars-text">
+                        </p>
+                        <a href="" class="btn btn-xs btn-primary" target="_blank">Read More</a>
+                    </div>
+                </article>
+            </div>
+            
             <div class="col-lg-4 col-sm-6 mb-4">
                 <article class="card shadow">
                     <img class="rounded card-img-top" src="/assets/images/resources/"
@@ -1177,6 +1191,20 @@
                     </div>
                 </article>
             </div>
+            
+            <div class="col-lg-4 col-sm-6 mb-4">
+                <article class="card shadow">
+                    <img class="rounded card-img-top" src="/assets/images/resources/"
+                        alt="">
+                    <div class="card-body">
+                        <h4 class="card-title"><a class="text-dark"
+                                href="" target="_blank"></a></h4>
+                        <p class="cars-text">
+                        </p>
+                        <a href="" class="btn btn-xs btn-primary" target="_blank">Read More</a>
+                    </div>
+                </article>
+            </div>
              -->
             
             
@@ -1812,6 +1840,20 @@
                     </div>
                 </article>
             </div>
+            
+            <div class="col-lg-4 col-sm-6 mb-4">
+                <article class="card shadow">
+                    <img class="rounded card-img-top" src="/assets/images/resources/"
+                        alt="">
+                    <div class="card-body">
+                        <h4 class="card-title"><a class="text-dark"
+                                href="" target="_blank"></a></h4>
+                        <p class="cars-text">
+                        </p>
+                        <a href="" class="btn btn-xs btn-primary" target="_blank">Read More</a>
+                    </div>
+                </article>
+            </div>
              -->
             
             
@@ -1880,6 +1922,20 @@
 
 <div class="row">
             <!-- 
+            <div class="col-lg-4 col-sm-6 mb-4">
+                <article class="card shadow">
+                    <img class="rounded card-img-top" src="/assets/images/resources/"
+                        alt="">
+                    <div class="card-body">
+                        <h4 class="card-title"><a class="text-dark"
+                                href="" target="_blank"></a></h4>
+                        <p class="cars-text">
+                        </p>
+                        <a href="" class="btn btn-xs btn-primary" target="_blank">Read More</a>
+                    </div>
+                </article>
+            </div>
+            
             <div class="col-lg-4 col-sm-6 mb-4">
                 <article class="card shadow">
                     <img class="rounded card-img-top" src="/assets/images/resources/"
