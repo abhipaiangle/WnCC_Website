@@ -566,8 +566,8 @@ resources-items:
   - title: "Code inQuarantine()"
     fdis: "In the time of Lockdown, WnCC started a two month long open-for-all event so that everyone can utilize their quarantine time learning coding skills. Here are few topics from them"
     name: "ciq"
-    ldis: "In these 8 weeks we provided tutorials for 8 diverse topics: Python; Competitive Programming; Machine Learning; Git/GitHub; FrontEnd Dev; BackEnd Dev; Advanced FrontEnd Dev; Blockchain; Do visit to learn about them!"
-    btn-title: "Visit CiQ Github Repo"
+    ldis: "In these 8 weeks we provided tutorials for 8 diverse topics: Python; Competitive Programming; Machine Learning; Git/GitHub; FrontEnd Dev; BackEnd Dev; Advanced FrontEnd Dev; Blockchain; In each tutorial, links containing some beginner-friendly resources were shared, along with a task to assess learning. Do visit to learn about them!"
+    btn-title: "View All"
     btn-link: "https://github.com/wncc/CodeInQuarantine"
     
   - title: "Algorithms Simplified"
@@ -578,10 +578,10 @@ resources-items:
     btn-link: "https://github.com/wncc/CodeInQuarantine"
     
   - title: "Learner's Space 2020"
-    fdis: "Undergraduate Acadamic Council(UGAC), IIT Bomabay launched a two months long technical summer school with Web and Coding Club in summers 2020. In this, week wise tutorials of python, machine learning and web dovelopment, three of the most hot-tech-skills, were provided to more then 600 students."
+    fdis: "Undergraduate Acadamic Council(UGAC), IIT Bomabay launched a two months long technical summer school with Web and Coding Club in summers 2020. In this, week wise tutorials of python, machine learning and web development, three of the most hot-tech-skills, were provided to more then 600 students."
     name: "ls"
     ldis: "These tutorials contain mixture of important articles, videos and assignments that can help understand these topics better and content is divided week-wise to manage time. If you are looking for learning one of these skills, then these resources can help you find easy and nice content."
-    btn-title: "Visit LS GitHub Repo"
+    btn-title: "Get Started"
     btn-link: "https://github.com/wncc/learners-space"
     
   # - title: ""
@@ -639,12 +639,12 @@ ciq:
     link: "https://github.com/wncc/CodeInQuarantine/blob/master/Week_3_ML/README.md"
     image: "ciq3.png"
 
-  - title: "Backend Dovelopment"
+  - title: "Backend Development"
     discription: ""
     link: "https://github.com/wncc/CodeInQuarantine/blob/master/Week_6_Backend/README.md"
     image: "ciq4.png"
 
-  - title: "Advanced FrontEnd Dovelopment"
+  - title: "Advanced FrontEnd Development"
     discription: ""
     link: "https://github.com/wncc/CodeInQuarantine/blob/master/Week_7_CC/README.md"
     image: "ciq5.png"
@@ -676,7 +676,7 @@ ls:
     link: "https://github.com/wncc/learners-space/tree/master/Python"
     image: "ls1.jpg"  
 
-  - title: "Web Dovelopment"
+  - title: "Web Development"
     discription: ""
     link: "https://github.com/wncc/learners-space/tree/master/Web%20Development"
     image: "ls2.jpg"  
@@ -710,19 +710,19 @@ events-items:
   - title: "Git/GitHub Workshop"
     image: "assets/images/events/git.jpeg"
     description: "A session on Introducing Git and GitHub as a Version Control System for better code management among organizations and individuals"
-    url: "https://www.wncc-iitb.org/events/"
+    url: "/events/event/git-github-workshop/"
     event-type:
       - type: "2020"
   - title: "QnA with Kalpesh"
     image: "assets/images/events/qna_with_kalpesh.png"
     description: "Kalpesh Krishna, ex-WnCC Manager gives a talk on CS opportunities for Non-CS students, and how one can get into Computer Science Research from a different field"
-    url: "https://www.wncc-iitb.org/events/"
+    url: "/events/event/qna-with-kalpesh/"
     event-type:
       - type: "2020"
   - title: "CovidTalks"
     image: "assets/images/events/insti_against_covid.png"
     description: "During the COVID-19 Pandemic, some professors and students of IIT Bombay were working on novel ways to tackle the problems due to the pandemic. Prof. Manoj Gopalakrishnan gives a talk on his project"
-    url: "https://www.wncc-iitb.org/events/"
+    url: "/events/event/instiAgainstCOVID19/"
     event-type:
       - type: "2020" 
 
