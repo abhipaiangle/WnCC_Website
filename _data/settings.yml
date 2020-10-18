@@ -250,6 +250,7 @@ soc-label:
 
 soc-items:
   - title : "Why The Hype Around GANs"
+    image_small: "assets/images/soc/item-1_small.png"
     image : "assets/images/soc/item-1.png"
     url: "/soc/projects/why-the-hype-around-gans/"
     soc-type:
@@ -257,6 +258,7 @@ soc-items:
      - type: "2020"
 
   - title : "3D reconstruction using 2D images"
+    image_small: "assets/images/soc/item-2_small.png"
     image : "assets/images/soc/item-2.png"
     url: "/soc/projects/3d-reconstruction-using-2d-images/"
     soc-type:
@@ -265,6 +267,7 @@ soc-items:
      - type: "2020"
 
   - title : "Computer Vision Workbench"
+    image_small: "assets/images/soc/item-3_small.png"
     image : "assets/images/soc/item-3.png"
     url: "/soc/projects/computer-vision-workbench/"
     soc-type:
@@ -274,6 +277,7 @@ soc-items:
 
 
   - title : "3D Object Classification using Mesh Neural Network"
+    image_small: "assets/images/soc/item-4_small.png"
     image : "assets/images/soc/item-4.png"
     url: "/soc/projects/mesh-neural-network/"
     soc-type:
@@ -281,6 +285,7 @@ soc-items:
      - type: "2020"
 
   - title : "Lossless high entropy compression algorithm"
+    image_small: "assets/images/soc/item-5_small.png"
     image : "assets/images/soc/item-5.png"
     url: "/soc/projects/lossless-high-entropy-compression-algorithm"
     soc-type:
@@ -288,6 +293,7 @@ soc-items:
      - type: "2020"
 
   - title : "Tools for Web Development"
+    image_small: "assets/images/soc/item-6_small.png"
     image : "assets/images/soc/item-6.png"
     url: "/soc/projects/tools-for-web-dev/"
     soc-type:
@@ -295,6 +301,7 @@ soc-items:
      - type: "2020"
 
   - title : "ML GYM"
+    image_small: "assets/images/soc/item-7_small.png"
     image : "assets/images/soc/item-7.png"
     url: "/soc/projects/ml-gym"
     soc-type:
@@ -302,6 +309,7 @@ soc-items:
      - type: "2020"
 
   - title : "Strategy Wars [Online]"
+    image_small: "assets/images/soc/item-8_small.png"
     image : "assets/images/soc/item-8.png"
     url: "/soc/projects/strategy-wars"
     soc-type:
@@ -310,6 +318,7 @@ soc-items:
 
 
   - title : "Super Shenron"
+    image_small: "assets/images/soc/item-9_small.png"
     image : "assets/images/soc/item-9.png"
     url: "/soc/projects/super-shenron"
     soc-type:
@@ -317,6 +326,7 @@ soc-items:
      - type: "2020"
 
   - title : "Gestures for 3D space"
+    image_small: "assets/images/soc/item-10_small.gif"
     image : "assets/images/soc/item-10.gif"
     url: "/soc/projects/gestures-for-3d-space"
     soc-type:
@@ -326,6 +336,7 @@ soc-items:
      - type: "2020"
 
   - title : "Food Recommendation through Machine Learning"
+    image_small: "assets/images/soc/item-11_small.png"
     image : "assets/images/soc/item-11.png"
     url: "/soc/projects/food-recommendation-through-machine-learning"
     soc-type:
@@ -334,6 +345,7 @@ soc-items:
      - type: "2020"
       
   - title : "Conversational Chatbot"
+    image_small: "assets/images/soc/item-12_small.png"
     image : "assets/images/soc/item-12.png"
     url: "/soc/projects/conversational-chatbot/"
     soc-type:
@@ -343,6 +355,7 @@ soc-items:
 
 
   - title : "(Un)structured"
+    image_small: "assets/images/soc/item-13_small.png"
     image : "assets/images/soc/item-13.png"
     url: "/soc/projects/unstructured"
     soc-type:
@@ -350,6 +363,7 @@ soc-items:
      - type: "2020"
 
   - title : "Road Network 3D Rendering using OpenGL"
+    image_small: "assets/images/soc/item-14_small.png"
     image : "assets/images/soc/item-14.png"
     url: "/soc/projects/road-network-3d-rendering-using-opengl"
     soc-type:
@@ -359,6 +373,7 @@ soc-items:
 
 
   - title : "Virtual Keyboard"
+    image_small: "assets/images/soc/item-15_small.png"
     image : "assets/images/soc/item-15.png"
     url: "/soc/projects/virtual-keyboard"
     soc-type:
@@ -366,6 +381,7 @@ soc-items:
      - type: "2020"
 
   - title : "Introduction to Kaggle and Machine Learning"
+    image_small: "assets/images/soc/item-16_small.png"
     image : "assets/images/soc/item-16.png"
     url: "/soc/projects/introduction-to-kaggle-and-machine-learning"
     soc-type:
@@ -373,6 +389,7 @@ soc-items:
      - type: "2020"
 
   - title : "Krittika Website"
+    image_small: "assets/images/soc/item-17_small.png"
     image : "assets/images/soc/item-17.png"
     url: "/soc/projects/krittika-website"
     soc-type:
@@ -380,6 +397,7 @@ soc-items:
      - type: "2020"
 
   - title : "Competitive coding"
+    image_small: "assets/images/soc/item-18_small.png"
     image : "assets/images/soc/item-18.png"
     url: "/soc/projects/competitive-coding"
     soc-type:
@@ -387,6 +405,7 @@ soc-items:
      - type: "2020"
 
   - title : "Planet/Atmosphere Renderer using OpenGL"
+    image_small: "assets/images/soc/item-19_small.png"
     image : "assets/images/soc/item-19.png"
     url: "/soc/projects/planet-atmosphere-renderer-using-opengl"
     soc-type:
@@ -394,6 +413,7 @@ soc-items:
      - type: "2020"
 
   - title : "Intrusion Detection system"
+    image_small: "assets/images/soc/item-20_small.png"
     image : "assets/images/soc/item-20.png"
     url: "/soc/projects/intrusion-detection-system"
     soc-type:
@@ -401,6 +421,7 @@ soc-items:
      - type: "2020"
 
   - title : "Rubik's cube solver"
+    image_small: "assets/images/soc/item-21_small.png"
     image : "assets/images/soc/item-21.png"
     url: "/soc/projects/rubiks-cube-solver"
     soc-type:
@@ -409,6 +430,7 @@ soc-items:
      - type: "2020"
 
   - title : "L.A.M.A. AI using Reinforcement Learning"
+    image_small: "assets/images/soc/item-22_small.png"
     image : "assets/images/soc/item-22.png"
     url: "/soc/projects/lama-ai"
     soc-type:
@@ -417,6 +439,7 @@ soc-items:
      - type: "2020"
 
   - title : "Face Recognition using Statistics"
+    image_small: "assets/images/soc/item-23_small.png"
     image : "assets/images/soc/item-23.png"
     url: "/soc/projects/face-recognition-using-statistics"
     soc-type:
@@ -424,6 +447,7 @@ soc-items:
      - type: "2020"
 
   - title : "Tinkerers’ Laboratory Website"
+    image_small: "assets/images/soc/item-24_small.png"
     image : "assets/images/soc/item-24.png"
     url: "/soc/projects/TL-website"
     soc-type:
@@ -431,6 +455,7 @@ soc-items:
      - type: "2020"
 
   - title : "Graphic Intensive MUSIC APP"
+    image_small: "assets/images/soc/item-25_small.png"
     image : "assets/images/soc/item-25.png"
     url: "/soc/projects/graphic-intensive-music-app"
     soc-type:
@@ -439,6 +464,7 @@ soc-items:
      - type: "2020"
 
   - title : "KontaKt App"
+    image_small: "assets/images/soc/item-26_small.png"
     image : "assets/images/soc/item-26.png"
     url: "/soc/projects/kontakt-app"
     soc-type:
@@ -447,6 +473,7 @@ soc-items:
      - type: "2020"
 
   - title : "Pool It!"
+    image_small: "assets/images/soc/item-27_small.png"
     image : "assets/images/soc/item-27.png"
     url: "/soc/projects/pool-it"
     soc-type:
@@ -454,6 +481,7 @@ soc-items:
      - type: "2020"
 
   - title : "Digital Depth Perception"
+    image_small: "assets/images/soc/item-28_small.png"
     image : "assets/images/soc/item-28.png"
     url: "/soc/projects/digital-depth-perception"
     soc-type:
@@ -461,6 +489,7 @@ soc-items:
      - type: "2020"
 
   - title : "Insti Buddy"
+    image_small: "assets/images/soc/item-29_small.png"
     image : "assets/images/soc/item-29.png"
     url: "/soc/projects/insti-buddy"
     soc-type:
@@ -468,6 +497,7 @@ soc-items:
      - type: "2020"
 
   - title : "Intelligent agents"
+    image_small: "assets/images/soc/item-30_small.png"
     image : "assets/images/soc/item-30.png"
     url: "/soc/projects/intelligent-agents"
     soc-type:
