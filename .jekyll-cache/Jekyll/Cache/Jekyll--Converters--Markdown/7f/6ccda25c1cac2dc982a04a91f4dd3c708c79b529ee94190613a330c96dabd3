@@ -1,0 +1,137 @@
+I"ž<h2 class="display1 m-3 p-3 text-center">Planet/Atmosphere Renderer using OpenGL</h2>
+
+<div>
+    <img src="/assets/images/soc/item-19.png" width="300" height="300" alt="" class="border rounded img-soc" />
+</div>
+<div>
+    <br />
+    <ul>
+        
+        <li><h4 class="text-primary text-center">Computer Graphics</h4></li>
+        
+    </ul>
+    <br />
+    <h4 class="display3  ">Mentors :</h4> 
+    <ul>
+        
+        <li><h5 class=" ">Rwitaban Goswami</h5></li>
+        
+        <li><h5 class=" ">Arpit Singh</h5></li>
+        
+    </ul>
+    <h4 class="display3  ">Mentees :</h4> 
+    <ul>
+        
+        <li><h5 class="">Manan Garg</h5></li>
+        
+        <li><h5 class="">Andrews George</h5></li>
+        
+        <li><h5 class="">Deep Satra</h5></li>
+        
+        <li><h5 class="">Avin Rai</h5></li>
+        
+        <li><h5 class="">Harshit Srivastava</h5></li>
+        
+        <li><h5 class="">Ridayesh Parab</h5></li>
+        
+        <li><h5 class="">Raj Aryan Agrawal</h5></li>
+        
+        <li><h5 class="">Pradipta Parag Bora</h5></li>
+        
+        <li><h5 class="">Nabeel Ahmed</h5></li>
+        
+        <li><h5 class="">Sanidhya Anand</h5></li>
+        
+        <li><h5 class="">Rajvi Savla</h5></li>
+        
+        <li><h5 class="">Sambit Behera</h5></li>
+        
+        <li><h5 class="">Atharva Warhade</h5></li>
+        
+        <li><h5 class="">Dev Pratap Singh</h5></li>
+        
+        <li><h5 class="">Jay Vijay Sonawane</h5></li>
+        
+        <li><h5 class="">Mihir Shashikant Ghumbre</h5></li>
+        
+        <li><h5 class="">Meghna Dixit</h5></li>
+        
+        <li><h5 class="">Abhishek N Bhavsar</h5></li>
+        
+        <li><h5 class="">Ritik Mandal</h5></li>
+        
+        <li><h5 class="">Kaustubh Dighe</h5></li>
+        
+        <li><h5 class="">Shabnam Sahay</h5></li>
+        
+    </ul>
+</div>
+<div>
+    <p class="display3" style="font-size:20px;">
+        <br />
+        Build a real time planet renderer engine.
+        <br /><br />
+        This project is aimed towards people interested in the exciting field of Computer Graphics and Rendering, and would want to get a taste in how cutting edge Game Engines, especially the rendering part, work. The only pre-requisite for this project is some basic knowledge of C++ (very basic, not even OOP required), and of course enthu!
+        <br /><br />
+        The aim of this project will be to ultimately build a real time engine capable of rendering a planet, complete with atmospheric scattering, terrain, light shafts, clouds and any other features that can be thought of.
+        <br /><br />
+        Each mentee will have to first read up and get comfortable with OpenGL in C++
+        <br />
+        - [Link to setting up OpenGL](https://github.com/paragchaudhuri/cs475-tutorials/tree/master/Tutorial_00)
+        <br />
+        - [Link to OpenGL tutorial](https://learnopengl.com/)
+        <br />
+        - [Other](https://www.cse.iitb.ac.in/~paragc/teaching/2019/cs475/)
+    </p>
+</div>
+<div>
+    <h4 class="display3" style="margin:40px 0px 40px 0px;">Tentative Timeline :</h4>
+    <table class="table table-striped">
+    <thead>
+        <tr>
+        <th>Week</th>
+        <th>Work</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+        <td style="width: 120px">Week 1</td>
+      <td>Learn python, HTML and CSS.</td>
+    </tr>
+    <tr>
+      <td>Week 2</td>
+      <td>Learn Django and decide upon the template and animations.</td>
+    </tr>
+    <tr>
+      <td>Week 3</td>
+      <td>Create basic wiki page and editable interface to upload and arrange images and text appropriately.</td>
+    </tr>
+    <tr>
+      <td>Week 4</td>
+      <td>Testing</td>
+    </tr>
+    <tr>
+      <td>Week 5</td>
+      <td>Editable interface to moderate posts regarding events on the website.</td>
+    </tr>
+    <tr>
+      <td>Week 6</td>
+      <td>Add search bar for wiki pages and user profiles</td>
+    </tr>
+    <tr>
+      <td>Week 7</td>
+      <td>Create discussion forums similar to reddit style thread.</td>
+    </tr>
+    <tr>
+      <td>Week 8</td>
+      <td>Testing</td>
+    </tr>
+    <tr>
+      <td>Week 9</td>
+      <td>Buffer week to finish up presentation and documentation</td>
+    </tr>
+    </tbody>
+    </table>
+</div>
+
+:ET
