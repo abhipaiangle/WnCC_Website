@@ -1,0 +1,134 @@
+I"�<h2 class="display1 m-3 p-3 text-center">Competitive coding</h2>
+
+<div>
+    <img src="/assets/images/soc/item-18.png" width="300" height="300" alt="" class="border rounded img-soc" />
+</div>
+<div>
+    <br />
+    <ul>
+        
+        <li><h4 class="text-primary text-center">Competitive Coding</h4></li>
+        
+    </ul>
+    <br />
+    <h4 class="display3  ">Mentors :</h4> 
+    <ul>
+        
+        <li><h5 class=" ">Pratyush Agrawal</h5></li>
+        
+        <li><h5 class=" ">Srijan Karn</h5></li>
+        
+        <li><h5 class=" ">Yash Gupta</h5></li>
+        
+    </ul>
+    <h4 class="display3  ">Mentees :</h4> 
+    <ul>
+        
+        <li><h5 class="">Akshat Gautam</h5></li>
+        
+        <li><h5 class="">Aniket Agrawal</h5></li>
+        
+        <li><h5 class="">Devak Sinha</h5></li>
+        
+        <li><h5 class="">Harsh Vinayak Borkar</h5></li>
+        
+        <li><h5 class="">Himanshu Wakode</h5></li>
+        
+        <li><h5 class="">Hiren Bavaskar</h5></li>
+        
+        <li><h5 class="">Janeel Patel</h5></li>
+        
+        <li><h5 class="">karthikeya reddy konda</h5></li>
+        
+        <li><h5 class="">Kunal Chhabra</h5></li>
+        
+        <li><h5 class="">Nilesh Sonune</h5></li>
+        
+        <li><h5 class="">Payal Choudhary</h5></li>
+        
+        <li><h5 class="">Prajwal Patil</h5></li>
+        
+        <li><h5 class="">Prajwal Singh</h5></li>
+        
+        <li><h5 class="">Prateek Chauhan</h5></li>
+        
+        <li><h5 class="">Raja Gond</h5></li>
+        
+        <li><h5 class="">Rishav Ranjan</h5></li>
+        
+        <li><h5 class="">Ruchir Chheda</h5></li>
+        
+        <li><h5 class="">Sahasra Ranjan</h5></li>
+        
+        <li><h5 class="">Shivang Tiwari</h5></li>
+        
+        <li><h5 class="">Sidharth Mundhra</h5></li>
+        
+        <li><h5 class="">Tamoghno Kandar</h5></li>
+        
+        <li><h5 class="">Vrinda Jindal</h5></li>
+        
+        <li><h5 class="">Manan Agarwal</h5></li>
+        
+    </ul>
+</div>
+<div>
+    <p class="display3" style="font-size:20px;">
+        <br />
+        Get started with competitive coding!
+        <br /><br />
+        This project is aimed towards people who want to better themselves in the sport of competitive programming. The plan during the summers would be to get people familiar with standard data structures and algorithms. Apart from this the project would require the mentees to give a good amount of time to practice problems on various online judges like Codeforces, Codechef, SPOJ etc.
+        <br /><br />
+        <strong>Proposal</strong>
+        <br />
+        Mention your familiarity with C++ and algorithms in the proposal. Also if you already practice on some online judge like codechef, codeforces, hackerearth, do provide the link to your profile on those judges. If active on GitHub, provide link for that too. Also mention what other activities you are taking up in the summer and how much time you will be able to devote per week for SOC.
+        
+    </p>
+</div>
+<div>
+    <h4 class="display3" style="margin:40px 0px 40px 0px;">Tentative Timeline :</h4>
+    <table class="table table-striped">
+    <thead>
+        <tr>
+        <th>Week</th>
+        <th>Work</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+        <td style="width: 120px">Week 1</td>
+      <td>C++ revision and STL</td>
+    </tr>
+    <tr>
+      <td>Week 2</td>
+      <td>Sorting, binary search</td>
+    </tr>
+    <tr>
+      <td>Week 3</td>
+      <td>Greedy algorithms, exchange arguments</td>
+    </tr>
+    <tr>
+      <td>Week 4</td>
+      <td>Binary exponentiation, sieve, modular arithmetic, Fermat’s theorem</td>
+    </tr>
+    <tr>
+      <td>Week 5</td>
+      <td>Dynamic programming(basic)</td>
+    </tr>
+    <tr>
+      <td>Week 6</td>
+      <td>Dynamic programming(advanced)</td>
+    </tr>
+    <tr>
+      <td>Week 7</td>
+      <td>Graph representation, BFS, DFS</td>
+    </tr>
+    <tr>
+      <td>Week 8</td>
+      <td>Dijkstra’s algorithm</td>
+    </tr>
+    </tbody>
+    </table>
+</div>
+
+:ET
