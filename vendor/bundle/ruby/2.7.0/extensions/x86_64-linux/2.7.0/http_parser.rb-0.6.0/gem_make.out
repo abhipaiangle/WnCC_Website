@@ -1,5 +1,5 @@
 current directory: /home/ath/Git/wncc-website.github.io/vendor/bundle/ruby/2.7.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
-/usr/bin/ruby2.7 -I /usr/lib/ruby/2.7.0 -r ./siteconf20201018-6223-h08dre.rb extconf.rb
+/usr/bin/ruby2.7 -I /usr/lib/ruby/2.7.0 -r ./siteconf20201018-26350-19iydqa.rb extconf.rb
 creating Makefile
 
 current directory: /home/ath/Git/wncc-website.github.io/vendor/bundle/ruby/2.7.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
@@ -13,4 +13,4 @@ linking shared-object ruby_http_parser.so
 
 current directory: /home/ath/Git/wncc-website.github.io/vendor/bundle/ruby/2.7.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
 make "DESTDIR=" install
-/usr/bin/install -c -m 0755 ruby_http_parser.so ./.gem.20201018-6223-flhv2i
+/usr/bin/install -c -m 0755 ruby_http_parser.so ./.gem.20201018-26350-x1cssd
